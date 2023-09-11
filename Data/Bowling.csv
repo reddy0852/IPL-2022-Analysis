@@ -1,0 +1,858 @@
+,Match ID,Match,Team,Bowler Name,Player ID,Overs,Made INs,Runs,Wickets,Economy Rate,Dots,4s,6s,Wides,No Balls
+0,1304047,Super Kings Vs KKR,KKR,Umesh Yadav,376116,4,0,20,2,5.00,15,1,1,2,1
+1,1304047,Super Kings Vs KKR,KKR,Shivam Mavi,1079848,4,0,35,0,8.75,12,3,2,1,1
+2,1304047,Super Kings Vs KKR,KKR,Varun Chakravarthy,1108375,4,0,23,1,5.75,11,1,1,1,0
+3,1304047,Super Kings Vs KKR,KKR,Sunil Narine,230558,4,0,15,0,3.75,10,0,0,0,0
+4,1304047,Super Kings Vs KKR,KKR,Andre Russell,276298,4,0,38,1,9.50,7,5,1,0,0
+5,1304047,Super Kings Vs KKR,Super Kings,Tushar Deshpande,822553,3,0,23,0,7.66,9,4,0,0,0
+6,1304047,Super Kings Vs KKR,Super Kings,Adam Milne,450860,2.3,0,19,0,7.60,9,2,1,0,0
+7,1304047,Super Kings Vs KKR,Super Kings,Mitchell Santner,502714,4,0,31,1,7.75,5,1,1,0,0
+8,1304047,Super Kings Vs KKR,Super Kings,Dwayne Bravo,51439,4,0,20,3,5.00,11,2,0,0,0
+9,1304047,Super Kings Vs KKR,Super Kings,Shivam Dube,714451,1,0,11,0,11.00,1,2,0,0,0
+10,1304047,Super Kings Vs KKR,Super Kings,Ravindra Jadeja,234675,4,0,25,0,6.25,8,1,1,0,0
+11,1304048,Mumbai Vs Capitals,Capitals,Shardul Thakur,475281,4,0,47,0,11.75,8,3,4,1,0
+12,1304048,Mumbai Vs Capitals,Capitals,Khaleel Ahmed,942645,4,0,27,2,6.75,13,5,0,0,0
+13,1304048,Mumbai Vs Capitals,Capitals,Axar Patel,554691,4,0,40,0,10.00,3,4,1,0,0
+14,1304048,Mumbai Vs Capitals,Capitals,Kamlesh Nagarkoti,1070188,2,0,29,0,14.50,4,5,1,1,0
+15,1304048,Mumbai Vs Capitals,Capitals,Kuldeep Yadav,559235,4,0,18,3,4.50,8,0,0,0,0
+16,1304048,Mumbai Vs Capitals,Capitals,Lalit Yadav,930189,2,0,15,0,7.50,2,1,0,0,0
+17,1304048,Mumbai Vs Capitals,Mumbai,Daniel Sams,826901,4,0,57,0,14.25,4,6,3,2,0
+18,1304048,Mumbai Vs Capitals,Mumbai,Jasprit Bumrah,625383,3.2,0,43,0,12.90,4,7,1,0,0
+19,1304048,Mumbai Vs Capitals,Mumbai,Basil Thampi,732291,4,0,35,3,8.75,11,2,2,3,0
+20,1304048,Mumbai Vs Capitals,Mumbai,Murugan Ashwin,528067,4,0,14,2,3.50,14,1,0,0,0
+21,1304048,Mumbai Vs Capitals,Mumbai,Tymal Mills,459257,3,0,26,1,8.66,6,2,1,2,0
+22,1304049,RCB Vs Punjab Kings,Punjab Kings,Sandeep Sharma,438362,4,0,37,0,9.25,10,4,2,0,0
+23,1304049,RCB Vs Punjab Kings,Punjab Kings,Arshdeep Singh,1125976,4,0,31,1,7.75,11,0,2,3,0
+24,1304049,RCB Vs Punjab Kings,Punjab Kings,Odean Smith,820691,4,0,52,0,13.00,9,5,4,1,0
+25,1304049,RCB Vs Punjab Kings,Punjab Kings,Rahul Chahar,1064812,4,0,22,1,5.50,8,0,0,1,0
+26,1304049,RCB Vs Punjab Kings,Punjab Kings,Harpreet Brar,1168641,3,0,38,0,12.66,5,0,4,1,0
+27,1304049,RCB Vs Punjab Kings,Punjab Kings,Liam Livingstone,403902,1,0,14,0,14.00,1,0,1,1,0
+28,1304049,RCB Vs Punjab Kings,RCB,David Willey,308251,3,0,28,0,9.33,5,3,1,0,0
+29,1304049,RCB Vs Punjab Kings,RCB,Mohammed Siraj,940973,4,0,59,2,14.75,9,3,4,6,0
+30,1304049,RCB Vs Punjab Kings,RCB,Shahbaz Ahmed,1159711,1,0,6,0,6.00,3,1,0,0,0
+31,1304049,RCB Vs Punjab Kings,RCB,Akash Deep,1176959,3,0,38,1,12.66,4,2,3,0,0
+32,1304049,RCB Vs Punjab Kings,RCB,Wanindu Hasaranga de Silva,784379,4,0,40,1,10.00,10,1,4,1,0
+33,1304049,RCB Vs Punjab Kings,RCB,Harshal Patel,390481,4,0,36,1,9.00,10,1,2,5,0
+34,1304050,Super Giants Vs Titans,Titans,Mohammed Shami,481896,4,0,25,3,6.25,13,4,0,0,0
+35,1304050,Super Giants Vs Titans,Titans,Varun Aaron,360911,4,0,45,2,11.25,5,6,1,3,0
+36,1304050,Super Giants Vs Titans,Titans,Lockie Ferguson,493773,4,0,24,0,6.00,11,1,1,1,0
+37,1304050,Super Giants Vs Titans,Titans,Hardik Pandya,625371,4,0,37,0,9.25,10,6,1,0,0
+38,1304050,Super Giants Vs Titans,Titans,Rashid Khan,793463,4,0,27,1,6.75,8,0,2,0,0
+39,1304050,Super Giants Vs Titans,Super Giants,Dushmantha Chameera,552152,3,0,22,2,7.33,11,4,0,1,0
+40,1304050,Super Giants Vs Titans,Super Giants,Avesh Khan,694211,3.4,0,33,1,9.00,10,5,1,0,0
+41,1304050,Super Giants Vs Titans,Super Giants,Mohsin Khan,1132005,2,0,18,0,9.00,4,3,0,0,0
+42,1304050,Super Giants Vs Titans,Super Giants,Ravi Bishnoi,1175441,4,0,34,0,8.50,11,3,2,2,0
+43,1304050,Super Giants Vs Titans,Super Giants,Krunal Pandya,471342,4,0,17,1,4.25,12,1,0,0,0
+44,1304050,Super Giants Vs Titans,Super Giants,Deepak Hooda,497121,3,0,31,1,10.33,3,2,2,0,0
+45,1304051,Royals Vs Sunrisers,Sunrisers,Bhuvneshwar Kumar,326016,4,0,29,1,7.25,14,2,2,1,2
+46,1304051,Royals Vs Sunrisers,Sunrisers,Romario Shepherd,677077,4,0,33,1,8.25,12,3,2,1,0
+47,1304051,Royals Vs Sunrisers,Sunrisers,Umran Malik,1246528,4,0,39,2,9.75,12,4,2,2,1
+48,1304051,Royals Vs Sunrisers,Sunrisers,Washington Sundar,719715,3,0,47,0,15.66,3,1,5,0,1
+49,1304051,Royals Vs Sunrisers,Sunrisers,T Natarajan,802575,4,0,43,2,10.75,8,5,2,2,0
+50,1304051,Royals Vs Sunrisers,Sunrisers,Abhishek Sharma,1070183,1,0,15,0,15.00,1,1,1,0,0
+51,1304051,Royals Vs Sunrisers,Royals,Trent Boult,277912,4,1,23,2,5.75,16,2,1,3,0
+52,1304051,Royals Vs Sunrisers,Royals,Prasidh Krishna,917159,4,1,16,2,4.00,16,1,1,0,0
+53,1304051,Royals Vs Sunrisers,Royals,Nathan Coulter-Nile,261354,3,0,48,0,16.00,4,5,3,1,1
+54,1304051,Royals Vs Sunrisers,Royals,Ravichandran Ashwin,26421,4,0,21,0,5.25,8,1,0,0,0
+55,1304051,Royals Vs Sunrisers,Royals,Yuzvendra Chahal,430246,4,0,22,3,5.50,8,1,0,0,0
+56,1304051,Royals Vs Sunrisers,Royals,Riyan Parag,1079434,1,0,14,0,14.00,0,1,1,0,0
+57,1304052,KKR Vs RCB,RCB,David Willey,308251,2,0,7,0,3.50,6,0,0,0,0
+58,1304052,KKR Vs RCB,RCB,Mohammed Siraj,940973,4,0,25,1,6.25,13,4,0,0,0
+59,1304052,KKR Vs RCB,RCB,Akash Deep,1176959,3.5,0,45,3,11.73,10,5,3,0,1
+60,1304052,KKR Vs RCB,RCB,Wanindu Hasaranga de Silva,784379,4,0,20,4,5.00,15,0,2,0,0
+61,1304052,KKR Vs RCB,RCB,Harshal Patel,390481,4,2,11,2,2.75,19,2,0,0,0
+62,1304052,KKR Vs RCB,RCB,Shahbaz Ahmed,1159711,1,0,16,0,16.00,2,0,2,1,0
+63,1304052,KKR Vs RCB,KKR,Umesh Yadav,376116,4,0,16,2,4.00,14,2,0,0,0
+64,1304052,KKR Vs RCB,KKR,Tim Southee,232364,4,0,20,3,5.00,16,2,0,2,0
+65,1304052,KKR Vs RCB,KKR,Andre Russell,276298,2.2,0,36,0,15.42,6,2,3,1,1
+66,1304052,KKR Vs RCB,KKR,Sunil Narine,230558,4,0,12,1,3.00,13,0,0,0,0
+67,1304052,KKR Vs RCB,KKR,Varun Chakravarthy,1108375,4,0,33,1,8.25,11,3,2,1,0
+68,1304052,KKR Vs RCB,KKR,Venkatesh Iyer,851403,1,0,10,0,10.00,2,2,0,0,0
+69,1304053,Super Kings Vs Super Giants,Super Giants,Avesh Khan,694211,4,0,38,2,9.50,12,5,2,0,0
+70,1304053,Super Kings Vs Super Giants,Super Giants,Dushmantha Chameera,552152,4,0,49,0,12.25,6,6,2,1,0
+71,1304053,Super Kings Vs Super Giants,Super Giants,Andrew Tye,459508,4,0,40,2,10.00,10,6,1,1,0
+72,1304053,Super Kings Vs Super Giants,Super Giants,Krunal Pandya,471342,3,0,36,0,12.00,3,3,2,1,0
+73,1304053,Super Kings Vs Super Giants,Super Giants,Ravi Bishnoi,1175441,4,0,24,2,6.00,11,3,0,0,0
+74,1304053,Super Kings Vs Super Giants,Super Giants,Deepak Hooda,497121,1,0,12,0,12.00,2,1,1,0,0
+75,1304053,Super Kings Vs Super Giants,Super Kings,Mukesh Choudhary,1125688,3.3,0,39,0,11.14,8,4,2,3,0
+76,1304053,Super Kings Vs Super Giants,Super Kings,Tushar Deshpande,822553,4,0,40,1,10.00,9,6,1,1,0
+77,1304053,Super Kings Vs Super Giants,Super Kings,Dwayne Bravo,51439,4,0,35,1,8.75,6,2,1,3,0
+78,1304053,Super Kings Vs Super Giants,Super Kings,Ravindra Jadeja,234675,2,0,21,0,10.50,3,2,1,0,0
+79,1304053,Super Kings Vs Super Giants,Super Kings,Moeen Ali,8917,1,0,14,0,14.00,1,1,1,0,0
+80,1304053,Super Kings Vs Super Giants,Super Kings,Dwaine Pretorius,327830,4,0,31,2,7.75,9,1,1,3,0
+81,1304053,Super Kings Vs Super Giants,Super Kings,Shivam Dube,714451,1,0,25,0,25.00,0,2,2,2,0
+82,1304054,Punjab Kings Vs KKR,KKR,Umesh Yadav,376116,4,1,23,4,5.75,13,2,1,0,1
+83,1304054,Punjab Kings Vs KKR,KKR,Tim Southee,232364,4,0,36,2,9.00,14,5,2,0,1
+84,1304054,Punjab Kings Vs KKR,KKR,Shivam Mavi,1079848,2,0,39,1,19.50,4,3,4,2,0
+85,1304054,Punjab Kings Vs KKR,KKR,Varun Chakravarthy,1108375,4,0,14,0,3.50,14,0,0,2,0
+86,1304054,Punjab Kings Vs KKR,KKR,Sunil Narine,230558,4,0,23,1,5.75,13,1,1,2,0
+87,1304054,Punjab Kings Vs KKR,KKR,Andre Russell,276298,0.2,0,0,1,0.00,2,0,0,0,0
+88,1304054,Punjab Kings Vs KKR,Punjab Kings,Arshdeep Singh,1125976,3,0,32,0,10.66,9,5,1,0,1
+89,1304054,Punjab Kings Vs KKR,Punjab Kings,Kagiso Rabada,550215,3,0,23,1,7.66,8,3,0,1,0
+90,1304054,Punjab Kings Vs KKR,Punjab Kings,Odean Smith,820691,2,0,39,1,19.50,4,3,4,0,1
+91,1304054,Punjab Kings Vs KKR,Punjab Kings,Rahul Chahar,1064812,4,1,13,2,3.25,13,0,0,1,0
+92,1304054,Punjab Kings Vs KKR,Punjab Kings,Harpreet Brar,1168641,2,0,20,0,10.00,4,0,2,1,0
+93,1304054,Punjab Kings Vs KKR,Punjab Kings,Liam Livingstone,403902,0.3,0,13,0,26.00,0,0,2,0,0
+94,1304055,Royals Vs Mumbai,Mumbai,Jasprit Bumrah,625383,4,0,17,3,4.25,16,3,0,0,0
+95,1304055,Royals Vs Mumbai,Mumbai,Daniel Sams,826901,4,0,32,0,8.00,10,2,2,2,0
+96,1304055,Royals Vs Mumbai,Mumbai,Basil Thampi,732291,1,0,26,0,26.00,1,2,3,0,0
+97,1304055,Royals Vs Mumbai,Mumbai,Murugan Ashwin,528067,3,0,32,0,10.66,6,2,2,3,0
+98,1304055,Royals Vs Mumbai,Mumbai,Tymal Mills,459257,4,0,35,3,8.75,10,3,2,0,0
+99,1304055,Royals Vs Mumbai,Mumbai,Kieron Pollard,230559,4,0,46,1,11.50,5,5,2,1,0
+100,1304055,Royals Vs Mumbai,Royals,Trent Boult,277912,4,0,29,1,7.25,11,3,1,1,0
+101,1304055,Royals Vs Mumbai,Royals,Prasidh Krishna,917159,4,0,37,1,9.25,13,4,1,5,1
+102,1304055,Royals Vs Mumbai,Royals,Navdeep Saini,700167,3,0,36,2,12.00,8,4,2,1,1
+103,1304055,Royals Vs Mumbai,Royals,Ravichandran Ashwin,26421,4,0,30,1,7.50,6,0,2,0,0
+104,1304055,Royals Vs Mumbai,Royals,Yuzvendra Chahal,430246,4,0,26,2,6.50,11,2,1,1,0
+105,1304055,Royals Vs Mumbai,Royals,Riyan Parag,1079434,1,0,11,0,11.00,1,0,1,0,0
+106,1304056,Titans Vs Capitals,Capitals,Mustafizur Rahman,330902,4,0,23,3,5.75,7,1,0,1,0
+107,1304056,Titans Vs Capitals,Capitals,Shardul Thakur,475281,4,0,42,0,10.50,6,4,1,2,1
+108,1304056,Titans Vs Capitals,Capitals,Khaleel Ahmed,942645,4,0,34,2,8.50,7,5,0,0,0
+109,1304056,Titans Vs Capitals,Capitals,Axar Patel,554691,4,0,37,0,9.25,7,1,3,0,0
+110,1304056,Titans Vs Capitals,Capitals,Kuldeep Yadav,559235,4,0,32,1,8.00,10,3,1,0,0
+111,1304056,Titans Vs Capitals,Titans,Mohammed Shami,481896,4,0,30,2,7.50,10,5,0,0,0
+112,1304056,Titans Vs Capitals,Titans,Hardik Pandya,625371,4,0,22,1,5.50,11,2,0,0,0
+113,1304056,Titans Vs Capitals,Titans,Lockie Ferguson,493773,4,0,28,4,7.00,12,5,0,1,0
+114,1304056,Titans Vs Capitals,Titans,Rashid Khan,793463,4,0,30,1,7.50,9,1,1,1,0
+115,1304056,Titans Vs Capitals,Titans,Varun Aaron,360911,1,0,7,0,7.00,2,1,0,0,0
+116,1304056,Titans Vs Capitals,Titans,Vijay Shankar,477021,1,0,14,0,14.00,2,3,0,1,0
+117,1304056,Titans Vs Capitals,Titans,Rahul Tewatia,423838,2,0,22,0,11.00,3,1,2,0,0
+118,1304057,Punjab Kings Vs Super Kings,Super Kings,Mukesh Choudhary,1125688,4,0,52,1,13.00,11,5,4,3,0
+119,1304057,Punjab Kings Vs Super Kings,Super Kings,Chris Jordan,288992,4,0,23,2,5.75,12,0,1,1,0
+120,1304057,Punjab Kings Vs Super Kings,Super Kings,Dwayne Bravo,51439,3,0,32,1,10.66,8,3,2,2,0
+121,1304057,Punjab Kings Vs Super Kings,Super Kings,Ravindra Jadeja,234675,4,0,34,1,8.50,10,2,2,3,0
+122,1304057,Punjab Kings Vs Super Kings,Super Kings,Dwaine Pretorius,327830,4,0,30,2,7.50,11,2,1,4,0
+123,1304057,Punjab Kings Vs Super Kings,Super Kings,Moeen Ali,8917,1,0,8,0,8.00,3,0,1,0,0
+124,1304057,Punjab Kings Vs Super Kings,Punjab Kings,Vaibhav Arora,1209292,4,0,21,2,5.25,14,3,0,1,0
+125,1304057,Punjab Kings Vs Super Kings,Punjab Kings,Kagiso Rabada,550215,3,0,28,1,9.33,11,2,2,0,2
+126,1304057,Punjab Kings Vs Super Kings,Punjab Kings,Arshdeep Singh,1125976,2,0,13,1,6.50,5,2,0,0,0
+127,1304057,Punjab Kings Vs Super Kings,Punjab Kings,Odean Smith,820691,2,0,14,1,7.00,6,1,1,0,0
+128,1304057,Punjab Kings Vs Super Kings,Punjab Kings,Rahul Chahar,1064812,4,0,25,3,6.25,9,1,1,0,0
+129,1304057,Punjab Kings Vs Super Kings,Punjab Kings,Liam Livingstone,403902,3,0,25,2,8.33,7,2,1,1,0
+130,1304058,Super Giants Vs Sunrisers,Sunrisers,Bhuvneshwar Kumar,326016,4,0,25,0,6.25,7,1,0,0,0
+131,1304058,Super Giants Vs Sunrisers,Sunrisers,Washington Sundar,719715,4,0,28,2,7.00,10,3,1,0,0
+132,1304058,Super Giants Vs Sunrisers,Sunrisers,Romario Shepherd,677077,4,0,42,2,10.50,10,3,3,1,0
+133,1304058,Super Giants Vs Sunrisers,Sunrisers,Umran Malik,1246528,3,0,39,0,13.00,4,5,2,0,0
+134,1304058,Super Giants Vs Sunrisers,Sunrisers,Abdul Samad,1175485,1,0,8,0,8.00,1,1,0,0,0
+135,1304058,Super Giants Vs Sunrisers,Sunrisers,T Natarajan,802575,4,0,26,2,6.50,6,1,0,0,0
+136,1304058,Super Giants Vs Sunrisers,Super Giants,Jason Holder,391485,4,0,34,3,8.50,8,3,1,2,0
+137,1304058,Super Giants Vs Sunrisers,Super Giants,Krunal Pandya,471342,4,0,27,2,6.75,8,0,2,0,0
+138,1304058,Super Giants Vs Sunrisers,Super Giants,Avesh Khan,694211,4,0,24,4,6.00,15,2,1,1,0
+139,1304058,Super Giants Vs Sunrisers,Super Giants,Andrew Tye,459508,4,0,39,0,9.75,6,5,1,1,0
+140,1304058,Super Giants Vs Sunrisers,Super Giants,Ravi Bishnoi,1175441,4,0,29,0,7.25,5,2,0,1,1
+141,1304059,Royals Vs RCB,RCB,Mohammed Siraj,940973,4,0,43,0,10.75,8,1,4,2,0
+142,1304059,Royals Vs RCB,RCB,David Willey,308251,4,0,29,1,7.25,8,2,1,0,0
+143,1304059,Royals Vs RCB,RCB,Akash Deep,1176959,4,0,44,0,11.00,6,0,4,0,1
+144,1304059,Royals Vs RCB,RCB,Wanindu Hasaranga de Silva,784379,4,0,32,1,8.00,10,2,2,0,0
+145,1304059,Royals Vs RCB,RCB,Harshal Patel,390481,4,0,18,1,4.50,11,1,0,2,0
+146,1304059,Royals Vs RCB,Royals,Trent Boult,277912,4,0,34,2,8.50,9,4,1,0,0
+147,1304059,Royals Vs RCB,Royals,Prasidh Krishna,917159,4,0,40,0,10.00,9,6,1,2,0
+148,1304059,Royals Vs RCB,Royals,Ravichandran Ashwin,26421,4,0,39,0,9.75,10,5,1,3,1
+149,1304059,Royals Vs RCB,Royals,Yuzvendra Chahal,430246,4,0,15,2,3.75,12,1,0,0,0
+150,1304059,Royals Vs RCB,Royals,Navdeep Saini,700167,3,0,36,1,12.00,2,4,1,1,0
+151,1304059,Royals Vs RCB,Royals,Yashasvi Jaiswal,1151278,0.1,0,6,0,36.00,0,0,1,0,0
+152,1304060,Mumbai Vs KKR,KKR,Umesh Yadav,376116,4,0,25,1,6.25,12,2,1,0,0
+153,1304060,Mumbai Vs KKR,KKR,Rasikh Salam,1161489,3,0,18,0,6.00,6,2,0,0,0
+154,1304060,Mumbai Vs KKR,KKR,Pat Cummins,489889,4,0,49,2,12.25,9,2,5,1,0
+155,1304060,Mumbai Vs KKR,KKR,Sunil Narine,230558,4,0,26,0,6.50,8,1,1,0,0
+156,1304060,Mumbai Vs KKR,KKR,Varun Chakravarthy,1108375,4,0,32,1,8.00,8,2,2,0,0
+157,1304060,Mumbai Vs KKR,KKR,Andre Russell,276298,1,0,9,0,9.00,3,2,0,0,0
+158,1304060,Mumbai Vs KKR,Mumbai,Basil Thampi,732291,3,0,15,0,5.00,11,1,1,0,0
+159,1304060,Mumbai Vs KKR,Mumbai,Daniel Sams,826901,3,0,50,1,16.66,4,4,4,0,1
+160,1304060,Mumbai Vs KKR,Mumbai,Jasprit Bumrah,625383,3,0,26,0,8.66,7,3,1,0,0
+161,1304060,Mumbai Vs KKR,Mumbai,Tymal Mills,459257,3,0,38,2,12.66,5,4,2,0,0
+162,1304060,Mumbai Vs KKR,Mumbai,Tilak Varma,1170265,1,0,6,0,6.00,3,1,0,0,0
+163,1304060,Mumbai Vs KKR,Mumbai,Murugan Ashwin,528067,3,0,25,2,8.33,8,0,3,0,0
+164,1304061,Capitals Vs Super Giants,Super Giants,Jason Holder,391485,4,0,30,0,7.50,8,1,1,3,0
+165,1304061,Capitals Vs Super Giants,Super Giants,Krishnappa Gowtham,424377,4,1,23,1,5.75,15,3,1,0,0
+166,1304061,Capitals Vs Super Giants,Super Giants,Avesh Khan,694211,3,0,32,0,10.66,5,6,0,0,0
+167,1304061,Capitals Vs Super Giants,Super Giants,Ravi Bishnoi,1175441,4,0,22,2,5.50,12,3,0,0,0
+168,1304061,Capitals Vs Super Giants,Super Giants,Andrew Tye,459508,3,0,28,0,9.33,8,2,2,1,0
+169,1304061,Capitals Vs Super Giants,Super Giants,Krunal Pandya,471342,2,0,12,0,6.00,2,0,0,0,0
+170,1304061,Capitals Vs Super Giants,Capitals,Mustafizur Rahman,330902,4,0,26,0,6.50,8,0,1,2,0
+171,1304061,Capitals Vs Super Giants,Capitals,Lalit Yadav,930189,4,0,21,1,5.25,10,1,0,0,0
+172,1304061,Capitals Vs Super Giants,Capitals,Shardul Thakur,475281,3.4,0,29,1,7.90,9,3,1,0,0
+173,1304061,Capitals Vs Super Giants,Capitals,Anrich Nortje,481979,2.2,0,35,0,15.00,2,3,2,0,2
+174,1304061,Capitals Vs Super Giants,Capitals,Axar Patel,554691,2,0,11,0,5.50,5,1,0,0,0
+175,1304061,Capitals Vs Super Giants,Capitals,Kuldeep Yadav,559235,3.4,0,31,2,8.45,6,3,1,0,0
+176,1304062,Punjab Kings Vs Titans,Titans,Mohammed Shami,481896,4,0,36,1,9.00,11,4,2,0,0
+177,1304062,Punjab Kings Vs Titans,Titans,Hardik Pandya,625371,4,0,36,1,9.00,10,4,1,1,0
+178,1304062,Punjab Kings Vs Titans,Titans,Lockie Ferguson,493773,4,0,33,1,8.25,10,5,0,1,0
+179,1304062,Punjab Kings Vs Titans,Titans,Rashid Khan,793463,4,0,22,3,5.50,10,0,1,0,0
+180,1304062,Punjab Kings Vs Titans,Titans,Darshan Nalkande,1111917,3,0,37,2,12.33,4,4,2,1,0
+181,1304062,Punjab Kings Vs Titans,Titans,Rahul Tewatia,423838,1,0,24,0,24.00,0,1,3,0,0
+182,1304062,Punjab Kings Vs Titans,Punjab Kings,Vaibhav Arora,1209292,4,0,34,0,8.50,5,5,0,0,0
+183,1304062,Punjab Kings Vs Titans,Punjab Kings,Arshdeep Singh,1125976,4,0,31,0,7.75,10,5,0,1,0
+184,1304062,Punjab Kings Vs Titans,Punjab Kings,Kagiso Rabada,550215,4,0,35,2,8.75,7,5,0,0,1
+185,1304062,Punjab Kings Vs Titans,Punjab Kings,Rahul Chahar,1064812,4,0,41,1,10.25,6,3,1,1,0
+186,1304062,Punjab Kings Vs Titans,Punjab Kings,Odean Smith,820691,3,0,35,0,11.66,5,2,3,1,0
+187,1304062,Punjab Kings Vs Titans,Punjab Kings,Liam Livingstone,403902,1,0,12,0,12.00,1,2,0,0,0
+188,1304063,Super Kings Vs Sunrisers,Sunrisers,Bhuvneshwar Kumar,326016,4,0,36,1,9.00,9,3,0,4,0
+189,1304063,Super Kings Vs Sunrisers,Sunrisers,Marco Jansen,696401,4,0,30,1,7.50,11,4,0,0,0
+190,1304063,Super Kings Vs Sunrisers,Sunrisers,Washington Sundar,719715,4,0,21,2,5.25,7,1,0,0,0
+191,1304063,Super Kings Vs Sunrisers,Sunrisers,T Natarajan,802575,4,0,30,2,7.50,6,2,1,1,0
+192,1304063,Super Kings Vs Sunrisers,Sunrisers,Umran Malik,1246528,3,0,29,0,9.66,8,4,1,0,0
+193,1304063,Super Kings Vs Sunrisers,Sunrisers,Aiden Markram,600498,1,0,8,1,8.00,3,0,1,0,0
+194,1304063,Super Kings Vs Sunrisers,Super Kings,Mukesh Choudhary,1125688,4,0,30,1,7.50,11,2,2,0,0
+195,1304063,Super Kings Vs Sunrisers,Super Kings,Maheesh Theekshana,1138316,4,0,31,0,7.75,8,3,1,0,0
+196,1304063,Super Kings Vs Sunrisers,Super Kings,Chris Jordan,288992,3,0,34,0,11.33,5,3,2,0,1
+197,1304063,Super Kings Vs Sunrisers,Super Kings,Ravindra Jadeja,234675,3,0,21,0,7.00,4,1,0,0,0
+198,1304063,Super Kings Vs Sunrisers,Super Kings,Moeen Ali,8917,1,0,10,0,10.00,1,0,1,0,0
+199,1304063,Super Kings Vs Sunrisers,Super Kings,Dwayne Bravo,51439,2.4,0,29,1,10.87,4,4,0,3,0
+200,1304064,Mumbai Vs RCB,RCB,David Willey,308251,2,0,8,0,4.00,8,1,0,0,0
+201,1304064,Mumbai Vs RCB,RCB,Mohammed Siraj,940973,4,0,51,0,12.75,10,3,4,1,1
+202,1304064,Mumbai Vs RCB,RCB,Wanindu Hasaranga de Silva,784379,4,0,28,2,7.00,10,3,1,0,0
+203,1304064,Mumbai Vs RCB,RCB,Akash Deep,1176959,4,1,20,1,5.00,14,3,0,0,0
+204,1304064,Mumbai Vs RCB,RCB,Harshal Patel,390481,4,0,23,2,5.75,14,2,1,0,0
+205,1304064,Mumbai Vs RCB,RCB,Shahbaz Ahmed,1159711,2,0,19,0,9.50,4,2,1,0,0
+206,1304064,Mumbai Vs RCB,Mumbai,Basil Thampi,732291,4,1,29,0,7.25,11,3,1,1,0
+207,1304064,Mumbai Vs RCB,Mumbai,Jaydev Unadkat,390484,4,0,30,1,7.50,10,0,3,0,0
+208,1304064,Mumbai Vs RCB,Mumbai,Jasprit Bumrah,625383,4,0,31,0,7.75,8,1,1,0,0
+209,1304064,Mumbai Vs RCB,Mumbai,Murugan Ashwin,528067,3,0,26,0,8.66,8,3,1,1,0
+210,1304064,Mumbai Vs RCB,Mumbai,Kieron Pollard,230559,3,0,24,0,8.00,3,1,1,1,0
+211,1304064,Mumbai Vs RCB,Mumbai,Dewald Brevis,1070665,0.3,0,8,1,16.00,1,2,0,0,0
+212,1304065,Capitals Vs KKR,KKR,Umesh Yadav,376116,4,0,48,1,12.00,8,5,3,0,1
+213,1304065,Capitals Vs KKR,KKR,Rasikh Salam,1161489,1,0,10,0,10.00,2,2,0,0,0
+214,1304065,Capitals Vs KKR,KKR,Pat Cummins,489889,4,0,51,0,12.75,5,4,3,2,0
+215,1304065,Capitals Vs KKR,KKR,Varun Chakravarthy,1108375,4,0,44,1,11.00,8,3,3,0,2
+216,1304065,Capitals Vs KKR,KKR,Sunil Narine,230558,4,0,21,2,5.25,12,3,0,0,0
+217,1304065,Capitals Vs KKR,KKR,Andre Russell,276298,2,0,16,1,8.00,3,0,1,0,0
+218,1304065,Capitals Vs KKR,KKR,Venkatesh Iyer,851403,1,0,14,0,14.00,0,1,1,0,0
+219,1304065,Capitals Vs KKR,Capitals,Mustafizur Rahman,330902,4,0,21,0,5.25,13,2,0,0,0
+220,1304065,Capitals Vs KKR,Capitals,Shardul Thakur,475281,2.4,0,30,2,11.25,5,3,2,0,0
+221,1304065,Capitals Vs KKR,Capitals,Khaleel Ahmed,942645,4,0,25,3,6.25,13,4,0,0,0
+222,1304065,Capitals Vs KKR,Capitals,Axar Patel,554691,3,0,32,0,10.66,4,2,2,0,0
+223,1304065,Capitals Vs KKR,Capitals,Kuldeep Yadav,559235,4,0,35,4,8.75,8,2,2,2,0
+224,1304065,Capitals Vs KKR,Capitals,Rovman Powell,820351,1,0,17,0,17.00,0,1,1,1,0
+225,1304065,Capitals Vs KKR,Capitals,Lalit Yadav,930189,1,0,8,1,8.00,3,0,1,0,0
+226,1304066,Royals Vs Super Giants,Super Giants,Dushmantha Chameera,552152,4,0,22,0,5.50,14,2,0,2,0
+227,1304066,Royals Vs Super Giants,Super Giants,Jason Holder,391485,4,0,50,2,12.50,9,3,5,0,0
+228,1304066,Royals Vs Super Giants,Super Giants,Ravi Bishnoi,1175441,4,0,29,0,7.25,7,3,0,3,0
+229,1304066,Royals Vs Super Giants,Super Giants,Avesh Khan,694211,4,0,31,1,7.75,9,1,2,1,0
+230,1304066,Royals Vs Super Giants,Super Giants,Krishnappa Gowtham,424377,4,0,30,2,7.50,11,0,3,0,0
+231,1304066,Royals Vs Super Giants,Royals,Trent Boult,277912,4,0,30,2,7.50,12,4,0,1,0
+232,1304066,Royals Vs Super Giants,Royals,Prasidh Krishna,917159,4,0,35,1,8.75,13,4,2,1,0
+233,1304066,Royals Vs Super Giants,Royals,Ravichandran Ashwin,26421,4,0,20,0,5.00,5,0,0,0,0
+234,1304066,Royals Vs Super Giants,Royals,Kuldeep Sen,1163695,4,0,35,1,8.75,8,2,2,0,0
+235,1304066,Royals Vs Super Giants,Royals,Yuzvendra Chahal,430246,4,0,41,4,10.25,7,3,2,2,0
+236,1304067,Titans Vs Sunrisers,Sunrisers,Bhuvneshwar Kumar,326016,4,0,37,2,9.25,10,3,0,4,0
+237,1304067,Titans Vs Sunrisers,Sunrisers,Marco Jansen,696401,4,0,27,1,6.75,8,3,0,2,0
+238,1304067,Titans Vs Sunrisers,Sunrisers,Washington Sundar,719715,3,0,14,0,4.66,7,1,0,0,0
+239,1304067,Titans Vs Sunrisers,Sunrisers,T Natarajan,802575,4,0,34,2,8.50,8,4,1,1,0
+240,1304067,Titans Vs Sunrisers,Sunrisers,Umran Malik,1246528,4,0,39,1,9.75,8,5,0,1,0
+241,1304067,Titans Vs Sunrisers,Sunrisers,Aiden Markram,600498,1,0,9,0,9.00,2,0,1,0,0
+242,1304067,Titans Vs Sunrisers,Titans,Mohammed Shami,481896,4,0,32,0,8.00,8,3,1,0,0
+243,1304067,Titans Vs Sunrisers,Titans,Hardik Pandya,625371,4,0,27,1,6.75,10,0,2,0,0
+244,1304067,Titans Vs Sunrisers,Titans,Lockie Ferguson,493773,4,0,46,0,11.50,9,6,2,2,0
+245,1304067,Titans Vs Sunrisers,Titans,Rashid Khan,793463,4,0,28,1,7.00,6,2,0,0,0
+246,1304067,Titans Vs Sunrisers,Titans,Darshan Nalkande,1111917,2.1,0,22,0,10.15,4,1,1,1,0
+247,1304067,Titans Vs Sunrisers,Titans,Rahul Tewatia,423838,1,0,10,0,10.00,1,0,1,0,0
+248,1304068,Super Kings Vs RCB,RCB,Mohammed Siraj,940973,4,0,37,0,9.25,11,4,2,0,1
+249,1304068,Super Kings Vs RCB,RCB,Josh Hazlewood,288284,4,0,33,1,8.25,12,1,3,1,0
+250,1304068,Super Kings Vs RCB,RCB,Akash Deep,1176959,4,0,58,0,14.50,6,5,4,4,0
+251,1304068,Super Kings Vs RCB,RCB,Glenn Maxwell,325026,3,0,29,0,9.66,9,0,4,0,0
+252,1304068,Super Kings Vs RCB,RCB,Shahbaz Ahmed,1159711,2,0,18,0,9.00,1,0,1,0,0
+253,1304068,Super Kings Vs RCB,RCB,Wanindu Hasaranga de Silva,784379,3,0,35,2,11.66,6,2,3,1,0
+254,1304068,Super Kings Vs RCB,Super Kings,Moeen Ali,8917,3,0,19,0,6.33,8,3,0,0,0
+255,1304068,Super Kings Vs RCB,Super Kings,Mukesh Choudhary,1125688,3,0,40,1,13.33,4,2,2,2,0
+256,1304068,Super Kings Vs RCB,Super Kings,Maheesh Theekshana,1138316,4,0,33,4,8.25,10,1,3,0,0
+257,1304068,Super Kings Vs RCB,Super Kings,Ravindra Jadeja,234675,4,0,39,3,9.75,10,4,2,0,0
+258,1304068,Super Kings Vs RCB,Super Kings,Chris Jordan,288992,2,0,20,0,10.00,2,3,0,0,0
+259,1304068,Super Kings Vs RCB,Super Kings,Dwayne Bravo,51439,4,0,42,1,10.50,6,4,0,6,1
+260,1304069,Punjab Kings Vs Mumbai,Mumbai,Basil Thampi,732291,4,0,47,2,11.75,7,3,3,2,0
+261,1304069,Punjab Kings Vs Mumbai,Mumbai,Jaydev Unadkat,390484,4,0,44,1,11.00,8,3,3,1,0
+262,1304069,Punjab Kings Vs Mumbai,Mumbai,Jasprit Bumrah,625383,4,0,28,1,7.00,6,2,0,2,0
+263,1304069,Punjab Kings Vs Mumbai,Mumbai,Murugan Ashwin,528067,4,0,34,1,8.50,7,2,2,0,0
+264,1304069,Punjab Kings Vs Mumbai,Mumbai,Tymal Mills,459257,4,0,37,0,9.25,6,4,1,2,0
+265,1304069,Punjab Kings Vs Mumbai,Punjab Kings,Vaibhav Arora,1209292,4,0,43,1,10.75,9,2,4,2,0
+266,1304069,Punjab Kings Vs Mumbai,Punjab Kings,Kagiso Rabada,550215,4,0,29,2,7.25,15,3,2,0,0
+267,1304069,Punjab Kings Vs Mumbai,Punjab Kings,Arshdeep Singh,1125976,4,0,29,0,7.25,11,2,1,0,1
+268,1304069,Punjab Kings Vs Mumbai,Punjab Kings,Odean Smith,820691,3,0,30,4,10.00,9,1,3,2,0
+269,1304069,Punjab Kings Vs Mumbai,Punjab Kings,Liam Livingstone,403902,1,0,11,0,11.00,1,2,0,0,0
+270,1304069,Punjab Kings Vs Mumbai,Punjab Kings,Rahul Chahar,1064812,4,0,44,0,11.00,6,2,4,0,0
+271,1304070,Titans Vs Royals,Royals,James Neesham,355269,3,0,29,0,9.66,5,5,0,0,0
+272,1304070,Titans Vs Royals,Royals,Prasidh Krishna,917159,4,0,35,0,8.75,11,5,1,1,1
+273,1304070,Titans Vs Royals,Royals,Kuldeep Sen,1163695,4,0,51,1,12.75,6,9,1,0,0
+274,1304070,Titans Vs Royals,Royals,Yuzvendra Chahal,430246,4,0,32,1,8.00,6,1,2,1,0
+275,1304070,Titans Vs Royals,Royals,Riyan Parag,1079434,1,0,12,1,12.00,2,1,1,0,0
+276,1304070,Titans Vs Royals,Royals,Ravichandran Ashwin,26421,4,0,33,0,8.25,9,1,2,1,0
+277,1304070,Titans Vs Royals,Titans,Mohammed Shami,481896,4,0,39,1,9.75,6,4,1,0,0
+278,1304070,Titans Vs Royals,Titans,Yash Dayal,1159720,4,0,40,3,10.00,13,6,2,0,0
+279,1304070,Titans Vs Royals,Titans,Rashid Khan,793463,4,0,24,0,6.00,11,1,1,0,0
+280,1304070,Titans Vs Royals,Titans,Lockie Ferguson,493773,4,0,23,3,5.75,12,0,2,0,0
+281,1304070,Titans Vs Royals,Titans,Rahul Tewatia,423838,1,0,9,0,9.00,2,0,1,0,0
+282,1304070,Titans Vs Royals,Titans,Hardik Pandya,625371,2.3,0,18,1,7.20,4,1,0,2,0
+283,1304070,Titans Vs Royals,Titans,Vijay Shankar,477021,0.3,0,1,0,2.00,2,0,0,0,0
+284,1304071,KKR Vs Sunrisers,Sunrisers,Bhuvneshwar Kumar,326016,4,0,37,1,9.25,13,4,2,1,0
+285,1304071,KKR Vs Sunrisers,Sunrisers,Marco Jansen,696401,4,0,26,1,6.50,12,2,1,1,0
+286,1304071,KKR Vs Sunrisers,Sunrisers,T Natarajan,802575,4,0,37,3,9.25,11,4,2,0,0
+287,1304071,KKR Vs Sunrisers,Sunrisers,Umran Malik,1246528,4,0,27,2,6.75,15,1,2,0,0
+288,1304071,KKR Vs Sunrisers,Sunrisers,Shashank Singh,377534,1,0,10,0,10.00,1,1,0,1,0
+289,1304071,KKR Vs Sunrisers,Sunrisers,Jagadeesha Suchith,527663,3,0,32,1,10.66,6,3,2,0,0
+290,1304071,KKR Vs Sunrisers,KKR,Umesh Yadav,376116,4,0,31,0,7.75,10,5,0,1,0
+291,1304071,KKR Vs Sunrisers,KKR,Pat Cummins,489889,3.5,0,40,1,10.43,8,3,2,2,0
+292,1304071,KKR Vs Sunrisers,KKR,Andre Russell,276298,2,0,20,2,10.00,6,1,2,1,0
+293,1304071,KKR Vs Sunrisers,KKR,Aman Hakim Khan,1254269,1,0,13,0,13.00,1,1,1,0,0
+294,1304071,KKR Vs Sunrisers,KKR,Varun Chakravarthy,1108375,3,0,45,0,15.00,2,3,4,0,0
+295,1304071,KKR Vs Sunrisers,KKR,Sunil Narine,230558,4,0,23,0,5.75,8,0,1,0,0
+296,1304072,Super Giants Vs Mumbai,Mumbai,Tilak Varma,1170265,1,0,7,0,7.00,2,1,0,0,0
+297,1304072,Super Giants Vs Mumbai,Mumbai,Jaydev Unadkat,390484,4,0,32,2,8.00,8,3,1,1,0
+298,1304072,Super Giants Vs Mumbai,Mumbai,Murugan Ashwin,528067,4,0,33,1,8.25,8,2,2,0,0
+299,1304072,Super Giants Vs Mumbai,Mumbai,Jasprit Bumrah,625383,4,0,24,0,6.00,9,1,0,2,0
+300,1304072,Super Giants Vs Mumbai,Mumbai,Tymal Mills,459257,3,0,54,0,18.00,3,9,2,1,0
+301,1304072,Super Giants Vs Mumbai,Mumbai,Fabian Allen,670013,4,0,46,1,11.50,6,4,3,0,0
+302,1304072,Super Giants Vs Mumbai,Super Giants,Jason Holder,391485,4,0,34,1,8.50,7,2,1,2,0
+303,1304072,Super Giants Vs Mumbai,Super Giants,Dushmantha Chameera,552152,4,0,48,1,12.00,11,3,4,1,0
+304,1304072,Super Giants Vs Mumbai,Super Giants,Avesh Khan,694211,4,0,30,3,7.50,14,6,0,1,0
+305,1304072,Super Giants Vs Mumbai,Super Giants,Ravi Bishnoi,1175441,4,0,34,1,8.50,4,4,0,1,0
+306,1304072,Super Giants Vs Mumbai,Super Giants,Marcus Stoinis,325012,2,0,13,1,6.50,4,1,0,0,0
+307,1304072,Super Giants Vs Mumbai,Super Giants,Krunal Pandya,471342,2,0,16,0,8.00,2,2,0,0,0
+308,1304073,RCB Vs Capitals,Capitals,Mustafizur Rahman,330902,4,0,48,0,12.00,8,7,2,1,0
+309,1304073,RCB Vs Capitals,Capitals,Shardul Thakur,475281,4,0,27,1,6.75,14,3,1,1,0
+310,1304073,RCB Vs Capitals,Capitals,Khaleel Ahmed,942645,4,0,36,1,9.00,9,3,2,0,0
+311,1304073,RCB Vs Capitals,Capitals,Axar Patel,554691,4,0,29,1,7.25,7,3,0,1,0
+312,1304073,RCB Vs Capitals,Capitals,Kuldeep Yadav,559235,4,0,46,1,11.50,7,3,3,3,0
+313,1304073,RCB Vs Capitals,RCB,Glenn Maxwell,325026,2,0,14,0,7.00,4,0,1,0,0
+314,1304073,RCB Vs Capitals,RCB,Mohammed Siraj,940973,4,0,31,2,7.75,10,1,2,0,0
+315,1304073,RCB Vs Capitals,RCB,Josh Hazlewood,288284,4,0,28,3,7.00,12,3,1,1,0
+316,1304073,RCB Vs Capitals,RCB,Shahbaz Ahmed,1159711,2,0,19,0,9.50,3,1,1,2,0
+317,1304073,RCB Vs Capitals,RCB,Harshal Patel,390481,4,0,40,0,10.00,5,3,2,1,0
+318,1304073,RCB Vs Capitals,RCB,Wanindu Hasaranga de Silva,784379,4,0,40,1,10.00,9,3,3,0,0
+319,1304074,Punjab Kings Vs Sunrisers,Sunrisers,Bhuvneshwar Kumar,326016,4,0,22,3,5.50,13,1,1,0,0
+320,1304074,Punjab Kings Vs Sunrisers,Sunrisers,Marco Jansen,696401,4,0,35,0,8.75,11,5,1,1,0
+321,1304074,Punjab Kings Vs Sunrisers,Sunrisers,T Natarajan,802575,4,0,38,1,9.50,8,3,1,4,0
+322,1304074,Punjab Kings Vs Sunrisers,Sunrisers,Jagadeesha Suchith,527663,4,0,28,1,7.00,10,1,2,1,0
+323,1304074,Punjab Kings Vs Sunrisers,Sunrisers,Umran Malik,1246528,4,1,28,4,7.00,15,3,2,0,0
+324,1304074,Punjab Kings Vs Sunrisers,Punjab Kings,Vaibhav Arora,1209292,3.5,0,35,0,9.13,9,5,1,0,0
+325,1304074,Punjab Kings Vs Sunrisers,Punjab Kings,Kagiso Rabada,550215,4,0,29,1,7.25,9,3,0,0,0
+326,1304074,Punjab Kings Vs Sunrisers,Punjab Kings,Arshdeep Singh,1125976,4,0,32,0,8.00,7,3,0,2,0
+327,1304074,Punjab Kings Vs Sunrisers,Punjab Kings,Rahul Chahar,1064812,4,0,28,2,7.00,7,1,0,1,0
+328,1304074,Punjab Kings Vs Sunrisers,Punjab Kings,Odean Smith,820691,1,0,8,0,8.00,3,0,1,0,0
+329,1304074,Punjab Kings Vs Sunrisers,Punjab Kings,Liam Livingstone,403902,2,0,19,0,9.50,3,0,2,0,0
+330,1304075,Super Kings Vs Titans,Titans,Mohammed Shami,481896,4,0,20,1,5.00,13,2,0,2,0
+331,1304075,Super Kings Vs Titans,Titans,Yash Dayal,1159720,4,0,40,1,10.00,8,3,2,1,1
+332,1304075,Super Kings Vs Titans,Titans,Alzarri Joseph,670031,4,0,34,2,8.50,10,1,3,1,0
+333,1304075,Super Kings Vs Titans,Titans,Lockie Ferguson,493773,4,0,46,0,11.50,5,4,3,0,0
+334,1304075,Super Kings Vs Titans,Titans,Rashid Khan,793463,4,0,29,0,7.25,5,1,1,0,0
+335,1304075,Super Kings Vs Titans,Super Kings,Mukesh Choudhary,1125688,3,0,18,1,6.00,10,3,0,1,0
+336,1304075,Super Kings Vs Titans,Super Kings,Maheesh Theekshana,1138316,4,0,24,2,6.00,8,1,1,0,0
+337,1304075,Super Kings Vs Titans,Super Kings,Chris Jordan,288992,3.5,0,58,0,15.13,4,5,4,0,1
+338,1304075,Super Kings Vs Titans,Super Kings,Ravindra Jadeja,234675,3,0,25,1,8.33,6,1,2,0,0
+339,1304075,Super Kings Vs Titans,Super Kings,Moeen Ali,8917,2,0,17,0,8.50,3,1,1,0,0
+340,1304075,Super Kings Vs Titans,Super Kings,Dwayne Bravo,51439,4,1,23,3,5.75,12,1,1,0,0
+341,1304076,Royals Vs KKR,KKR,Umesh Yadav,376116,4,0,44,0,11.00,11,3,3,0,1
+342,1304076,Royals Vs KKR,KKR,Shivam Mavi,1079848,4,0,34,1,8.50,10,4,1,0,0
+343,1304076,Royals Vs KKR,KKR,Varun Chakravarthy,1108375,2,0,30,0,15.00,1,1,2,1,0
+344,1304076,Royals Vs KKR,KKR,Pat Cummins,489889,4,0,50,1,12.50,4,7,1,2,0
+345,1304076,Royals Vs KKR,KKR,Sunil Narine,230558,4,0,21,2,5.25,11,0,1,2,0
+346,1304076,Royals Vs KKR,KKR,Andre Russell,276298,2,0,29,1,14.50,3,3,2,1,0
+347,1304076,Royals Vs KKR,Royals,Trent Boult,277912,4,0,48,0,12.00,7,5,3,0,0
+348,1304076,Royals Vs KKR,Royals,Prasidh Krishna,917159,4,0,43,1,10.75,5,6,0,5,0
+349,1304076,Royals Vs KKR,Royals,Obed McCoy,906783,3.4,0,41,2,11.18,6,2,2,4,0
+350,1304076,Royals Vs KKR,Royals,Ravichandran Ashwin,26421,4,0,38,1,9.50,8,1,3,0,0
+351,1304076,Royals Vs KKR,Royals,Yuzvendra Chahal,430246,4,0,40,5,10.00,7,4,1,4,0
+352,1304077,RCB Vs Super Giants,Super Giants,Dushmantha Chameera,552152,3,0,31,2,10.33,7,4,1,1,0
+353,1304077,RCB Vs Super Giants,Super Giants,Avesh Khan,694211,4,0,33,0,8.25,7,2,1,1,0
+354,1304077,RCB Vs Super Giants,Super Giants,Krunal Pandya,471342,4,0,29,1,7.25,6,2,1,0,0
+355,1304077,RCB Vs Super Giants,Super Giants,Ravi Bishnoi,1175441,4,0,47,0,11.75,5,4,2,1,1
+356,1304077,RCB Vs Super Giants,Super Giants,Jason Holder,391485,4,0,25,2,6.25,8,2,0,2,0
+357,1304077,RCB Vs Super Giants,Super Giants,Marcus Stoinis,325012,1,0,14,0,14.00,0,2,0,1,0
+358,1304077,RCB Vs Super Giants,RCB,Mohammed Siraj,940973,4,0,31,1,7.75,12,6,0,1,0
+359,1304077,RCB Vs Super Giants,RCB,Glenn Maxwell,325026,2,0,11,1,5.50,6,1,0,1,0
+360,1304077,RCB Vs Super Giants,RCB,Josh Hazlewood,288284,4,0,25,4,6.25,10,1,1,2,0
+361,1304077,RCB Vs Super Giants,RCB,Shahbaz Ahmed,1159711,4,0,25,0,6.25,10,1,1,0,0
+362,1304077,RCB Vs Super Giants,RCB,Harshal Patel,390481,4,0,47,2,11.75,7,4,2,3,0
+363,1304077,RCB Vs Super Giants,RCB,Wanindu Hasaranga de Silva,784379,2,0,20,0,10.00,5,1,2,0,0
+364,1304078,Punjab Kings Vs Capitals,Capitals,Shardul Thakur,475281,2,0,20,0,10.00,5,4,0,0,0
+365,1304078,Punjab Kings Vs Capitals,Capitals,Khaleel Ahmed,942645,4,0,21,2,5.25,13,2,0,1,0
+366,1304078,Punjab Kings Vs Capitals,Capitals,Lalit Yadav,930189,2,0,11,2,5.50,8,2,0,0,0
+367,1304078,Punjab Kings Vs Capitals,Capitals,Mustafizur Rahman,330902,4,0,28,1,7.00,14,4,1,0,0
+368,1304078,Punjab Kings Vs Capitals,Capitals,Axar Patel,554691,4,0,10,2,2.50,14,0,0,0,0
+369,1304078,Punjab Kings Vs Capitals,Capitals,Kuldeep Yadav,559235,4,0,24,2,6.00,9,3,0,0,0
+370,1304078,Punjab Kings Vs Capitals,Punjab Kings,Vaibhav Arora,1209292,2,0,31,0,15.50,2,5,1,0,0
+371,1304078,Punjab Kings Vs Capitals,Punjab Kings,Kagiso Rabada,550215,3,0,35,0,11.66,5,5,1,1,0
+372,1304078,Punjab Kings Vs Capitals,Punjab Kings,Arshdeep Singh,1125976,1,0,17,0,17.00,1,3,0,3,0
+373,1304078,Punjab Kings Vs Capitals,Punjab Kings,Nathan Ellis,826915,2,0,15,0,7.50,5,2,0,2,0
+374,1304078,Punjab Kings Vs Capitals,Punjab Kings,Rahul Chahar,1064812,2.3,0,21,1,8.40,4,3,0,0,0
+375,1304079,Mumbai Vs Super Kings,Super Kings,Mukesh Choudhary,1125688,3,0,19,3,6.33,12,3,0,1,0
+376,1304079,Mumbai Vs Super Kings,Super Kings,Mitchell Santner,502714,3,0,16,1,5.33,9,2,0,0,0
+377,1304079,Mumbai Vs Super Kings,Super Kings,Maheesh Theekshana,1138316,4,0,35,1,8.75,4,1,2,0,0
+378,1304079,Mumbai Vs Super Kings,Super Kings,Ravindra Jadeja,234675,4,0,30,0,7.50,8,2,1,0,0
+379,1304079,Mumbai Vs Super Kings,Super Kings,Dwaine Pretorius,327830,2,0,17,0,8.50,4,0,1,0,0
+380,1304079,Mumbai Vs Super Kings,Super Kings,Dwayne Bravo,51439,4,0,36,2,9.00,9,4,1,2,0
+381,1304079,Mumbai Vs Super Kings,Mumbai,Daniel Sams,826901,4,0,30,4,7.50,12,2,2,1,0
+382,1304079,Mumbai Vs Super Kings,Mumbai,Jasprit Bumrah,625383,4,0,29,0,7.25,9,2,1,2,0
+383,1304079,Mumbai Vs Super Kings,Mumbai,Riley Meredith,961713,4,0,25,1,6.25,14,2,1,2,0
+384,1304079,Mumbai Vs Super Kings,Mumbai,Jaydev Unadkat,390484,4,0,48,2,12.00,5,4,3,1,0
+385,1304079,Mumbai Vs Super Kings,Mumbai,Hrithik Shokeen,1175423,4,0,23,0,5.75,11,1,1,1,0
+386,1304080,Royals Vs Capitals,Capitals,Khaleel Ahmed,942645,4,0,47,1,11.75,12,4,4,1,0
+387,1304080,Royals Vs Capitals,Capitals,Shardul Thakur,475281,3,1,29,0,9.66,8,2,2,2,0
+388,1304080,Royals Vs Capitals,Capitals,Lalit Yadav,930189,4,0,41,0,10.25,7,3,3,0,0
+389,1304080,Royals Vs Capitals,Capitals,Mustafizur Rahman,330902,4,0,43,1,10.75,6,6,1,0,0
+390,1304080,Royals Vs Capitals,Capitals,Kuldeep Yadav,559235,3,0,40,0,13.33,3,3,3,1,0
+391,1304080,Royals Vs Capitals,Capitals,Axar Patel,554691,2,0,21,0,10.50,5,3,1,0,0
+392,1304080,Royals Vs Capitals,Royals,Trent Boult,277912,4,0,47,0,11.75,10,4,4,1,0
+393,1304080,Royals Vs Capitals,Royals,Prasidh Krishna,917159,4,1,22,3,5.50,14,4,0,0,0
+394,1304080,Royals Vs Capitals,Royals,Obed McCoy,906783,3,0,52,1,17.33,5,5,4,2,1
+395,1304080,Royals Vs Capitals,Royals,Ravichandran Ashwin,26421,4,0,32,2,8.00,4,3,0,1,0
+396,1304080,Royals Vs Capitals,Royals,Yuzvendra Chahal,430246,4,0,28,1,7.00,8,0,2,1,0
+397,1304080,Royals Vs Capitals,Royals,Riyan Parag,1079434,1,0,22,0,22.00,0,1,2,2,0
+398,1304081,Titans Vs KKR,KKR,Umesh Yadav,376116,4,0,31,1,7.75,10,3,1,0,0
+399,1304081,Titans Vs KKR,KKR,Tim Southee,232364,4,0,24,3,6.00,11,2,0,2,0
+400,1304081,Titans Vs KKR,KKR,Shivam Mavi,1079848,4,0,36,1,9.00,6,2,1,3,0
+401,1304081,Titans Vs KKR,KKR,Sunil Narine,230558,4,0,31,0,7.75,7,1,2,0,0
+402,1304081,Titans Vs KKR,KKR,Varun Chakravarthy,1108375,3,0,26,0,8.66,5,1,1,2,0
+403,1304081,Titans Vs KKR,KKR,Andre Russell,276298,1,0,5,4,5.00,4,1,0,0,0
+404,1304081,Titans Vs KKR,Titans,Mohammed Shami,481896,4,0,20,2,5.00,16,2,1,1,0
+405,1304081,Titans Vs KKR,Titans,Yash Dayal,1159720,4,0,42,2,10.50,10,3,3,2,1
+406,1304081,Titans Vs KKR,Titans,Alzarri Joseph,670031,4,0,31,1,7.75,12,2,2,1,0
+407,1304081,Titans Vs KKR,Titans,Lockie Ferguson,493773,4,0,33,1,8.25,13,2,3,1,0
+408,1304081,Titans Vs KKR,Titans,Rashid Khan,793463,4,0,22,2,5.50,11,2,0,0,0
+409,1304082,RCB Vs Sunrisers,Sunrisers,Bhuvneshwar Kumar,326016,2.1,0,8,1,3.69,8,1,0,0,0
+410,1304082,RCB Vs Sunrisers,Sunrisers,Marco Jansen,696401,4,0,25,3,6.25,14,4,0,3,0
+411,1304082,RCB Vs Sunrisers,Sunrisers,T Natarajan,802575,3,0,10,3,3.33,13,0,0,1,0
+412,1304082,RCB Vs Sunrisers,Sunrisers,Jagadeesha Suchith,527663,3,0,12,2,4.00,12,0,0,2,0
+413,1304082,RCB Vs Sunrisers,Sunrisers,Umran Malik,1246528,4,0,13,1,3.25,19,1,0,1,1
+414,1304082,RCB Vs Sunrisers,RCB,Mohammed Siraj,940973,2,0,15,0,7.50,6,1,1,1,0
+415,1304082,RCB Vs Sunrisers,RCB,Josh Hazlewood,288284,3,0,31,0,10.33,7,6,0,0,0
+416,1304082,RCB Vs Sunrisers,RCB,Harshal Patel,390481,2,0,18,1,9.00,5,2,1,0,0
+417,1304082,RCB Vs Sunrisers,RCB,Wanindu Hasaranga de Silva,784379,1,0,7,0,7.00,2,1,0,0,0
+418,1304083,Super Giants Vs Mumbai,Mumbai,Daniel Sams,826901,4,0,40,1,10.00,9,2,2,4,0
+419,1304083,Super Giants Vs Mumbai,Mumbai,Hrithik Shokeen,1175423,2,0,11,0,5.50,5,1,0,0,0
+420,1304083,Super Giants Vs Mumbai,Mumbai,Jasprit Bumrah,625383,4,0,31,1,7.75,9,3,1,0,0
+421,1304083,Super Giants Vs Mumbai,Mumbai,Riley Meredith,961713,4,0,40,2,10.00,10,3,3,1,0
+422,1304083,Super Giants Vs Mumbai,Mumbai,Jaydev Unadkat,390484,4,0,36,0,9.00,5,4,1,0,0
+423,1304083,Super Giants Vs Mumbai,Mumbai,Kieron Pollard,230559,2,0,8,2,4.00,5,0,0,0,0
+424,1304083,Super Giants Vs Mumbai,Super Giants,Mohsin Khan,1132005,4,0,27,1,6.75,11,1,1,2,0
+425,1304083,Super Giants Vs Mumbai,Super Giants,Dushmantha Chameera,552152,4,0,14,0,3.50,15,1,0,2,0
+426,1304083,Super Giants Vs Mumbai,Super Giants,Jason Holder,391485,4,0,36,1,9.00,8,4,1,2,0
+427,1304083,Super Giants Vs Mumbai,Super Giants,Krunal Pandya,471342,4,0,19,3,4.75,10,1,0,1,0
+428,1304083,Super Giants Vs Mumbai,Super Giants,Ravi Bishnoi,1175441,3,0,28,1,9.33,7,1,2,1,0
+429,1304083,Super Giants Vs Mumbai,Super Giants,Ayush Badoni,1151270,1,0,6,1,6.00,1,0,0,0,0
+430,1304084,Punjab Kings Vs Super Kings,Super Kings,Mukesh Choudhary,1125688,4,0,36,0,9.00,6,4,0,3,0
+431,1304084,Punjab Kings Vs Super Kings,Super Kings,Maheesh Theekshana,1138316,4,0,32,1,8.00,6,2,1,2,0
+432,1304084,Punjab Kings Vs Super Kings,Super Kings,Mitchell Santner,502714,2,0,8,0,4.00,7,1,0,0,0
+433,1304084,Punjab Kings Vs Super Kings,Super Kings,Ravindra Jadeja,234675,2,0,18,0,9.00,1,0,1,2,0
+434,1304084,Punjab Kings Vs Super Kings,Super Kings,Dwaine Pretorius,327830,4,0,50,0,12.50,4,4,3,2,0
+435,1304084,Punjab Kings Vs Super Kings,Super Kings,Dwayne Bravo,51439,4,0,42,2,10.50,5,4,1,2,2
+436,1304084,Punjab Kings Vs Super Kings,Punjab Kings,Kagiso Rabada,550215,4,0,23,2,5.75,13,4,0,0,0
+437,1304084,Punjab Kings Vs Super Kings,Punjab Kings,Sandeep Sharma,438362,4,0,40,1,10.00,11,3,3,2,0
+438,1304084,Punjab Kings Vs Super Kings,Punjab Kings,Rishi Dhawan,290727,4,0,39,2,9.75,10,2,3,2,0
+439,1304084,Punjab Kings Vs Super Kings,Punjab Kings,Arshdeep Singh,1125976,4,0,23,1,5.75,9,2,0,1,0
+440,1304084,Punjab Kings Vs Super Kings,Punjab Kings,Rahul Chahar,1064812,3,0,30,0,10.00,4,3,1,1,0
+441,1304084,Punjab Kings Vs Super Kings,Punjab Kings,Liam Livingstone,403902,1,0,12,0,12.00,2,1,1,0,0
+442,1304085,Royals Vs RCB,RCB,Shahbaz Ahmed,1159711,3,0,35,0,11.66,4,1,3,2,0
+443,1304085,Royals Vs RCB,RCB,Mohammed Siraj,940973,4,0,30,2,7.50,12,4,1,0,0
+444,1304085,Royals Vs RCB,RCB,Josh Hazlewood,288284,4,1,19,2,4.75,16,2,1,0,0
+445,1304085,Royals Vs RCB,RCB,Wanindu Hasaranga de Silva,784379,4,0,23,2,5.75,11,1,1,1,0
+446,1304085,Royals Vs RCB,RCB,Harshal Patel,390481,4,0,33,1,8.25,6,1,2,0,0
+447,1304085,Royals Vs RCB,RCB,Glenn Maxwell,325026,1,0,4,0,4.00,2,0,0,0,0
+448,1304085,Royals Vs RCB,Royals,Trent Boult,277912,3,0,20,0,6.66,10,4,0,0,0
+449,1304085,Royals Vs RCB,Royals,Prasidh Krishna,917159,4,0,23,2,5.75,16,2,1,3,0
+450,1304085,Royals Vs RCB,Royals,Ravichandran Ashwin,26421,4,0,17,3,4.25,14,0,1,1,0
+451,1304085,Royals Vs RCB,Royals,Kuldeep Sen,1163695,3.3,0,20,4,5.71,11,1,1,0,0
+452,1304085,Royals Vs RCB,Royals,Daryl Mitchell,381743,1,0,7,0,7.00,1,0,0,1,0
+453,1304085,Royals Vs RCB,Royals,Yuzvendra Chahal,430246,4,0,23,0,5.75,15,2,1,1,0
+454,1304086,Sunrisers Vs Titans,Titans,Mohammed Shami,481896,4,0,39,3,9.75,14,3,2,2,0
+455,1304086,Sunrisers Vs Titans,Titans,Yash Dayal,1159720,4,0,24,1,6.00,8,2,0,1,0
+456,1304086,Sunrisers Vs Titans,Titans,Alzarri Joseph,670031,4,0,35,1,8.75,8,3,1,1,0
+457,1304086,Sunrisers Vs Titans,Titans,Rashid Khan,793463,4,0,45,0,11.25,2,2,3,0,0
+458,1304086,Sunrisers Vs Titans,Titans,Lockie Ferguson,493773,4,0,52,0,13.00,6,2,5,2,0
+459,1304086,Sunrisers Vs Titans,Sunrisers,Bhuvneshwar Kumar,326016,4,0,33,0,8.25,7,3,1,0,0
+460,1304086,Sunrisers Vs Titans,Sunrisers,Marco Jansen,696401,4,0,63,0,15.75,4,4,5,2,0
+461,1304086,Sunrisers Vs Titans,Sunrisers,T Natarajan,802575,4,0,43,0,10.75,7,6,1,1,0
+462,1304086,Sunrisers Vs Titans,Sunrisers,Washington Sundar,719715,4,0,34,0,8.50,4,2,1,1,0
+463,1304086,Sunrisers Vs Titans,Sunrisers,Umran Malik,1246528,4,0,25,5,6.25,12,4,0,1,0
+464,1304087,KKR Vs Capitals,Capitals,Mustafizur Rahman,330902,4,0,18,3,4.50,14,2,0,1,0
+465,1304087,KKR Vs Capitals,Capitals,Chetan Sakariya,1131754,3,0,17,1,5.66,8,2,0,0,0
+466,1304087,KKR Vs Capitals,Capitals,Shardul Thakur,475281,3,0,32,0,10.66,2,2,1,2,0
+467,1304087,KKR Vs Capitals,Capitals,Axar Patel,554691,4,0,28,1,7.00,5,3,0,0,0
+468,1304087,KKR Vs Capitals,Capitals,Kuldeep Yadav,559235,3,0,14,4,4.66,8,1,0,0,0
+469,1304087,KKR Vs Capitals,Capitals,Lalit Yadav,930189,3,0,32,0,10.66,3,0,3,0,1
+470,1304087,KKR Vs Capitals,KKR,Umesh Yadav,376116,4,0,24,3,6.00,13,3,0,0,0
+471,1304087,KKR Vs Capitals,KKR,Harshit Rana,1312645,3,0,24,1,8.00,8,2,1,0,1
+472,1304087,KKR Vs Capitals,KKR,Tim Southee,232364,4,0,31,0,7.75,6,2,1,1,0
+473,1304087,KKR Vs Capitals,KKR,Sunil Narine,230558,4,0,19,1,4.75,13,2,0,1,0
+474,1304087,KKR Vs Capitals,KKR,Nitish Rana,604527,1,0,14,0,14.00,1,3,0,0,0
+475,1304087,KKR Vs Capitals,KKR,Andre Russell,276298,1,0,14,0,14.00,1,1,1,0,0
+476,1304087,KKR Vs Capitals,KKR,Venkatesh Iyer,851403,1,0,14,0,14.00,0,1,1,0,0
+477,1304087,KKR Vs Capitals,KKR,Shreyas Iyer,642519,1,0,7,0,7.00,4,0,1,0,0
+478,1304088,Super Giants Vs Punjab Kings,Punjab Kings,Arshdeep Singh,1125976,4,0,23,0,5.75,8,2,0,0,0
+479,1304088,Super Giants Vs Punjab Kings,Punjab Kings,Sandeep Sharma,438362,4,0,18,1,4.50,14,2,0,2,0
+480,1304088,Super Giants Vs Punjab Kings,Punjab Kings,Kagiso Rabada,550215,4,0,38,4,9.50,12,1,4,1,0
+481,1304088,Super Giants Vs Punjab Kings,Punjab Kings,Rishi Dhawan,290727,2,0,13,0,6.50,6,0,1,0,0
+482,1304088,Super Giants Vs Punjab Kings,Punjab Kings,Liam Livingstone,403902,2,0,23,0,11.50,1,1,1,1,0
+483,1304088,Super Giants Vs Punjab Kings,Punjab Kings,Rahul Chahar,1064812,4,0,30,2,7.50,10,2,2,0,0
+484,1304088,Super Giants Vs Punjab Kings,Super Giants,Mohsin Khan,1132005,4,1,24,3,6.00,14,2,1,2,0
+485,1304088,Super Giants Vs Punjab Kings,Super Giants,Dushmantha Chameera,552152,4,0,17,2,4.25,17,1,1,2,0
+486,1304088,Super Giants Vs Punjab Kings,Super Giants,Jason Holder,391485,1,0,8,0,8.00,1,1,0,0,0
+487,1304088,Super Giants Vs Punjab Kings,Super Giants,Avesh Khan,694211,3,0,26,0,8.66,10,4,1,1,0
+488,1304088,Super Giants Vs Punjab Kings,Super Giants,Ravi Bishnoi,1175441,4,0,41,1,10.25,10,4,2,2,1
+489,1304088,Super Giants Vs Punjab Kings,Super Giants,Krunal Pandya,471342,4,1,11,2,2.75,15,0,0,1,0
+490,1304089,RCB Vs Titans,Titans,Mohammed Shami,481896,4,0,39,1,9.75,9,3,2,1,0
+491,1304089,RCB Vs Titans,Titans,Pradeep Sangwan,279545,4,0,19,2,4.75,12,2,0,0,0
+492,1304089,RCB Vs Titans,Titans,Alzarri Joseph,670031,4,0,42,1,10.50,9,5,2,1,0
+493,1304089,RCB Vs Titans,Titans,Rashid Khan,793463,4,0,29,1,7.25,4,1,1,0,0
+494,1304089,RCB Vs Titans,Titans,Lockie Ferguson,493773,4,0,36,1,9.00,10,5,1,0,0
+495,1304089,RCB Vs Titans,RCB,Glenn Maxwell,325026,1,0,10,0,10.00,2,2,0,0,0
+496,1304089,RCB Vs Titans,RCB,Mohammed Siraj,940973,4,0,35,0,8.75,11,6,0,2,0
+497,1304089,RCB Vs Titans,RCB,Josh Hazlewood,288284,3.3,0,36,0,10.28,5,4,1,1,0
+498,1304089,RCB Vs Titans,RCB,Shahbaz Ahmed,1159711,3,0,26,2,8.66,4,2,1,0,1
+499,1304089,RCB Vs Titans,RCB,Harshal Patel,390481,4,0,35,0,8.75,3,2,1,1,0
+500,1304089,RCB Vs Titans,RCB,Wanindu Hasaranga de Silva,784379,4,0,28,2,7.00,9,2,1,0,0
+501,1304090,Royals Vs Mumbai,Mumbai,Daniel Sams,826901,4,0,32,1,8.00,10,4,0,2,0
+502,1304090,Royals Vs Mumbai,Mumbai,Jasprit Bumrah,625383,4,0,27,0,6.75,11,3,0,0,1
+503,1304090,Royals Vs Mumbai,Mumbai,Hrithik Shokeen,1175423,3,0,47,2,15.66,9,2,6,0,0
+504,1304090,Royals Vs Mumbai,Mumbai,Riley Meredith,961713,4,0,24,2,6.00,13,1,1,4,0
+505,1304090,Royals Vs Mumbai,Mumbai,Kumar Kartikeya,1159843,4,0,19,1,4.75,9,1,0,0,0
+506,1304090,Royals Vs Mumbai,Mumbai,Kieron Pollard,230559,1,0,8,0,8.00,1,1,0,0,0
+507,1304090,Royals Vs Mumbai,Royals,Trent Boult,277912,3,0,26,1,8.66,9,2,1,2,0
+508,1304090,Royals Vs Mumbai,Royals,Prasidh Krishna,917159,4,0,29,1,7.25,11,4,0,1,0
+509,1304090,Royals Vs Mumbai,Royals,Ravichandran Ashwin,26421,4,0,21,1,5.25,9,0,1,0,0
+510,1304090,Royals Vs Mumbai,Royals,Daryl Mitchell,381743,1,0,20,0,20.00,0,3,1,0,0
+511,1304090,Royals Vs Mumbai,Royals,Yuzvendra Chahal,430246,4,0,33,1,8.25,9,0,3,0,0
+512,1304090,Royals Vs Mumbai,Royals,Kuldeep Sen,1163695,3.2,0,29,1,8.70,7,3,1,1,0
+513,1304091,Super Giants Vs Capitals,Capitals,Mustafizur Rahman,330902,4,0,37,0,9.25,6,3,1,2,0
+514,1304091,Super Giants Vs Capitals,Capitals,Chetan Sakariya,1131754,4,0,44,0,11.00,4,2,3,2,0
+515,1304091,Super Giants Vs Capitals,Capitals,Axar Patel,554691,4,0,25,0,6.25,9,1,1,2,0
+516,1304091,Super Giants Vs Capitals,Capitals,Lalit Yadav,930189,1,0,16,0,16.00,1,2,1,0,0
+517,1304091,Super Giants Vs Capitals,Capitals,Shardul Thakur,475281,4,0,40,3,10.00,7,3,1,6,0
+518,1304091,Super Giants Vs Capitals,Capitals,Kuldeep Yadav,559235,3,0,29,0,9.66,3,3,1,0,0
+519,1304091,Super Giants Vs Capitals,Super Giants,Mohsin Khan,1132005,4,0,16,4,4.00,15,1,0,1,0
+520,1304091,Super Giants Vs Capitals,Super Giants,Dushmantha Chameera,552152,4,0,44,1,11.00,6,5,2,0,0
+521,1304091,Super Giants Vs Capitals,Super Giants,Krunal Pandya,471342,1,0,19,0,19.00,1,3,1,0,0
+522,1304091,Super Giants Vs Capitals,Super Giants,Jason Holder,391485,4,0,45,0,11.25,6,4,2,1,0
+523,1304091,Super Giants Vs Capitals,Super Giants,Ravi Bishnoi,1175441,4,0,28,1,7.00,10,2,1,0,0
+524,1304091,Super Giants Vs Capitals,Super Giants,Krishnappa Gowtham,424377,2,0,23,1,11.50,3,1,2,0,0
+525,1304091,Super Giants Vs Capitals,Super Giants,Marcus Stoinis,325012,1,0,14,0,14.00,3,0,2,1,0
+526,1304092,Super Kings Vs Sunrisers,Sunrisers,Bhuvneshwar Kumar,326016,4,0,22,0,5.50,8,1,0,0,0
+527,1304092,Super Kings Vs Sunrisers,Sunrisers,Marco Jansen,696401,4,0,38,0,9.50,12,1,4,0,0
+528,1304092,Super Kings Vs Sunrisers,Sunrisers,T Natarajan,802575,4,0,42,2,10.50,4,4,1,1,0
+529,1304092,Super Kings Vs Sunrisers,Sunrisers,Aiden Markram,600498,3,0,36,0,12.00,3,2,3,0,0
+530,1304092,Super Kings Vs Sunrisers,Sunrisers,Umran Malik,1246528,4,0,48,0,12.00,8,6,2,2,0
+531,1304092,Super Kings Vs Sunrisers,Sunrisers,Shashank Singh,377534,1,0,10,0,10.00,0,1,0,0,0
+532,1304092,Super Kings Vs Sunrisers,Super Kings,Mukesh Choudhary,1125688,4,0,46,4,11.50,9,4,3,1,0
+533,1304092,Super Kings Vs Sunrisers,Super Kings,Simarjeet Singh,1159722,2,0,24,0,12.00,4,3,1,0,1
+534,1304092,Super Kings Vs Sunrisers,Super Kings,Mitchell Santner,502714,3,0,36,1,12.00,4,2,3,0,0
+535,1304092,Super Kings Vs Sunrisers,Super Kings,Maheesh Theekshana,1138316,4,0,26,0,6.50,6,0,1,0,0
+536,1304092,Super Kings Vs Sunrisers,Super Kings,Ravindra Jadeja,234675,3,0,15,0,5.00,8,0,1,0,0
+537,1304092,Super Kings Vs Sunrisers,Super Kings,Dwaine Pretorius,327830,4,0,40,1,10.00,5,2,2,1,0
+538,1304093,Royals Vs KKR,KKR,Umesh Yadav,376116,4,1,24,1,6.00,17,5,0,1,1
+539,1304093,Royals Vs KKR,KKR,Anukul Roy,1079839,4,0,28,1,7.00,7,0,2,0,0
+540,1304093,Royals Vs KKR,KKR,Sunil Narine,230558,4,0,19,0,4.75,12,2,0,0,0
+541,1304093,Royals Vs KKR,KKR,Shivam Mavi,1079848,4,0,33,1,8.25,7,3,0,1,1
+542,1304093,Royals Vs KKR,KKR,Tim Southee,232364,4,0,46,2,11.50,7,3,3,3,0
+543,1304093,Royals Vs KKR,Royals,Trent Boult,277912,4,0,25,1,6.25,9,2,0,2,0
+544,1304093,Royals Vs KKR,Royals,Prasidh Krishna,917159,4,0,37,1,9.25,9,5,0,4,0
+545,1304093,Royals Vs KKR,Royals,Kuldeep Sen,1163695,3.1,0,28,1,8.84,12,2,2,3,0
+546,1304093,Royals Vs KKR,Royals,Ravichandran Ashwin,26421,4,0,33,0,8.25,6,3,1,0,0
+547,1304093,Royals Vs KKR,Royals,Yuzvendra Chahal,430246,4,0,31,0,7.75,6,2,1,0,0
+548,1304094,Titans Vs Punjab Kings,Punjab Kings,Sandeep Sharma,438362,4,0,17,0,4.25,15,2,0,1,0
+549,1304094,Titans Vs Punjab Kings,Punjab Kings,Kagiso Rabada,550215,4,0,33,4,8.25,13,4,1,3,0
+550,1304094,Titans Vs Punjab Kings,Punjab Kings,Arshdeep Singh,1125976,4,0,36,1,9.00,5,2,1,1,1
+551,1304094,Titans Vs Punjab Kings,Punjab Kings,Rishi Dhawan,290727,4,0,26,1,6.50,6,1,0,3,0
+552,1304094,Titans Vs Punjab Kings,Punjab Kings,Liam Livingstone,403902,2.3,0,15,1,6.00,5,1,0,0,0
+553,1304094,Titans Vs Punjab Kings,Punjab Kings,Rahul Chahar,1064812,1.3,0,11,0,7.33,3,1,0,0,0
+554,1304094,Titans Vs Punjab Kings,Titans,Mohammed Shami,481896,4,0,43,1,10.75,12,5,3,0,0
+555,1304094,Titans Vs Punjab Kings,Titans,Pradeep Sangwan,279545,2,0,23,0,11.50,4,5,0,0,0
+556,1304094,Titans Vs Punjab Kings,Titans,Alzarri Joseph,670031,3,0,25,0,8.33,6,1,1,0,1
+557,1304094,Titans Vs Punjab Kings,Titans,Lockie Ferguson,493773,3,0,29,1,9.66,9,2,1,3,0
+558,1304094,Titans Vs Punjab Kings,Titans,Rashid Khan,793463,4,0,21,0,5.25,9,2,0,0,0
+559,1304095,RCB Vs Super Kings,Super Kings,Mukesh Choudhary,1125688,3,0,30,0,10.00,8,4,1,1,0
+560,1304095,RCB Vs Super Kings,Super Kings,Simarjeet Singh,1159722,2,0,21,0,10.50,6,2,1,1,0
+561,1304095,RCB Vs Super Kings,Super Kings,Maheesh Theekshana,1138316,4,0,27,3,6.75,8,2,1,0,0
+562,1304095,RCB Vs Super Kings,Super Kings,Ravindra Jadeja,234675,4,0,20,0,5.00,7,1,0,0,0
+563,1304095,RCB Vs Super Kings,Super Kings,Moeen Ali,8917,4,0,28,2,7.00,8,1,1,3,0
+564,1304095,RCB Vs Super Kings,Super Kings,Dwaine Pretorius,327830,3,0,42,1,14.00,4,2,3,2,0
+565,1304095,RCB Vs Super Kings,RCB,Shahbaz Ahmed,1159711,3,0,27,1,9.00,6,3,1,0,0
+566,1304095,RCB Vs Super Kings,RCB,Josh Hazlewood,288284,4,0,19,1,4.75,10,1,0,0,0
+567,1304095,RCB Vs Super Kings,RCB,Mohammed Siraj,940973,2,0,22,0,11.00,2,4,0,0,0
+568,1304095,RCB Vs Super Kings,RCB,Wanindu Hasaranga de Silva,784379,3,0,31,1,10.33,7,0,4,0,0
+569,1304095,RCB Vs Super Kings,RCB,Glenn Maxwell,325026,4,0,22,2,5.50,8,2,0,0,0
+570,1304095,RCB Vs Super Kings,RCB,Harshal Patel,390481,4,0,35,3,8.75,11,2,3,0,0
+571,1304096,Capitals Vs Sunrisers,Sunrisers,Bhuvneshwar Kumar,326016,4,1,25,1,6.25,14,3,1,0,0
+572,1304096,Capitals Vs Sunrisers,Sunrisers,Sean Abbott,398666,4,0,47,1,11.75,7,5,2,3,0
+573,1304096,Capitals Vs Sunrisers,Sunrisers,Umran Malik,1246528,4,0,52,0,13.00,9,6,2,2,0
+574,1304096,Capitals Vs Sunrisers,Sunrisers,Kartik Tyagi,1122918,4,0,37,0,9.25,10,3,2,1,1
+575,1304096,Capitals Vs Sunrisers,Sunrisers,Shreyas Gopal,344580,3,0,34,1,11.33,7,1,4,0,0
+576,1304096,Capitals Vs Sunrisers,Sunrisers,Aiden Markram,600498,1,0,11,0,11.00,0,0,1,0,0
+577,1304096,Capitals Vs Sunrisers,Capitals,Shardul Thakur,475281,4,0,44,2,11.00,10,4,2,2,0
+578,1304096,Capitals Vs Sunrisers,Capitals,Khaleel Ahmed,942645,4,0,30,3,7.50,14,3,2,0,0
+579,1304096,Capitals Vs Sunrisers,Capitals,Anrich Nortje,481979,4,0,35,1,8.75,11,1,3,3,0
+580,1304096,Capitals Vs Sunrisers,Capitals,Mitchell Marsh,272450,4,0,36,1,9.00,9,6,0,1,0
+581,1304096,Capitals Vs Sunrisers,Capitals,Kuldeep Yadav,559235,4,0,40,1,10.00,10,2,4,0,0
+582,1304097,Mumbai Vs Titans,Titans,Mohammed Shami,481896,4,0,42,0,10.50,8,2,3,2,0
+583,1304097,Mumbai Vs Titans,Titans,Alzarri Joseph,670031,4,0,41,1,10.25,9,5,2,0,0
+584,1304097,Mumbai Vs Titans,Titans,Rashid Khan,793463,4,0,24,2,6.00,10,2,0,0,0
+585,1304097,Mumbai Vs Titans,Titans,Lockie Ferguson,493773,4,0,34,1,8.50,12,3,2,0,1
+586,1304097,Mumbai Vs Titans,Titans,Pradeep Sangwan,279545,3,0,23,1,7.66,6,2,0,2,0
+587,1304097,Mumbai Vs Titans,Titans,Rahul Tewatia,423838,1,0,11,0,11.00,0,0,1,0,0
+588,1304097,Mumbai Vs Titans,Mumbai,Daniel Sams,826901,3,0,18,0,6.00,9,3,0,0,0
+589,1304097,Mumbai Vs Titans,Mumbai,Jasprit Bumrah,625383,4,0,48,0,12.00,7,5,3,0,0
+590,1304097,Mumbai Vs Titans,Mumbai,Murugan Ashwin,528067,4,0,29,2,7.25,8,2,1,0,0
+591,1304097,Mumbai Vs Titans,Mumbai,Riley Meredith,961713,4,0,32,0,8.00,9,5,0,1,0
+592,1304097,Mumbai Vs Titans,Mumbai,Kumar Kartikeya,1159843,3,0,29,0,9.66,4,3,1,0,0
+593,1304097,Mumbai Vs Titans,Mumbai,Kieron Pollard,230559,2,0,13,1,6.50,4,0,1,0,0
+594,1304098,Punjab Kings Vs Royals,Royals,Trent Boult,277912,4,1,36,0,9.00,10,5,1,1,0
+595,1304098,Punjab Kings Vs Royals,Royals,Prasidh Krishna,917159,4,0,48,1,12.00,6,7,1,2,1
+596,1304098,Punjab Kings Vs Royals,Royals,Kuldeep Sen,1163695,4,0,42,0,10.50,9,5,2,2,0
+597,1304098,Punjab Kings Vs Royals,Royals,Ravichandran Ashwin,26421,4,0,32,1,8.00,8,3,1,1,0
+598,1304098,Punjab Kings Vs Royals,Royals,Yuzvendra Chahal,430246,4,0,28,3,7.00,10,0,2,4,0
+599,1304098,Punjab Kings Vs Royals,Punjab Kings,Sandeep Sharma,438362,4,0,41,0,10.25,10,7,1,1,0
+600,1304098,Punjab Kings Vs Royals,Punjab Kings,Kagiso Rabada,550215,4,0,50,1,12.50,7,7,2,1,0
+601,1304098,Punjab Kings Vs Royals,Punjab Kings,Arshdeep Singh,1125976,4,0,29,2,7.25,8,4,0,1,0
+602,1304098,Punjab Kings Vs Royals,Punjab Kings,Rishi Dhawan,290727,3,0,25,1,8.33,5,4,0,0,0
+603,1304098,Punjab Kings Vs Royals,Punjab Kings,Rahul Chahar,1064812,3.4,0,39,0,10.63,5,2,2,2,0
+604,1304098,Punjab Kings Vs Royals,Punjab Kings,Liam Livingstone,403902,1,0,6,0,6.00,1,0,0,1,0
+605,1304099,Super Giants Vs KKR,KKR,Tim Southee,232364,4,0,28,1,7.00,12,3,1,0,0
+606,1304099,Super Giants Vs KKR,KKR,Shivam Mavi,1079848,4,0,50,1,12.50,10,3,5,1,0
+607,1304099,Super Giants Vs KKR,KKR,Sunil Narine,230558,4,0,20,1,5.00,12,0,1,0,0
+608,1304099,Super Giants Vs KKR,KKR,Anukul Roy,1079839,3,0,27,0,9.00,4,2,1,0,0
+609,1304099,Super Giants Vs KKR,KKR,Harshit Rana,1312645,2,0,27,0,13.50,4,3,2,0,0
+610,1304099,Super Giants Vs KKR,KKR,Andre Russell,276298,3,0,22,2,7.33,2,0,0,1,0
+611,1304099,Super Giants Vs KKR,Super Giants,Mohsin Khan,1132005,3,1,6,1,2.00,15,1,0,0,0
+612,1304099,Super Giants Vs KKR,Super Giants,Dushmantha Chameera,552152,3,0,14,1,4.66,11,2,0,0,0
+613,1304099,Super Giants Vs KKR,Super Giants,Avesh Khan,694211,3,1,19,3,6.33,11,1,1,2,0
+614,1304099,Super Giants Vs KKR,Super Giants,Jason Holder,391485,2.3,0,31,3,12.40,4,1,3,0,0
+615,1304099,Super Giants Vs KKR,Super Giants,Ravi Bishnoi,1175441,3,0,30,1,10.00,8,3,2,0,0
+616,1304100,RCB Vs Sunrisers,Sunrisers,Jagadeesha Suchith,527663,4,0,30,2,7.50,12,1,2,2,0
+617,1304100,RCB Vs Sunrisers,Sunrisers,Bhuvneshwar Kumar,326016,4,0,34,0,8.50,7,2,2,0,0
+618,1304100,RCB Vs Sunrisers,Sunrisers,Fazalhaq Farooqi,974175,4,0,47,0,11.75,6,4,3,0,0
+619,1304100,RCB Vs Sunrisers,Sunrisers,Kartik Tyagi,1122918,4,0,42,1,10.50,10,4,2,3,1
+620,1304100,RCB Vs Sunrisers,Sunrisers,Umran Malik,1246528,2,0,25,0,12.50,4,4,1,0,0
+621,1304100,RCB Vs Sunrisers,Sunrisers,Abhishek Sharma,1070183,2,0,13,0,6.50,2,1,0,0,0
+622,1304100,RCB Vs Sunrisers,RCB,Glenn Maxwell,325026,2,0,13,1,6.50,7,1,1,0,0
+623,1304100,RCB Vs Sunrisers,RCB,Josh Hazlewood,288284,4,0,17,2,4.25,13,2,0,0,0
+624,1304100,RCB Vs Sunrisers,RCB,Shahbaz Ahmed,1159711,2,0,20,0,10.00,3,3,0,2,0
+625,1304100,RCB Vs Sunrisers,RCB,Mohammed Siraj,940973,3,0,27,0,9.00,7,1,2,1,0
+626,1304100,RCB Vs Sunrisers,RCB,Mahipal Lomror,853265,1,0,7,0,7.00,2,1,0,0,0
+627,1304100,RCB Vs Sunrisers,RCB,Harshal Patel,390481,3.2,0,20,1,6.00,9,1,1,1,0
+628,1304100,RCB Vs Sunrisers,RCB,Wanindu Hasaranga de Silva,784379,4,1,18,5,4.50,14,1,1,0,0
+629,1304101,Super Kings Vs Capitals,Capitals,Shardul Thakur,475281,3,0,38,0,12.66,5,4,2,2,0
+630,1304101,Super Kings Vs Capitals,Capitals,Khaleel Ahmed,942645,4,0,28,2,7.00,10,2,1,3,0
+631,1304101,Super Kings Vs Capitals,Capitals,Anrich Nortje,481979,4,0,42,3,10.50,6,5,1,0,1
+632,1304101,Super Kings Vs Capitals,Capitals,Axar Patel,554691,3,0,23,0,7.66,5,0,2,0,0
+633,1304101,Super Kings Vs Capitals,Capitals,Kuldeep Yadav,559235,3,0,43,0,14.33,4,4,3,2,0
+634,1304101,Super Kings Vs Capitals,Capitals,Mitchell Marsh,272450,3,0,34,1,11.33,3,2,1,3,0
+635,1304101,Super Kings Vs Capitals,Super Kings,Mukesh Choudhary,1125688,3,0,22,2,7.33,10,1,2,0,0
+636,1304101,Super Kings Vs Capitals,Super Kings,Simarjeet Singh,1159722,4,0,27,2,6.75,13,3,1,1,0
+637,1304101,Super Kings Vs Capitals,Super Kings,Maheesh Theekshana,1138316,4,0,29,1,7.25,13,4,1,0,0
+638,1304101,Super Kings Vs Capitals,Super Kings,Dwayne Bravo,51439,2.4,0,24,2,9.00,6,4,0,1,0
+639,1304101,Super Kings Vs Capitals,Super Kings,Moeen Ali,8917,4,0,13,3,3.25,16,0,1,0,0
+640,1304102,KKR Vs Mumbai,Mumbai,Daniel Sams,826901,4,0,26,1,6.50,13,0,2,3,0
+641,1304102,KKR Vs Mumbai,Mumbai,Murugan Ashwin,528067,4,0,35,1,8.75,10,3,2,1,0
+642,1304102,KKR Vs Mumbai,Mumbai,Jasprit Bumrah,625383,4,1,10,5,2.50,18,1,0,0,0
+643,1304102,KKR Vs Mumbai,Mumbai,Riley Meredith,961713,3,0,35,0,11.66,6,4,1,1,0
+644,1304102,KKR Vs Mumbai,Mumbai,Kumar Kartikeya,1159843,3,0,32,2,10.66,8,2,3,0,0
+645,1304102,KKR Vs Mumbai,Mumbai,Kieron Pollard,230559,2,0,26,0,13.00,3,2,2,1,0
+646,1304102,KKR Vs Mumbai,KKR,Tim Southee,232364,3,0,10,1,3.33,13,1,0,0,0
+647,1304102,KKR Vs Mumbai,KKR,Pat Cummins,489889,4,0,22,3,5.50,11,2,0,1,0
+648,1304102,KKR Vs Mumbai,KKR,Andre Russell,276298,2.3,0,22,2,8.80,6,4,0,0,0
+649,1304102,KKR Vs Mumbai,KKR,Sunil Narine,230558,4,0,21,0,5.25,9,0,1,1,0
+650,1304102,KKR Vs Mumbai,KKR,Varun Chakravarthy,1108375,3,0,22,1,7.33,6,1,1,0,0
+651,1304102,KKR Vs Mumbai,KKR,Venkatesh Iyer,851403,1,0,8,0,8.00,1,1,0,0,0
+652,1304103,Titans Vs Super Giants,Super Giants,Mohsin Khan,1132005,4,0,18,1,4.50,10,1,0,0,0
+653,1304103,Titans Vs Super Giants,Super Giants,Dushmantha Chameera,552152,4,0,34,0,8.50,10,6,0,2,0
+654,1304103,Titans Vs Super Giants,Super Giants,Avesh Khan,694211,4,0,26,2,6.50,8,3,0,1,0
+655,1304103,Titans Vs Super Giants,Super Giants,Krunal Pandya,471342,4,0,24,0,6.00,5,1,0,0,0
+656,1304103,Titans Vs Super Giants,Super Giants,Jason Holder,391485,4,0,41,1,10.25,5,4,1,3,0
+657,1304103,Titans Vs Super Giants,Titans,Mohammed Shami,481896,3,0,5,1,1.66,14,0,0,1,0
+658,1304103,Titans Vs Super Giants,Titans,Hardik Pandya,625371,1,0,8,0,8.00,2,1,0,0,0
+659,1304103,Titans Vs Super Giants,Titans,Yash Dayal,1159720,2,0,24,2,12.00,5,4,1,0,0
+660,1304103,Titans Vs Super Giants,Titans,Alzarri Joseph,670031,2,0,14,0,7.00,4,2,0,0,0
+661,1304103,Titans Vs Super Giants,Titans,Rashid Khan,793463,3.5,0,24,4,6.26,11,0,2,2,0
+662,1304103,Titans Vs Super Giants,Titans,Ravisrinivasan Sai Kishore,1048739,2,0,7,2,3.50,5,0,0,0,0
+663,1304104,Royals Vs Capitals,Capitals,Chetan Sakariya,1131754,4,0,23,2,5.75,9,1,0,3,0
+664,1304104,Royals Vs Capitals,Capitals,Anrich Nortje,481979,4,0,39,2,9.75,8,4,2,1,0
+665,1304104,Royals Vs Capitals,Capitals,Shardul Thakur,475281,4,0,27,0,6.75,12,4,0,1,0
+666,1304104,Royals Vs Capitals,Capitals,Axar Patel,554691,2,0,25,0,12.50,5,1,3,0,0
+667,1304104,Royals Vs Capitals,Capitals,Mitchell Marsh,272450,3,0,25,2,8.33,5,4,0,0,0
+668,1304104,Royals Vs Capitals,Capitals,Kuldeep Yadav,559235,3,0,20,0,6.66,3,0,1,0,0
+669,1304104,Royals Vs Capitals,Royals,Trent Boult,277912,4,0,32,1,8.00,11,4,1,2,0
+670,1304104,Royals Vs Capitals,Royals,Prasidh Krishna,917159,3,1,20,0,6.66,11,2,1,0,0
+671,1304104,Royals Vs Capitals,Royals,Ravichandran Ashwin,26421,4,0,32,0,8.00,7,1,2,2,0
+672,1304104,Royals Vs Capitals,Royals,Kuldeep Sen,1163695,3.1,0,32,0,10.10,6,2,2,0,0
+673,1304104,Royals Vs Capitals,Royals,Yuzvendra Chahal,430246,4,0,43,1,10.75,6,1,4,1,0
+674,1304105,Super Kings Vs Mumbai,Mumbai,Daniel Sams,826901,4,0,16,3,4.00,18,1,0,6,0
+675,1304105,Super Kings Vs Mumbai,Mumbai,Jasprit Bumrah,625383,3,1,12,1,4.00,13,2,0,0,0
+676,1304105,Super Kings Vs Mumbai,Mumbai,Riley Meredith,961713,3,0,27,2,9.00,11,3,1,1,0
+677,1304105,Super Kings Vs Mumbai,Mumbai,Hrithik Shokeen,1175423,2,0,12,0,6.00,7,0,1,1,0
+678,1304105,Super Kings Vs Mumbai,Mumbai,Kumar Kartikeya,1159843,3,0,22,2,7.33,9,2,1,0,0
+679,1304105,Super Kings Vs Mumbai,Mumbai,Ramandeep Singh,1079470,1,0,5,1,5.00,4,1,0,0,0
+680,1304105,Super Kings Vs Mumbai,Super Kings,Mukesh Choudhary,1125688,4,0,23,3,5.75,17,4,0,3,0
+681,1304105,Super Kings Vs Mumbai,Super Kings,Simarjeet Singh,1159722,4,0,22,1,5.50,16,3,0,1,0
+682,1304105,Super Kings Vs Mumbai,Super Kings,Dwayne Bravo,51439,2,0,16,0,8.00,3,1,0,1,0
+683,1304105,Super Kings Vs Mumbai,Super Kings,Maheesh Theekshana,1138316,3,0,24,0,8.00,5,3,0,0,0
+684,1304105,Super Kings Vs Mumbai,Super Kings,Moeen Ali,8917,1.5,0,17,1,9.27,4,0,2,0,0
+685,1304106,Punjab Kings Vs RCB,RCB,Glenn Maxwell,325026,2,0,17,1,8.50,6,0,2,0,0
+686,1304106,Punjab Kings Vs RCB,RCB,Josh Hazlewood,288284,4,0,64,0,16.00,5,7,4,2,0
+687,1304106,Punjab Kings Vs RCB,RCB,Mohammed Siraj,940973,2,0,36,0,18.00,3,2,4,0,1
+688,1304106,Punjab Kings Vs RCB,RCB,Wanindu Hasaranga de Silva,784379,4,0,15,2,3.75,12,1,0,0,0
+689,1304106,Punjab Kings Vs RCB,RCB,Shahbaz Ahmed,1159711,4,0,40,1,10.00,5,3,2,0,0
+690,1304106,Punjab Kings Vs RCB,RCB,Harshal Patel,390481,4,0,34,4,8.50,10,3,2,1,0
+691,1304106,Punjab Kings Vs RCB,Punjab Kings,Harpreet Brar,1168641,4,0,33,1,8.25,12,3,2,2,0
+692,1304106,Punjab Kings Vs RCB,Punjab Kings,Arshdeep Singh,1125976,4,0,27,1,6.75,9,3,0,1,0
+693,1304106,Punjab Kings Vs RCB,Punjab Kings,Kagiso Rabada,550215,4,0,21,3,5.25,15,2,0,2,0
+694,1304106,Punjab Kings Vs RCB,Punjab Kings,Rishi Dhawan,290727,4,0,36,2,9.00,4,2,1,0,0
+695,1304106,Punjab Kings Vs RCB,Punjab Kings,Rahul Chahar,1064812,4,0,37,2,9.25,10,3,2,3,0
+696,1304107,KKR Vs Sunrisers,Sunrisers,Bhuvneshwar Kumar,326016,4,0,27,1,6.75,13,3,0,5,0
+697,1304107,KKR Vs Sunrisers,Sunrisers,Marco Jansen,696401,4,0,30,1,7.50,11,0,3,0,0
+698,1304107,KKR Vs Sunrisers,Sunrisers,T Natarajan,802575,4,0,43,1,10.75,7,1,4,1,0
+699,1304107,KKR Vs Sunrisers,Sunrisers,Washington Sundar,719715,4,0,40,0,10.00,8,1,4,0,0
+700,1304107,KKR Vs Sunrisers,Sunrisers,Umran Malik,1246528,4,0,33,3,8.25,10,5,0,2,0
+701,1304107,KKR Vs Sunrisers,KKR,Umesh Yadav,376116,4,0,19,1,4.75,13,1,1,0,0
+702,1304107,KKR Vs Sunrisers,KKR,Tim Southee,232364,4,0,23,2,5.75,9,2,0,0,0
+703,1304107,KKR Vs Sunrisers,KKR,Sunil Narine,230558,4,0,34,1,8.50,6,1,2,0,0
+704,1304107,KKR Vs Sunrisers,KKR,Andre Russell,276298,4,0,22,3,5.50,14,3,0,2,0
+705,1304107,KKR Vs Sunrisers,KKR,Varun Chakravarthy,1108375,4,0,25,1,6.25,13,1,2,1,0
+706,1304108,Super Kings Vs Titans,Titans,Mohammed Shami,481896,4,0,19,2,4.75,9,0,0,0,0
+707,1304108,Super Kings Vs Titans,Titans,Hardik Pandya,625371,2,0,8,0,4.00,5,0,0,0,1
+708,1304108,Super Kings Vs Titans,Titans,Yash Dayal,1159720,3,0,27,0,9.00,6,2,1,3,0
+709,1304108,Super Kings Vs Titans,Titans,Rashid Khan,793463,4,0,31,1,7.75,6,0,2,0,0
+710,1304108,Super Kings Vs Titans,Titans,Alzarri Joseph,670031,3,0,15,1,5.00,10,2,0,0,0
+711,1304108,Super Kings Vs Titans,Titans,Ravisrinivasan Sai Kishore,1048739,4,0,31,1,7.75,8,3,1,1,0
+712,1304108,Super Kings Vs Titans,Super Kings,Mukesh Choudhary,1125688,3,0,28,0,9.33,5,5,0,0,0
+713,1304108,Super Kings Vs Titans,Super Kings,Simarjeet Singh,1159722,3,0,26,0,8.66,8,3,1,1,0
+714,1304108,Super Kings Vs Titans,Super Kings,Mitchell Santner,502714,4,0,24,0,6.00,11,3,0,0,0
+715,1304108,Super Kings Vs Titans,Super Kings,Prashant Solanki,1252337,4,0,18,0,4.50,6,0,0,0,0
+716,1304108,Super Kings Vs Titans,Super Kings,Matheesha Pathirana,1194795,3.1,0,24,2,7.57,8,3,0,3,0
+717,1304108,Super Kings Vs Titans,Super Kings,Moeen Ali,8917,2,0,11,1,5.50,4,1,0,0,0
+718,1304109,Royals Vs Super Giants,Super Giants,Mohsin Khan,1132005,4,0,43,0,10.75,9,6,1,1,0
+719,1304109,Royals Vs Super Giants,Super Giants,Dushmantha Chameera,552152,3,0,35,0,11.66,7,5,1,0,1
+720,1304109,Royals Vs Super Giants,Super Giants,Avesh Khan,694211,3,0,20,1,6.66,9,3,0,0,0
+721,1304109,Royals Vs Super Giants,Super Giants,Jason Holder,391485,2,0,12,1,6.00,3,1,0,0,0
+722,1304109,Royals Vs Super Giants,Super Giants,Ravi Bishnoi,1175441,4,0,31,2,7.75,9,4,0,1,0
+723,1304109,Royals Vs Super Giants,Super Giants,Marcus Stoinis,325012,1,0,15,0,15.00,2,2,1,0,0
+724,1304109,Royals Vs Super Giants,Super Giants,Ayush Badoni,1151270,1,0,5,1,5.00,3,0,0,0,0
+725,1304109,Royals Vs Super Giants,Super Giants,Krunal Pandya,471342,2,0,16,0,8.00,4,1,1,0,0
+726,1304109,Royals Vs Super Giants,Royals,Trent Boult,277912,4,0,18,2,4.50,14,2,0,0,0
+727,1304109,Royals Vs Super Giants,Royals,Prasidh Krishna,917159,4,0,32,2,8.00,14,2,2,2,0
+728,1304109,Royals Vs Super Giants,Royals,Yuzvendra Chahal,430246,4,0,42,1,10.50,6,2,3,1,0
+729,1304109,Royals Vs Super Giants,Royals,Ravichandran Ashwin,26421,4,0,24,1,6.00,7,1,0,1,0
+730,1304109,Royals Vs Super Giants,Royals,Obed McCoy,906783,4,0,35,2,8.75,7,2,1,4,0
+731,1304110,Capitals Vs Punjab Kings,Punjab Kings,Liam Livingstone,403902,4,0,27,3,6.75,8,1,1,2,0
+732,1304110,Capitals Vs Punjab Kings,Punjab Kings,Kagiso Rabada,550215,3,0,24,1,8.00,8,1,2,0,0
+733,1304110,Capitals Vs Punjab Kings,Punjab Kings,Harpreet Brar,1168641,3,0,29,0,9.66,6,4,1,0,0
+734,1304110,Capitals Vs Punjab Kings,Punjab Kings,Rishi Dhawan,290727,2,0,17,0,8.50,2,2,0,0,0
+735,1304110,Capitals Vs Punjab Kings,Punjab Kings,Arshdeep Singh,1125976,4,0,37,3,9.25,7,3,1,0,1
+736,1304110,Capitals Vs Punjab Kings,Punjab Kings,Rahul Chahar,1064812,4,0,19,0,4.75,14,1,1,0,0
+737,1304110,Capitals Vs Punjab Kings,Capitals,Khaleel Ahmed,942645,4,0,43,0,10.75,8,3,3,0,0
+738,1304110,Capitals Vs Punjab Kings,Capitals,Anrich Nortje,481979,4,0,29,1,7.25,11,4,0,1,1
+739,1304110,Capitals Vs Punjab Kings,Capitals,Lalit Yadav,930189,1,0,6,0,6.00,4,1,0,1,0
+740,1304110,Capitals Vs Punjab Kings,Capitals,Shardul Thakur,475281,4,0,36,4,9.00,10,3,2,3,0
+741,1304110,Capitals Vs Punjab Kings,Capitals,Axar Patel,554691,4,0,14,2,3.50,14,1,0,0,0
+742,1304110,Capitals Vs Punjab Kings,Capitals,Kuldeep Yadav,559235,3,0,14,2,4.66,9,1,0,0,0
+743,1304111,Sunrisers Vs Mumbai,Mumbai,Daniel Sams,826901,4,0,39,1,9.75,8,4,2,0,0
+744,1304111,Sunrisers Vs Mumbai,Mumbai,Riley Meredith,961713,4,0,44,1,11.00,6,1,3,2,0
+745,1304111,Sunrisers Vs Mumbai,Mumbai,Sanjay Yadav,1048841,2,0,23,0,11.50,6,3,1,2,0
+746,1304111,Sunrisers Vs Mumbai,Mumbai,Jasprit Bumrah,625383,4,0,32,1,8.00,11,4,1,0,0
+747,1304111,Sunrisers Vs Mumbai,Mumbai,Mayank Markande,1081442,3,0,31,0,10.33,2,3,1,0,0
+748,1304111,Sunrisers Vs Mumbai,Mumbai,Ramandeep Singh,1079470,3,0,20,3,6.66,5,2,0,1,0
+749,1304111,Sunrisers Vs Mumbai,Sunrisers,Fazalhaq Farooqi,974175,4,0,31,0,7.75,11,2,1,3,0
+750,1304111,Sunrisers Vs Mumbai,Sunrisers,Bhuvneshwar Kumar,326016,4,1,26,1,6.50,12,1,2,0,0
+751,1304111,Sunrisers Vs Mumbai,Sunrisers,Washington Sundar,719715,4,0,36,1,9.00,4,3,1,0,0
+752,1304111,Sunrisers Vs Mumbai,Sunrisers,T Natarajan,802575,4,0,60,0,15.00,4,4,5,2,0
+753,1304111,Sunrisers Vs Mumbai,Sunrisers,Umran Malik,1246528,3,0,23,3,7.66,12,2,1,3,2
+754,1304111,Sunrisers Vs Mumbai,Sunrisers,Abhishek Sharma,1070183,1,0,10,0,10.00,1,0,1,0,0
+755,1304112,Super Giants Vs KKR,KKR,Umesh Yadav,376116,4,0,34,0,8.50,7,2,2,0,0
+756,1304112,Super Giants Vs KKR,KKR,Tim Southee,232364,4,0,57,0,14.25,5,2,6,1,0
+757,1304112,Super Giants Vs KKR,KKR,Sunil Narine,230558,4,0,27,0,6.75,8,0,2,0,0
+758,1304112,Super Giants Vs KKR,KKR,Varun Chakravarthy,1108375,4,0,38,0,9.50,9,3,2,0,1
+759,1304112,Super Giants Vs KKR,KKR,Andre Russell,276298,3,0,45,0,15.00,1,5,2,0,0
+760,1304112,Super Giants Vs KKR,KKR,Nitish Rana,604527,1,0,9,0,9.00,0,1,0,0,0
+761,1304112,Super Giants Vs KKR,Super Giants,Mohsin Khan,1132005,4,0,20,3,5.00,16,2,1,1,0
+762,1304112,Super Giants Vs KKR,Super Giants,Jason Holder,391485,4,0,45,0,11.25,10,3,4,2,0
+763,1304112,Super Giants Vs KKR,Super Giants,Avesh Khan,694211,4,0,60,0,15.00,6,7,3,3,1
+764,1304112,Super Giants Vs KKR,Super Giants,Krishnappa Gowtham,424377,2,0,23,1,11.50,4,3,1,0,0
+765,1304112,Super Giants Vs KKR,Super Giants,Ravi Bishnoi,1175441,4,0,34,1,8.50,6,2,2,0,0
+766,1304112,Super Giants Vs KKR,Super Giants,Marcus Stoinis,325012,2,0,23,3,11.50,4,1,2,0,0
+767,1304113,Titans Vs RCB,RCB,Siddarth Kaul,326017,4,0,43,0,10.75,6,5,2,0,0
+768,1304113,Titans Vs RCB,RCB,Shahbaz Ahmed,1159711,2,0,15,0,7.50,5,1,1,0,0
+769,1304113,Titans Vs RCB,RCB,Josh Hazlewood,288284,4,0,39,2,9.75,10,3,3,0,0
+770,1304113,Titans Vs RCB,RCB,Glenn Maxwell,325026,4,1,28,1,7.00,14,0,3,1,0
+771,1304113,Titans Vs RCB,RCB,Mahipal Lomror,853265,1,0,11,0,11.00,1,0,1,0,0
+772,1304113,Titans Vs RCB,RCB,Wanindu Hasaranga de Silva,784379,4,0,25,1,6.25,7,2,0,1,0
+773,1304113,Titans Vs RCB,RCB,Harshal Patel,390481,1,0,6,0,6.00,3,0,0,0,0
+774,1304113,Titans Vs RCB,Titans,Mohammed Shami,481896,2,0,23,0,11.50,6,4,0,1,0
+775,1304113,Titans Vs RCB,Titans,Hardik Pandya,625371,3,0,35,0,11.66,6,4,2,1,0
+776,1304113,Titans Vs RCB,Titans,Rashid Khan,793463,4,0,32,2,8.00,6,1,2,0,0
+777,1304113,Titans Vs RCB,Titans,Yash Dayal,1159720,4,0,35,0,8.75,6,5,0,1,0
+778,1304113,Titans Vs RCB,Titans,Ravisrinivasan Sai Kishore,1048739,4,0,20,0,5.00,7,0,0,0,0
+779,1304113,Titans Vs RCB,Titans,Lockie Ferguson,493773,1.4,0,21,0,12.60,2,4,0,0,0
+780,1304114,Super Kings Vs Royals,Royals,Trent Boult,277912,4,0,44,1,11.00,10,6,2,0,0
+781,1304114,Super Kings Vs Royals,Royals,Prasidh Krishna,917159,4,0,32,0,8.00,12,3,2,0,0
+782,1304114,Super Kings Vs Royals,Royals,Ravichandran Ashwin,26421,4,0,28,1,7.00,9,2,1,2,0
+783,1304114,Super Kings Vs Royals,Royals,Yuzvendra Chahal,430246,4,0,26,2,6.50,9,3,0,1,0
+784,1304114,Super Kings Vs Royals,Royals,Obed McCoy,906783,4,0,20,2,5.00,11,1,0,2,0
+785,1304114,Super Kings Vs Royals,Super Kings,Mukesh Choudhary,1125688,4,0,41,0,10.25,8,6,1,0,0
+786,1304114,Super Kings Vs Royals,Super Kings,Simarjeet Singh,1159722,3,0,18,1,6.00,10,3,0,0,0
+787,1304114,Super Kings Vs Royals,Super Kings,Mitchell Santner,502714,3,0,15,1,5.00,7,1,0,0,0
+788,1304114,Super Kings Vs Royals,Super Kings,Matheesha Pathirana,1194795,3.4,0,28,0,7.63,12,3,0,4,0
+789,1304114,Super Kings Vs Royals,Super Kings,Moeen Ali,8917,4,0,21,1,5.25,8,0,1,0,0
+790,1304114,Super Kings Vs Royals,Super Kings,Prashant Solanki,1252337,2,0,20,2,10.00,6,1,2,0,0
+791,1304115,Capitals Vs Mumbai,Mumbai,Daniel Sams,826901,4,0,30,1,7.50,10,1,2,1,0
+792,1304115,Capitals Vs Mumbai,Mumbai,Hrithik Shokeen,1175423,4,0,34,0,8.50,11,3,2,2,0
+793,1304115,Capitals Vs Mumbai,Mumbai,Jasprit Bumrah,625383,4,0,25,3,6.25,11,0,2,0,0
+794,1304115,Capitals Vs Mumbai,Mumbai,Mayank Markande,1081442,4,0,26,1,6.50,9,1,1,0,0
+795,1304115,Capitals Vs Mumbai,Mumbai,Riley Meredith,961713,2,0,9,0,4.50,7,1,0,1,0
+796,1304115,Capitals Vs Mumbai,Mumbai,Ramandeep Singh,1079470,2,0,29,2,14.50,4,2,2,4,0
+797,1304115,Capitals Vs Mumbai,Capitals,Khaleel Ahmed,942645,3.1,0,24,0,7.57,11,3,1,1,1
+798,1304115,Capitals Vs Mumbai,Capitals,Anrich Nortje,481979,4,0,37,2,9.25,11,4,2,0,0
+799,1304115,Capitals Vs Mumbai,Capitals,Shardul Thakur,475281,3,0,32,2,10.66,8,0,4,2,0
+800,1304115,Capitals Vs Mumbai,Capitals,Mitchell Marsh,272450,2,0,7,0,3.50,8,1,0,0,0
+801,1304115,Capitals Vs Mumbai,Capitals,Kuldeep Yadav,559235,4,0,33,1,8.25,9,1,3,0,0
+802,1304115,Capitals Vs Mumbai,Capitals,Axar Patel,554691,3,0,26,0,8.66,3,0,2,0,0
+803,1304116,Sunrisers Vs Punjab Kings,Punjab Kings,Liam Livingstone,403902,4,0,25,0,6.25,8,1,1,0,0
+804,1304116,Sunrisers Vs Punjab Kings,Punjab Kings,Arshdeep Singh,1125976,4,0,25,0,6.25,10,3,0,0,0
+805,1304116,Sunrisers Vs Punjab Kings,Punjab Kings,Kagiso Rabada,550215,4,0,38,1,9.50,10,4,1,3,0
+806,1304116,Sunrisers Vs Punjab Kings,Punjab Kings,Nathan Ellis,826915,4,0,40,3,10.00,11,3,3,1,1
+807,1304116,Sunrisers Vs Punjab Kings,Punjab Kings,Harpreet Brar,1168641,4,0,26,3,6.50,11,2,1,0,0
+808,1304116,Sunrisers Vs Punjab Kings,Sunrisers,Bhuvneshwar Kumar,326016,2,0,22,0,11.00,4,3,1,0,0
+809,1304116,Sunrisers Vs Punjab Kings,Sunrisers,Washington Sundar,719715,2,0,19,1,9.50,4,2,1,0,0
+810,1304116,Sunrisers Vs Punjab Kings,Sunrisers,Fazalhaq Farooqi,974175,4,0,32,2,8.00,7,4,0,1,0
+811,1304116,Sunrisers Vs Punjab Kings,Sunrisers,Jagadeesha Suchith,527663,4,0,38,1,9.50,9,2,3,2,0
+812,1304116,Sunrisers Vs Punjab Kings,Sunrisers,Umran Malik,1246528,2.1,0,24,1,11.07,5,2,2,0,0
+813,1304116,Sunrisers Vs Punjab Kings,Sunrisers,Romario Shepherd,677077,1,0,23,0,23.00,1,2,2,1,0
+814,1312197,Royals Vs Titans,Titans,Mohammed Shami,481896,4,0,43,1,10.75,11,6,1,2,0
+815,1312197,Royals Vs Titans,Titans,Yash Dayal,1159720,4,0,46,1,11.50,11,5,2,2,1
+816,1312197,Royals Vs Titans,Titans,Alzarri Joseph,670031,2,0,27,0,13.50,4,3,2,0,0
+817,1312197,Royals Vs Titans,Titans,Rashid Khan,793463,4,0,15,0,3.75,10,0,0,0,0
+818,1312197,Royals Vs Titans,Titans,Ravisrinivasan Sai Kishore,1048739,4,0,43,1,10.75,4,4,2,1,0
+819,1312197,Royals Vs Titans,Titans,Hardik Pandya,625371,2,0,14,1,7.00,4,1,0,1,0
+820,1312197,Royals Vs Titans,Royals,Trent Boult,277912,4,0,38,1,9.50,8,6,0,0,0
+821,1312197,Royals Vs Titans,Royals,Prasidh Krishna,917159,3.3,0,40,0,11.42,10,3,3,1,0
+822,1312197,Royals Vs Titans,Royals,Ravichandran Ashwin,26421,4,0,40,0,10.00,5,4,1,3,0
+823,1312197,Royals Vs Titans,Royals,Yuzvendra Chahal,430246,4,0,32,0,8.00,5,1,2,0,0
+824,1312197,Royals Vs Titans,Royals,Obed McCoy,906783,4,0,40,1,10.00,4,5,0,3,1
+825,1312198,RCB Vs Super Giants,Super Giants,Mohsin Khan,1132005,4,0,25,1,6.25,13,1,1,1,0
+826,1312198,RCB Vs Super Giants,Super Giants,Dushmantha Chameera,552152,4,0,54,0,13.50,7,8,2,0,1
+827,1312198,RCB Vs Super Giants,Super Giants,Krunal Pandya,471342,4,0,39,1,9.75,4,4,1,1,0
+828,1312198,RCB Vs Super Giants,Super Giants,Avesh Khan,694211,4,0,44,1,11.00,10,6,1,2,0
+829,1312198,RCB Vs Super Giants,Super Giants,Ravi Bishnoi,1175441,4,0,45,1,11.25,8,2,4,1,0
+830,1312198,RCB Vs Super Giants,RCB,Mohammed Siraj,940973,4,0,41,1,10.25,10,1,4,2,0
+831,1312198,RCB Vs Super Giants,RCB,Josh Hazlewood,288284,4,0,43,3,10.75,11,3,3,3,0
+832,1312198,RCB Vs Super Giants,RCB,Shahbaz Ahmed,1159711,4,0,35,0,8.75,6,1,2,2,0
+833,1312198,RCB Vs Super Giants,RCB,Wanindu Hasaranga de Silva,784379,4,0,42,1,10.50,5,1,4,0,0
+834,1312198,RCB Vs Super Giants,RCB,Harshal Patel,390481,4,0,25,1,6.25,11,0,1,3,0
+835,1312199,RCB Vs Royals,Royals,Trent Boult,277912,4,0,28,1,7.00,13,3,1,0,0
+836,1312199,RCB Vs Royals,Royals,Prasidh Krishna,917159,4,0,22,3,5.50,17,3,1,1,0
+837,1312199,RCB Vs Royals,Royals,Obed McCoy,906783,4,0,23,3,5.75,10,2,0,1,0
+838,1312199,RCB Vs Royals,Royals,Ravichandran Ashwin,26421,4,0,31,1,7.75,5,0,2,1,0
+839,1312199,RCB Vs Royals,Royals,Yuzvendra Chahal,430246,4,0,45,0,11.25,2,1,3,4,0
+840,1312199,RCB Vs Royals,RCB,Mohammed Siraj,940973,2,0,31,0,15.50,5,3,3,0,0
+841,1312199,RCB Vs Royals,RCB,Josh Hazlewood,288284,4,0,23,2,5.75,12,3,0,0,0
+842,1312199,RCB Vs Royals,RCB,Glenn Maxwell,325026,3,0,17,0,5.66,5,0,0,0,0
+843,1312199,RCB Vs Royals,RCB,Shahbaz Ahmed,1159711,2,0,35,0,17.50,2,3,3,0,0
+844,1312199,RCB Vs Royals,RCB,Harshal Patel,390481,3.1,0,29,0,9.15,6,2,2,0,0
+845,1312199,RCB Vs Royals,RCB,Wanindu Hasaranga de Silva,784379,4,0,26,1,6.50,11,1,2,0,0
+846,1312200,Royals Vs Titans,Titans,Mohammed Shami,481896,4,0,33,1,8.25,12,4,1,0,0
+847,1312200,Royals Vs Titans,Titans,Yash Dayal,1159720,3,0,18,1,6.00,9,1,1,0,0
+848,1312200,Royals Vs Titans,Titans,Lockie Ferguson,493773,3,0,22,0,7.33,5,3,0,0,0
+849,1312200,Royals Vs Titans,Titans,Rashid Khan,793463,4,0,18,1,4.50,9,1,0,0,0
+850,1312200,Royals Vs Titans,Titans,Hardik Pandya,625371,4,0,17,3,4.25,14,2,0,0,0
+851,1312200,Royals Vs Titans,Titans,Ravisrinivasan Sai Kishore,1048739,2,0,20,2,10.00,3,0,2,0,0
+852,1312200,Royals Vs Titans,Royals,Trent Boult,277912,4,1,14,1,3.50,17,1,0,2,0
+853,1312200,Royals Vs Titans,Royals,Prasidh Krishna,917159,4,0,40,1,10.00,13,5,1,2,0
+854,1312200,Royals Vs Titans,Royals,Yuzvendra Chahal,430246,4,0,20,1,5.00,10,1,0,0,0
+855,1312200,Royals Vs Titans,Royals,Obed McCoy,906783,3.1,0,26,0,8.21,5,2,1,0,0
+856,1312200,Royals Vs Titans,Royals,Ravichandran Ashwin,26421,3,0,32,0,10.66,2,1,2,0,0

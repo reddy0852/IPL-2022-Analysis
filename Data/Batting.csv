@@ -1,0 +1,1177 @@
+,Match ID,Match,Team,Position,Batter Name,Player ID,Out,Runs,Balls,4s,6s,Strike Rate
+0,1304047,Super Kings Vs KKR,Super Kings,1,Ruturaj Gaikwad ,1060380,c Rana b Yadav,0,4,0,0,0.00
+1,1304047,Super Kings Vs KKR,Super Kings,2,Devon Conway ,379140,c SS Iyer b Yadav,3,8,0,0,37.50
+2,1304047,Super Kings Vs KKR,Super Kings,3,Robin Uthappa ,35582,st †Jackson b Varun,28,21,2,2,133.33
+3,1304047,Super Kings Vs KKR,Super Kings,4,Ambati Rayudu ,33141,run out (SS Iyer/Narine),15,17,1,1,88.23
+4,1304047,Super Kings Vs KKR,Super Kings,5,Ravindra Jadeja (c),234675,not out ,26,28,0,1,92.85
+5,1304047,Super Kings Vs KKR,Super Kings,6,Shivam Dube ,714451,c Narine b Russell,3,6,0,0,50.00
+6,1304047,Super Kings Vs KKR,Super Kings,7,MS Dhoni †,28081,not out ,50,38,7,1,131.57
+7,1304047,Super Kings Vs KKR,KKR,1,Ajinkya Rahane ,277916,c Jadeja b Santner,44,34,6,1,129.41
+8,1304047,Super Kings Vs KKR,KKR,2,Venkatesh Iyer ,851403,c †Dhoni b Bravo,16,16,2,0,100.00
+9,1304047,Super Kings Vs KKR,KKR,3,Nitish Rana ,604527,c Rayudu b Bravo,21,17,2,1,123.52
+10,1304047,Super Kings Vs KKR,KKR,4,Shreyas Iyer (c),642519,not out ,20,19,1,0,105.26
+11,1304047,Super Kings Vs KKR,KKR,5,Sam Billings ,297628,c Deshpande b Bravo,25,22,1,1,113.63
+12,1304047,Super Kings Vs KKR,KKR,6,Sheldon Jackson †,237696,not out ,3,3,0,0,100.00
+13,1304048,Mumbai Vs Capitals,Mumbai,1,Rohit Sharma (c),34102,c Powell b Kuldeep Yadav,41,32,4,2,128.12
+14,1304048,Mumbai Vs Capitals,Mumbai,2,Ishan Kishan †,720471,not out ,81,48,11,2,168.75
+15,1304048,Mumbai Vs Capitals,Mumbai,3,Anmolpreet Singh ,851261,c Lalit Yadav b Kuldeep Yadav,8,9,0,0,88.88
+16,1304048,Mumbai Vs Capitals,Mumbai,4,Tilak Varma ,1170265,c Shaw b Ahmed,22,15,3,0,146.66
+17,1304048,Mumbai Vs Capitals,Mumbai,5,Kieron Pollard ,230559,c Seifert b Kuldeep Yadav,3,6,0,0,50.00
+18,1304048,Mumbai Vs Capitals,Mumbai,6,Tim David ,892749,c Mandeep Singh b Ahmed,12,8,0,1,150.00
+19,1304048,Mumbai Vs Capitals,Mumbai,7,Daniel Sams ,826901,not out ,7,2,0,1,350.00
+20,1304048,Mumbai Vs Capitals,Capitals,1,Prithvi Shaw ,1070168,c †Ishan Kishan b Basil Thampi,38,24,4,2,158.33
+21,1304048,Mumbai Vs Capitals,Capitals,2,Tim Seifert ,625964, b Ashwin,21,14,4,0,150.00
+22,1304048,Mumbai Vs Capitals,Capitals,3,Mandeep Singh ,398506,c Tilak Varma b Ashwin,0,2,0,0,0.00
+23,1304048,Mumbai Vs Capitals,Capitals,4,Rishabh Pant (c)†,931581,c David b Mills,1,2,0,0,50.00
+24,1304048,Mumbai Vs Capitals,Capitals,5,Lalit Yadav ,930189,not out ,48,38,4,2,126.31
+25,1304048,Mumbai Vs Capitals,Capitals,6,Rovman Powell ,820351,c Sams b Basil Thampi,0,2,0,0,0.00
+26,1304048,Mumbai Vs Capitals,Capitals,7,Shardul Thakur ,475281,c Sharma b Basil Thampi,22,11,4,0,200.00
+27,1304048,Mumbai Vs Capitals,Capitals,8,Axar Patel ,554691,not out ,38,17,2,3,223.52
+28,1304049,RCB Vs Punjab Kings,RCB,1,Faf du Plessis (c),44828,c Shahrukh Khan b Arshdeep Singh,88,57,3,7,154.38
+29,1304049,RCB Vs Punjab Kings,RCB,2,Anuj Rawat ,1123073, b Chahar,21,20,2,1,105.00
+30,1304049,RCB Vs Punjab Kings,RCB,3,Virat Kohli ,253802,not out ,41,29,1,2,141.37
+31,1304049,RCB Vs Punjab Kings,RCB,4,Dinesh Karthik †,30045,not out ,32,14,3,3,228.57
+32,1304049,RCB Vs Punjab Kings,Punjab Kings,1,Mayank Agarwal (c),398438,c Shahbaz Ahmed b de Silva,32,24,2,2,133.33
+33,1304049,RCB Vs Punjab Kings,Punjab Kings,2,Shikhar Dhawan ,28235,c Anuj Rawat b Patel,43,29,5,1,148.27
+34,1304049,RCB Vs Punjab Kings,Punjab Kings,3,Bhanuka Rajapaksa †,342619,c Shahbaz Ahmed b Mohammed Siraj,43,22,2,4,195.45
+35,1304049,RCB Vs Punjab Kings,Punjab Kings,4,Liam Livingstone ,403902,c Anuj Rawat b Akash Deep,19,10,0,2,190.00
+36,1304049,RCB Vs Punjab Kings,Punjab Kings,5,Raj Bawa ,1292502,lbw b Mohammed Siraj,0,1,0,0,0.00
+37,1304049,RCB Vs Punjab Kings,Punjab Kings,6,M Shahrukh Khan ,719719,not out ,24,20,1,2,120.00
+38,1304049,RCB Vs Punjab Kings,Punjab Kings,7,Odean Smith ,820691,not out ,25,8,1,3,312.50
+39,1304050,Super Giants Vs Titans,Super Giants,1,KL Rahul (c),422108,c †Wade b Mohammed Shami,0,1,0,0,0.00
+40,1304050,Super Giants Vs Titans,Super Giants,2,Quinton de Kock †,379143, b Mohammed Shami,7,9,1,0,77.77
+41,1304050,Super Giants Vs Titans,Super Giants,3,Evin Lewis ,431901,c Shubman Gill b Aaron,10,9,2,0,111.11
+42,1304050,Super Giants Vs Titans,Super Giants,4,Manish Pandey ,290630, b Mohammed Shami,6,5,1,0,120.00
+43,1304050,Super Giants Vs Titans,Super Giants,5,Deepak Hooda ,497121,lbw b Rashid Khan,55,41,6,2,134.14
+44,1304050,Super Giants Vs Titans,Super Giants,6,Ayush Badoni ,1151270,c Pandya b Aaron,54,41,4,3,131.70
+45,1304050,Super Giants Vs Titans,Super Giants,7,Krunal Pandya ,471342,not out ,21,13,3,0,161.53
+46,1304050,Super Giants Vs Titans,Super Giants,8,Dushmantha Chameera ,552152,not out ,1,1,0,0,100.00
+47,1304050,Super Giants Vs Titans,Titans,1,Shubman Gill ,1070173,c Hooda b Chameera,0,3,0,0,0.00
+48,1304050,Super Giants Vs Titans,Titans,2,Matthew Wade †,230193, b Hooda,30,29,4,0,103.44
+49,1304050,Super Giants Vs Titans,Titans,3,Vijay Shankar ,477021, b Chameera,4,6,0,0,66.66
+50,1304050,Super Giants Vs Titans,Titans,4,Hardik Pandya (c),625371,c Pandey b Pandya,33,28,5,1,117.85
+51,1304050,Super Giants Vs Titans,Titans,5,David Miller ,321777,c Rahul b Avesh Khan,30,21,1,2,142.85
+52,1304050,Super Giants Vs Titans,Titans,6,Rahul Tewatia ,423838,not out ,40,24,5,2,166.66
+53,1304050,Super Giants Vs Titans,Titans,7,Abhinav Manohar ,778963,not out ,15,7,3,0,214.28
+54,1304051,Royals Vs Sunrisers,Royals,1,Jos Buttler ,308967,c †Pooran b Umran Malik,35,28,3,3,125.00
+55,1304051,Royals Vs Sunrisers,Royals,2,Yashasvi Jaiswal ,1151278,c Markram b Shepherd,20,16,2,1,125.00
+56,1304051,Royals Vs Sunrisers,Royals,3,Sanju Samson (c)†,425943,c Abdul Samad b Kumar,55,27,3,5,203.70
+57,1304051,Royals Vs Sunrisers,Royals,4,Devdutt Padikkal ,1119026, b Umran Malik,41,29,4,2,141.37
+58,1304051,Royals Vs Sunrisers,Royals,5,Shimron Hetmyer ,670025, b Natarajan,32,13,2,3,246.15
+59,1304051,Royals Vs Sunrisers,Royals,6,Riyan Parag ,1079434,c †Pooran b Natarajan,12,9,2,0,133.33
+60,1304051,Royals Vs Sunrisers,Royals,7,Nathan Coulter-Nile ,261354,not out ,1,2,0,0,50.00
+61,1304051,Royals Vs Sunrisers,Sunrisers,1,Kane Williamson (c),277906,c Padikkal b Prasidh Krishna,2,7,0,0,28.57
+62,1304051,Royals Vs Sunrisers,Sunrisers,2,Abhishek Sharma ,1070183,c Hetmyer b Chahal,9,19,1,0,47.36
+63,1304051,Royals Vs Sunrisers,Sunrisers,3,Rahul Tripathi ,446763,c †Samson b Prasidh Krishna,0,3,0,0,0.00
+64,1304051,Royals Vs Sunrisers,Sunrisers,4,Nicholas Pooran †,604302,lbw b Boult,0,9,0,0,0.00
+65,1304051,Royals Vs Sunrisers,Sunrisers,5,Aiden Markram ,600498,not out ,57,41,5,2,139.02
+66,1304051,Royals Vs Sunrisers,Sunrisers,6,Abdul Samad ,1175485,c Parag b Chahal,4,6,0,0,66.66
+67,1304051,Royals Vs Sunrisers,Sunrisers,7,Romario Shepherd ,677077, b Chahal,24,18,0,2,133.33
+68,1304051,Royals Vs Sunrisers,Sunrisers,8,Washington Sundar ,719715,c Hetmyer b Boult,40,14,5,2,285.71
+69,1304051,Royals Vs Sunrisers,Sunrisers,9,Bhuvneshwar Kumar ,326016,not out ,3,4,0,0,75.00
+70,1304052,KKR Vs RCB,KKR,1,Ajinkya Rahane ,277916,c Shahbaz Ahmed b Mohammed Siraj,9,10,1,0,90.00
+71,1304052,KKR Vs RCB,KKR,2,Venkatesh Iyer ,851403,c & b Akash Deep,10,14,1,0,71.42
+72,1304052,KKR Vs RCB,KKR,3,Shreyas Iyer (c),642519,c du Plessis b de Silva,13,10,2,0,130.00
+73,1304052,KKR Vs RCB,KKR,4,Nitish Rana ,604527,c Willey b Akash Deep,10,5,1,1,200.00
+74,1304052,KKR Vs RCB,KKR,5,Sunil Narine ,230558,c Akash Deep b de Silva,12,8,1,1,150.00
+75,1304052,KKR Vs RCB,KKR,6,Sam Billings ,297628,c Kohli b Patel,14,15,0,1,93.33
+76,1304052,KKR Vs RCB,KKR,7,Sheldon Jackson †,237696, b de Silva,0,1,0,0,0.00
+77,1304052,KKR Vs RCB,KKR,8,Andre Russell ,276298,c †Karthik b Patel,25,18,1,3,138.88
+78,1304052,KKR Vs RCB,KKR,9,Tim Southee ,232364,c du Plessis b de Silva,1,5,0,0,20.00
+79,1304052,KKR Vs RCB,KKR,10,Umesh Yadav ,376116, b Akash Deep,18,12,2,1,150.00
+80,1304052,KKR Vs RCB,KKR,11,Varun Chakravarthy ,1108375,not out ,10,16,2,0,62.50
+81,1304052,KKR Vs RCB,RCB,1,Faf du Plessis (c),44828,c Rahane b Southee,5,4,1,0,125.00
+82,1304052,KKR Vs RCB,RCB,2,Anuj Rawat ,1123073,c †Jackson b Yadav,0,2,0,0,0.00
+83,1304052,KKR Vs RCB,RCB,3,Virat Kohli ,253802,c †Jackson b Yadav,12,7,2,0,171.42
+84,1304052,KKR Vs RCB,RCB,4,David Willey ,308251,c Rana b Narine,18,28,3,0,64.28
+85,1304052,KKR Vs RCB,RCB,5,Sherfane Rutherford ,914541,c †Jackson b Southee,28,40,1,1,70.00
+86,1304052,KKR Vs RCB,RCB,6,Shahbaz Ahmed ,1159711,st †Jackson b Varun,27,20,0,3,135.00
+87,1304052,KKR Vs RCB,RCB,7,Dinesh Karthik †,30045,not out ,14,7,1,1,200.00
+88,1304052,KKR Vs RCB,RCB,8,Wanindu Hasaranga de Silva ,784379,c Russell b Southee,4,3,1,0,133.33
+89,1304052,KKR Vs RCB,RCB,9,Harshal Patel ,390481,not out ,10,6,2,0,166.66
+90,1304053,Super Kings Vs Super Giants,Super Kings,1,Robin Uthappa ,35582,lbw b Ravi Bishnoi,50,27,8,1,185.18
+91,1304053,Super Kings Vs Super Giants,Super Kings,2,Ruturaj Gaikwad ,1060380,run out (Ravi Bishnoi),1,4,0,0,25.00
+92,1304053,Super Kings Vs Super Giants,Super Kings,3,Moeen Ali ,8917, b Avesh Khan,35,22,4,2,159.09
+93,1304053,Super Kings Vs Super Giants,Super Kings,4,Shivam Dube ,714451,c Lewis b Avesh Khan,49,30,5,2,163.33
+94,1304053,Super Kings Vs Super Giants,Super Kings,5,Ambati Rayudu ,33141, b Ravi Bishnoi,27,20,2,2,135.00
+95,1304053,Super Kings Vs Super Giants,Super Kings,6,Ravindra Jadeja (c),234675,c Pandey b Tye,17,9,3,0,188.88
+96,1304053,Super Kings Vs Super Giants,Super Kings,7,MS Dhoni †,28081,not out ,16,6,2,1,266.66
+97,1304053,Super Kings Vs Super Giants,Super Kings,8,Dwaine Pretorius ,327830,lbw b Tye,0,1,0,0,0.00
+98,1304053,Super Kings Vs Super Giants,Super Kings,9,Dwayne Bravo ,51439,not out ,1,1,0,0,100.00
+99,1304053,Super Kings Vs Super Giants,Super Giants,1,KL Rahul (c),422108,c Rayudu b Pretorius,40,26,2,3,153.84
+100,1304053,Super Kings Vs Super Giants,Super Giants,2,Quinton de Kock †,379143,c †Dhoni b Pretorius,61,45,9,0,135.55
+101,1304053,Super Kings Vs Super Giants,Super Giants,3,Manish Pandey ,290630,c Bravo b Deshpande,5,6,0,0,83.33
+102,1304053,Super Kings Vs Super Giants,Super Giants,4,Evin Lewis ,431901,not out ,55,23,6,3,239.13
+103,1304053,Super Kings Vs Super Giants,Super Giants,5,Deepak Hooda ,497121,c Jadeja b Bravo,13,8,1,1,162.50
+104,1304053,Super Kings Vs Super Giants,Super Giants,6,Ayush Badoni ,1151270,not out ,19,9,0,2,211.11
+105,1304054,Punjab Kings Vs KKR,Punjab Kings,1,Mayank Agarwal (c),398438,lbw b Yadav,1,5,0,0,20.00
+106,1304054,Punjab Kings Vs KKR,Punjab Kings,2,Shikhar Dhawan ,28235,c †Billings b Southee,16,15,1,1,106.66
+107,1304054,Punjab Kings Vs KKR,Punjab Kings,3,Bhanuka Rajapaksa †,342619,c Southee b Shivam Mavi,31,9,3,3,344.44
+108,1304054,Punjab Kings Vs KKR,Punjab Kings,4,Liam Livingstone ,403902,c Southee b Yadav,19,16,1,1,118.75
+109,1304054,Punjab Kings Vs KKR,Punjab Kings,5,Raj Bawa ,1292502, b Narine,11,13,1,0,84.61
+110,1304054,Punjab Kings Vs KKR,Punjab Kings,6,M Shahrukh Khan ,719719,c Rana b Southee,0,5,0,0,0.00
+111,1304054,Punjab Kings Vs KKR,Punjab Kings,7,Harpreet Brar ,1168641, b Yadav,14,18,1,1,77.77
+112,1304054,Punjab Kings Vs KKR,Punjab Kings,8,Odean Smith ,820691,not out ,9,12,0,1,75.00
+113,1304054,Punjab Kings Vs KKR,Punjab Kings,9,Rahul Chahar ,1064812,c Rana b Yadav,0,2,0,0,0.00
+114,1304054,Punjab Kings Vs KKR,Punjab Kings,10,Kagiso Rabada ,550215,c Southee b Russell,25,16,4,1,156.25
+115,1304054,Punjab Kings Vs KKR,Punjab Kings,11,Arshdeep Singh ,1125976,run out (Rana/Russell),0,1,0,0,0.00
+116,1304054,Punjab Kings Vs KKR,KKR,1,Ajinkya Rahane ,277916,c Smith b Rabada,12,11,3,0,109.09
+117,1304054,Punjab Kings Vs KKR,KKR,2,Venkatesh Iyer ,851403,c Harpreet Brar b Smith,3,7,0,0,42.85
+118,1304054,Punjab Kings Vs KKR,KKR,3,Shreyas Iyer (c),642519,c Rabada b Chahar,26,15,5,0,173.33
+119,1304054,Punjab Kings Vs KKR,KKR,4,Sam Billings †,297628,not out ,24,23,1,1,104.34
+120,1304054,Punjab Kings Vs KKR,KKR,5,Nitish Rana ,604527,lbw b Chahar,0,2,0,0,0.00
+121,1304054,Punjab Kings Vs KKR,KKR,6,Andre Russell ,276298,not out ,70,31,2,8,225.80
+122,1304055,Royals Vs Mumbai,Royals,1,Jos Buttler ,308967, b Bumrah,100,68,11,5,147.05
+123,1304055,Royals Vs Mumbai,Royals,2,Yashasvi Jaiswal ,1151278,c David b Bumrah,1,2,0,0,50.00
+124,1304055,Royals Vs Mumbai,Royals,3,Devdutt Padikkal ,1119026,c Sharma b Mills,7,7,1,0,100.00
+125,1304055,Royals Vs Mumbai,Royals,4,Sanju Samson (c)†,425943,c Tilak Varma b Pollard,30,21,1,3,142.85
+126,1304055,Royals Vs Mumbai,Royals,5,Shimron Hetmyer ,670025,c Tilak Varma b Bumrah,35,14,3,3,250.00
+127,1304055,Royals Vs Mumbai,Royals,6,Riyan Parag ,1079434,c David b Mills,5,4,1,0,125.00
+128,1304055,Royals Vs Mumbai,Royals,7,Ravichandran Ashwin ,26421,run out (Tilak Varma/†Ishan Kishan),1,1,0,0,100.00
+129,1304055,Royals Vs Mumbai,Royals,8,Navdeep Saini ,700167,c †Ishan Kishan b Mills,2,2,0,0,100.00
+130,1304055,Royals Vs Mumbai,Royals,9,Trent Boult ,277912,not out ,1,1,0,0,100.00
+131,1304055,Royals Vs Mumbai,Mumbai,1,Ishan Kishan †,720471,c Saini b Boult,54,43,5,1,125.58
+132,1304055,Royals Vs Mumbai,Mumbai,2,Rohit Sharma (c),34102,c Parag b Prasidh Krishna,10,5,0,1,200.00
+133,1304055,Royals Vs Mumbai,Mumbai,3,Anmolpreet Singh ,851261,c Padikkal b Saini,5,4,1,0,125.00
+134,1304055,Royals Vs Mumbai,Mumbai,4,Tilak Varma ,1170265, b Ashwin,61,33,3,5,184.84
+135,1304055,Royals Vs Mumbai,Mumbai,5,Kieron Pollard ,230559,c Buttler b Saini,22,24,3,1,91.66
+136,1304055,Royals Vs Mumbai,Mumbai,6,Tim David ,892749,lbw b Chahal,1,3,0,0,33.33
+137,1304055,Royals Vs Mumbai,Mumbai,7,Daniel Sams ,826901,c Buttler b Chahal,0,1,0,0,0.00
+138,1304055,Royals Vs Mumbai,Mumbai,8,Murugan Ashwin ,528067,run out (†Samson),6,8,1,0,75.00
+139,1304055,Royals Vs Mumbai,Mumbai,9,Jasprit Bumrah ,625383,not out ,0,1,0,0,0.00
+140,1304056,Titans Vs Capitals,Titans,1,Matthew Wade †,230193,c †Pant b Mustafizur Rahman,1,2,0,0,50.00
+141,1304056,Titans Vs Capitals,Titans,2,Shubman Gill ,1070173,c Patel b Ahmed,84,46,6,4,182.60
+142,1304056,Titans Vs Capitals,Titans,3,Vijay Shankar ,477021, b Kuldeep Yadav,13,20,1,0,65.00
+143,1304056,Titans Vs Capitals,Titans,4,Hardik Pandya (c),625371,c Powell b Ahmed,31,27,4,0,114.81
+144,1304056,Titans Vs Capitals,Titans,5,David Miller ,321777,not out ,20,15,2,0,133.33
+145,1304056,Titans Vs Capitals,Titans,6,Rahul Tewatia ,423838,c Thakur b Mustafizur Rahman,14,8,1,1,175.00
+146,1304056,Titans Vs Capitals,Titans,7,Abhinav Manohar ,778963,c Patel b Mustafizur Rahman,1,2,0,0,50.00
+147,1304056,Titans Vs Capitals,Titans,8,Rashid Khan ,793463,not out ,0,1,0,0,0.00
+148,1304056,Titans Vs Capitals,Capitals,1,Prithvi Shaw ,1070168,c Shankar b Ferguson,10,7,1,0,142.85
+149,1304056,Titans Vs Capitals,Capitals,2,Tim Seifert ,625964,c Manohar b Pandya,3,5,0,0,60.00
+150,1304056,Titans Vs Capitals,Capitals,3,Mandeep Singh ,398506,c †Wade b Ferguson,18,16,4,0,112.50
+151,1304056,Titans Vs Capitals,Capitals,4,Rishabh Pant (c)†,931581,c Manohar b Ferguson,43,29,7,0,148.27
+152,1304056,Titans Vs Capitals,Capitals,5,Lalit Yadav ,930189,run out (Manohar/Shankar),25,22,2,1,113.63
+153,1304056,Titans Vs Capitals,Capitals,6,Rovman Powell ,820351,lbw b Mohammed Shami,20,12,2,1,166.66
+154,1304056,Titans Vs Capitals,Capitals,7,Axar Patel ,554691,c †Wade b Ferguson,8,4,2,0,200.00
+155,1304056,Titans Vs Capitals,Capitals,8,Shardul Thakur ,475281,lbw b Rashid Khan,2,5,0,0,40.00
+156,1304056,Titans Vs Capitals,Capitals,9,Kuldeep Yadav ,559235,not out ,14,14,0,1,100.00
+157,1304056,Titans Vs Capitals,Capitals,10,Khaleel Ahmed ,942645,c †Wade b Mohammed Shami,0,1,0,0,0.00
+158,1304056,Titans Vs Capitals,Capitals,11,Mustafizur Rahman ,330902,not out ,3,5,0,0,60.00
+159,1304057,Punjab Kings Vs Super Kings,Punjab Kings,1,Mayank Agarwal (c),398438,c Uthappa b Mukesh Choudhary,4,2,1,0,200.00
+160,1304057,Punjab Kings Vs Super Kings,Punjab Kings,2,Shikhar Dhawan ,28235,c Jadeja b Bravo,33,24,4,1,137.50
+161,1304057,Punjab Kings Vs Super Kings,Punjab Kings,3,Bhanuka Rajapaksa ,342619,run out (Jordan/†Dhoni),9,5,0,1,180.00
+162,1304057,Punjab Kings Vs Super Kings,Punjab Kings,4,Liam Livingstone ,403902,c Rayudu b Jadeja,60,32,5,5,187.50
+163,1304057,Punjab Kings Vs Super Kings,Punjab Kings,5,Jitesh Sharma †,721867,c Uthappa b Pretorius,26,17,0,3,152.94
+164,1304057,Punjab Kings Vs Super Kings,Punjab Kings,6,M Shahrukh Khan ,719719,c Pretorius b Jordan,6,11,0,0,54.54
+165,1304057,Punjab Kings Vs Super Kings,Punjab Kings,7,Odean Smith ,820691,c Bravo b Jordan,3,7,0,0,42.85
+166,1304057,Punjab Kings Vs Super Kings,Punjab Kings,8,Kagiso Rabada ,550215,not out ,12,12,1,0,100.00
+167,1304057,Punjab Kings Vs Super Kings,Punjab Kings,9,Rahul Chahar ,1064812,c Bravo b Pretorius,12,8,1,1,150.00
+168,1304057,Punjab Kings Vs Super Kings,Punjab Kings,10,Vaibhav Arora ,1209292,not out ,1,2,0,0,50.00
+169,1304057,Punjab Kings Vs Super Kings,Super Kings,1,Robin Uthappa ,35582,c Agarwal b Arora,13,10,2,0,130.00
+170,1304057,Punjab Kings Vs Super Kings,Super Kings,2,Ruturaj Gaikwad ,1060380,c Dhawan b Rabada,1,4,0,0,25.00
+171,1304057,Punjab Kings Vs Super Kings,Super Kings,3,Moeen Ali ,8917, b Arora,0,2,0,0,0.00
+172,1304057,Punjab Kings Vs Super Kings,Super Kings,4,Ambati Rayudu ,33141,c †Sharma b Smith,13,21,2,0,61.90
+173,1304057,Punjab Kings Vs Super Kings,Super Kings,5,Ravindra Jadeja (c),234675, b Arshdeep Singh,0,3,0,0,0.00
+174,1304057,Punjab Kings Vs Super Kings,Super Kings,6,Shivam Dube ,714451,c Arshdeep Singh b Livingstone,57,30,6,3,190.00
+175,1304057,Punjab Kings Vs Super Kings,Super Kings,7,MS Dhoni †,28081,c †Sharma b Chahar,23,28,1,1,82.14
+176,1304057,Punjab Kings Vs Super Kings,Super Kings,8,Dwayne Bravo ,51439,c & b Livingstone,0,1,0,0,0.00
+177,1304057,Punjab Kings Vs Super Kings,Super Kings,9,Dwaine Pretorius ,327830,c Arshdeep Singh b Chahar,8,4,0,1,200.00
+178,1304057,Punjab Kings Vs Super Kings,Super Kings,10,Chris Jordan ,288992,c Livingstone b Chahar,5,5,0,0,100.00
+179,1304057,Punjab Kings Vs Super Kings,Super Kings,11,Mukesh Choudhary ,1125688,not out ,2,2,0,0,100.00
+180,1304058,Super Giants Vs Sunrisers,Super Giants,1,KL Rahul (c),422108,lbw b Natarajan,68,50,6,1,136.00
+181,1304058,Super Giants Vs Sunrisers,Super Giants,2,Quinton de Kock †,379143,c Williamson b Washington Sundar,1,4,0,0,25.00
+182,1304058,Super Giants Vs Sunrisers,Super Giants,3,Evin Lewis ,431901,lbw b Washington Sundar,1,5,0,0,20.00
+183,1304058,Super Giants Vs Sunrisers,Super Giants,4,Manish Pandey ,290630,c Kumar b Shepherd,11,10,1,1,110.00
+184,1304058,Super Giants Vs Sunrisers,Super Giants,5,Deepak Hooda ,497121,c Tripathi b Shepherd,51,33,3,3,154.54
+185,1304058,Super Giants Vs Sunrisers,Super Giants,6,Ayush Badoni ,1151270,run out (†Pooran/Shepherd),19,12,3,0,158.33
+186,1304058,Super Giants Vs Sunrisers,Super Giants,7,Krunal Pandya ,471342, b Natarajan,6,3,1,0,200.00
+187,1304058,Super Giants Vs Sunrisers,Super Giants,8,Jason Holder ,391485,not out ,8,3,0,1,266.66
+188,1304058,Super Giants Vs Sunrisers,Sunrisers,1,Abhishek Sharma ,1070183,c Pandey b Avesh Khan,13,11,2,0,118.18
+189,1304058,Super Giants Vs Sunrisers,Sunrisers,2,Kane Williamson (c),277906,c Tye b Avesh Khan,16,16,1,1,100.00
+190,1304058,Super Giants Vs Sunrisers,Sunrisers,3,Rahul Tripathi ,446763,c Ravi Bishnoi b Pandya,44,30,5,1,146.66
+191,1304058,Super Giants Vs Sunrisers,Sunrisers,4,Aiden Markram ,600498,c Rahul b Pandya,12,14,0,0,85.71
+192,1304058,Super Giants Vs Sunrisers,Sunrisers,5,Nicholas Pooran †,604302,c Hooda b Avesh Khan,34,24,3,2,141.66
+193,1304058,Super Giants Vs Sunrisers,Sunrisers,6,Washington Sundar ,719715,c Rahul b Holder,18,14,1,0,128.57
+194,1304058,Super Giants Vs Sunrisers,Sunrisers,7,Abdul Samad ,1175485,c †de Kock b Avesh Khan,0,1,0,0,0.00
+195,1304058,Super Giants Vs Sunrisers,Sunrisers,8,Romario Shepherd ,677077,c Badoni b Holder,8,8,0,1,100.00
+196,1304058,Super Giants Vs Sunrisers,Sunrisers,9,Bhuvneshwar Kumar ,326016,c †de Kock b Holder,1,2,0,0,50.00
+197,1304058,Super Giants Vs Sunrisers,Sunrisers,10,Umran Malik ,1246528,not out ,1,1,0,0,100.00
+198,1304059,Royals Vs RCB,Royals,1,Jos Buttler ,308967,not out ,70,47,0,6,148.93
+199,1304059,Royals Vs RCB,Royals,2,Yashasvi Jaiswal ,1151278, b Willey,4,6,0,0,66.66
+200,1304059,Royals Vs RCB,Royals,3,Devdutt Padikkal ,1119026,c Kohli b Patel,37,29,2,2,127.58
+201,1304059,Royals Vs RCB,Royals,4,Sanju Samson (c)†,425943,c & b de Silva,8,8,0,1,100.00
+202,1304059,Royals Vs RCB,Royals,5,Shimron Hetmyer ,670025,not out ,42,31,4,2,135.48
+203,1304059,Royals Vs RCB,RCB,1,Faf du Plessis (c),44828,c Boult b Chahal,29,20,5,0,145.00
+204,1304059,Royals Vs RCB,RCB,2,Anuj Rawat ,1123073,c †Samson b Saini,26,25,4,0,104.00
+205,1304059,Royals Vs RCB,RCB,3,Virat Kohli ,253802,run out (†Samson/Chahal),5,6,0,0,83.33
+206,1304059,Royals Vs RCB,RCB,4,David Willey ,308251, b Chahal,0,2,0,0,0.00
+207,1304059,Royals Vs RCB,RCB,5,Sherfane Rutherford ,914541,c Saini b Boult,5,10,0,0,50.00
+208,1304059,Royals Vs RCB,RCB,6,Shahbaz Ahmed ,1159711, b Boult,45,26,4,3,173.07
+209,1304059,Royals Vs RCB,RCB,7,Dinesh Karthik †,30045,not out ,44,23,7,1,191.30
+210,1304059,Royals Vs RCB,RCB,8,Harshal Patel ,390481,not out ,9,4,0,1,225.00
+211,1304060,Mumbai Vs KKR,Mumbai,1,Rohit Sharma (c),34102,c †Billings b Yadav,3,12,0,0,25.00
+212,1304060,Mumbai Vs KKR,Mumbai,2,Ishan Kishan †,720471,c SS Iyer b Cummins,14,21,1,0,66.66
+213,1304060,Mumbai Vs KKR,Mumbai,3,Dewald Brevis ,1070665,st †Billings b Varun,29,19,2,2,152.63
+214,1304060,Mumbai Vs KKR,Mumbai,4,Suryakumar Yadav ,446507,c †Billings b Cummins,52,36,5,2,144.44
+215,1304060,Mumbai Vs KKR,Mumbai,5,Tilak Varma ,1170265,not out ,38,27,3,2,140.74
+216,1304060,Mumbai Vs KKR,Mumbai,6,Kieron Pollard ,230559,not out ,22,5,0,3,440.00
+217,1304060,Mumbai Vs KKR,KKR,1,Ajinkya Rahane ,277916,c Sams b Mills,7,11,0,0,63.63
+218,1304060,Mumbai Vs KKR,KKR,2,Venkatesh Iyer ,851403,not out ,50,41,6,1,121.95
+219,1304060,Mumbai Vs KKR,KKR,3,Shreyas Iyer (c),642519,c Tilak Varma b Sams,10,6,2,0,166.66
+220,1304060,Mumbai Vs KKR,KKR,4,Sam Billings †,297628,c Basil Thampi b Ashwin,17,12,0,2,141.66
+221,1304060,Mumbai Vs KKR,KKR,5,Nitish Rana ,604527,c Sams b Ashwin,8,7,0,1,114.28
+222,1304060,Mumbai Vs KKR,KKR,6,Andre Russell ,276298,c Brevis b Mills,11,5,1,1,220.00
+223,1304060,Mumbai Vs KKR,KKR,7,Pat Cummins ,489889,not out ,56,15,4,6,373.33
+224,1304061,Capitals Vs Super Giants,Capitals,1,Prithvi Shaw ,1070168,c †de Kock b Gowtham,61,34,9,2,179.41
+225,1304061,Capitals Vs Super Giants,Capitals,2,David Warner ,219889,c Badoni b Ravi Bishnoi,4,12,0,0,33.33
+226,1304061,Capitals Vs Super Giants,Capitals,3,Rovman Powell ,820351, b Ravi Bishnoi,3,10,0,0,30.00
+227,1304061,Capitals Vs Super Giants,Capitals,4,Rishabh Pant (c)†,931581,not out ,39,36,3,2,108.33
+228,1304061,Capitals Vs Super Giants,Capitals,5,Sarfaraz Khan ,642525,not out ,36,28,3,0,128.57
+229,1304061,Capitals Vs Super Giants,Super Giants,1,KL Rahul (c),422108,c Shaw b Kuldeep Yadav,24,25,1,1,96.00
+230,1304061,Capitals Vs Super Giants,Super Giants,2,Quinton de Kock †,379143,c Khan b Kuldeep Yadav,80,52,9,2,153.84
+231,1304061,Capitals Vs Super Giants,Super Giants,3,Evin Lewis ,431901,c Kuldeep Yadav b Lalit Yadav,5,13,0,0,38.46
+232,1304061,Capitals Vs Super Giants,Super Giants,4,Deepak Hooda ,497121,c Patel b Thakur,11,13,0,0,84.61
+233,1304061,Capitals Vs Super Giants,Super Giants,5,Krunal Pandya ,471342,not out ,19,14,0,1,135.71
+234,1304061,Capitals Vs Super Giants,Super Giants,6,Ayush Badoni ,1151270,not out ,10,3,1,1,333.33
+235,1304062,Punjab Kings Vs Titans,Punjab Kings,1,Mayank Agarwal (c),398438,c Rashid Khan b Pandya,5,9,1,0,55.55
+236,1304062,Punjab Kings Vs Titans,Punjab Kings,2,Shikhar Dhawan ,28235,c †Wade b Rashid Khan,35,30,4,0,116.66
+237,1304062,Punjab Kings Vs Titans,Punjab Kings,3,Jonny Bairstow †,297433,c Tewatia b Ferguson,8,8,2,0,100.00
+238,1304062,Punjab Kings Vs Titans,Punjab Kings,4,Liam Livingstone ,403902,c Miller b Rashid Khan,64,27,7,4,237.03
+239,1304062,Punjab Kings Vs Titans,Punjab Kings,5,Jitesh Sharma ,721867,c Shubman Gill b Nalkande,23,11,1,2,209.09
+240,1304062,Punjab Kings Vs Titans,Punjab Kings,6,Odean Smith ,820691,c Shubman Gill b Nalkande,0,1,0,0,0.00
+241,1304062,Punjab Kings Vs Titans,Punjab Kings,7,M Shahrukh Khan ,719719,lbw b Rashid Khan,15,8,0,2,187.50
+242,1304062,Punjab Kings Vs Titans,Punjab Kings,8,Kagiso Rabada ,550215,run out (Mohammed Shami/†Wade),1,1,0,0,100.00
+243,1304062,Punjab Kings Vs Titans,Punjab Kings,9,Rahul Chahar ,1064812,not out ,22,14,2,1,157.14
+244,1304062,Punjab Kings Vs Titans,Punjab Kings,10,Vaibhav Arora ,1209292, b Mohammed Shami,2,6,0,0,33.33
+245,1304062,Punjab Kings Vs Titans,Punjab Kings,11,Arshdeep Singh ,1125976,not out ,10,5,1,0,200.00
+246,1304062,Punjab Kings Vs Titans,Titans,1,Matthew Wade †,230193,c †Bairstow b Rabada,6,7,1,0,85.71
+247,1304062,Punjab Kings Vs Titans,Titans,2,Shubman Gill ,1070173,c Agarwal b Rabada,96,59,11,1,162.71
+248,1304062,Punjab Kings Vs Titans,Titans,3,Sai Sudharsan ,1151288,c Agarwal b Chahar,35,30,4,1,116.66
+249,1304062,Punjab Kings Vs Titans,Titans,4,Hardik Pandya (c),625371,run out (†Bairstow),27,18,5,0,150.00
+250,1304062,Punjab Kings Vs Titans,Titans,5,David Miller ,321777,not out ,6,4,1,0,150.00
+251,1304062,Punjab Kings Vs Titans,Titans,6,Rahul Tewatia ,423838,not out ,13,3,0,2,433.33
+252,1304063,Super Kings Vs Sunrisers,Super Kings,1,Robin Uthappa ,35582,c Markram b Washington Sundar,15,11,1,0,136.36
+253,1304063,Super Kings Vs Sunrisers,Super Kings,2,Ruturaj Gaikwad ,1060380, b Natarajan,16,13,3,0,123.07
+254,1304063,Super Kings Vs Sunrisers,Super Kings,3,Moeen Ali ,8917,c Tripathi b Markram,48,35,3,2,137.14
+255,1304063,Super Kings Vs Sunrisers,Super Kings,4,Ambati Rayudu ,33141,c Markram b Washington Sundar,27,27,4,0,100.00
+256,1304063,Super Kings Vs Sunrisers,Super Kings,5,Shivam Dube ,714451,c Umran Malik b Natarajan,3,5,0,0,60.00
+257,1304063,Super Kings Vs Sunrisers,Super Kings,6,Ravindra Jadeja (c),234675,c Williamson b Kumar,23,15,2,1,153.33
+258,1304063,Super Kings Vs Sunrisers,Super Kings,7,MS Dhoni †,28081,c Umran Malik b Jansen,3,6,0,0,50.00
+259,1304063,Super Kings Vs Sunrisers,Super Kings,8,Dwayne Bravo ,51439,not out ,8,5,1,0,160.00
+260,1304063,Super Kings Vs Sunrisers,Super Kings,9,Chris Jordan ,288992,not out ,6,3,0,0,200.00
+261,1304063,Super Kings Vs Sunrisers,Sunrisers,1,Abhishek Sharma ,1070183,c Jordan b Bravo,75,50,5,3,150.00
+262,1304063,Super Kings Vs Sunrisers,Sunrisers,2,Kane Williamson (c),277906,c Ali b Mukesh Choudhary,32,40,2,1,80.00
+263,1304063,Super Kings Vs Sunrisers,Sunrisers,3,Rahul Tripathi ,446763,not out ,39,15,5,2,260.00
+264,1304063,Super Kings Vs Sunrisers,Sunrisers,4,Nicholas Pooran †,604302,not out ,5,2,1,0,250.00
+265,1304064,Mumbai Vs RCB,Mumbai,1,Ishan Kishan †,720471,c Mohammed Siraj b Akash Deep,26,28,3,0,92.85
+266,1304064,Mumbai Vs RCB,Mumbai,2,Rohit Sharma (c),34102,c & b Patel,26,15,4,1,173.33
+267,1304064,Mumbai Vs RCB,Mumbai,3,Dewald Brevis ,1070665,lbw b de Silva,8,11,1,0,72.72
+268,1304064,Mumbai Vs RCB,Mumbai,4,Suryakumar Yadav ,446507,not out ,68,37,5,6,183.78
+269,1304064,Mumbai Vs RCB,Mumbai,5,Tilak Varma ,1170265,run out (Maxwell),0,3,0,0,0.00
+270,1304064,Mumbai Vs RCB,Mumbai,6,Kieron Pollard ,230559,lbw b de Silva,0,1,0,0,0.00
+271,1304064,Mumbai Vs RCB,Mumbai,7,Ramandeep Singh ,1079470,c †Karthik b Patel,6,12,0,0,50.00
+272,1304064,Mumbai Vs RCB,Mumbai,8,Jaydev Unadkat ,390484,not out ,13,14,1,0,92.85
+273,1304064,Mumbai Vs RCB,RCB,1,Faf du Plessis (c),44828,c Yadav b Unadkat,16,24,1,0,66.66
+274,1304064,Mumbai Vs RCB,RCB,2,Anuj Rawat ,1123073,run out (Ramandeep Singh),66,47,2,6,140.42
+275,1304064,Mumbai Vs RCB,RCB,3,Virat Kohli ,253802,lbw b Brevis,48,36,5,0,133.33
+276,1304064,Mumbai Vs RCB,RCB,4,Dinesh Karthik †,30045,not out ,7,2,0,1,350.00
+277,1304064,Mumbai Vs RCB,RCB,5,Glenn Maxwell ,325026,not out ,8,2,2,0,400.00
+278,1304065,Capitals Vs KKR,Capitals,1,Prithvi Shaw ,1070168, b Varun,51,29,7,2,175.86
+279,1304065,Capitals Vs KKR,Capitals,2,David Warner ,219889,c Rahane b Yadav,61,45,6,2,135.55
+280,1304065,Capitals Vs KKR,Capitals,3,Rishabh Pant (c)†,931581,c Yadav b Russell,27,14,2,2,192.85
+281,1304065,Capitals Vs KKR,Capitals,4,Lalit Yadav ,930189,lbw b Narine,1,4,0,0,25.00
+282,1304065,Capitals Vs KKR,Capitals,5,Rovman Powell ,820351,c sub (RK Singh) b Narine,8,6,0,1,133.33
+283,1304065,Capitals Vs KKR,Capitals,6,Axar Patel ,554691,not out ,22,14,2,1,157.14
+284,1304065,Capitals Vs KKR,Capitals,7,Shardul Thakur ,475281,not out ,29,11,1,3,263.63
+285,1304065,Capitals Vs KKR,KKR,1,Ajinkya Rahane ,277916,c Thakur b Ahmed,8,14,1,0,57.14
+286,1304065,Capitals Vs KKR,KKR,2,Venkatesh Iyer ,851403,c Patel b Ahmed,18,8,1,2,225.00
+287,1304065,Capitals Vs KKR,KKR,3,Shreyas Iyer (c),642519,st †Pant b Kuldeep Yadav,54,33,5,2,163.63
+288,1304065,Capitals Vs KKR,KKR,4,Nitish Rana ,604527,c Shaw b Lalit Yadav,30,20,0,3,150.00
+289,1304065,Capitals Vs KKR,KKR,5,Andre Russell ,276298,c Khan b Thakur,24,21,3,0,114.28
+290,1304065,Capitals Vs KKR,KKR,6,Sam Billings †,297628,c Lalit Yadav b Ahmed,15,9,1,1,166.66
+291,1304065,Capitals Vs KKR,KKR,7,Pat Cummins ,489889,lbw b Kuldeep Yadav,4,3,1,0,133.33
+292,1304065,Capitals Vs KKR,KKR,8,Sunil Narine ,230558,c Powell b Kuldeep Yadav,4,2,1,0,200.00
+293,1304065,Capitals Vs KKR,KKR,9,Umesh Yadav ,376116,c & b Kuldeep Yadav,0,1,0,0,0.00
+294,1304065,Capitals Vs KKR,KKR,10,Rasikh Salam ,1161489,c Powell b Thakur,7,6,1,0,116.66
+295,1304065,Capitals Vs KKR,KKR,11,Varun Chakravarthy ,1108375,not out ,1,1,0,0,100.00
+296,1304066,Royals Vs Super Giants,Royals,1,Jos Buttler ,308967, b Avesh Khan,13,11,1,1,118.18
+297,1304066,Royals Vs Super Giants,Royals,2,Devdutt Padikkal ,1119026,c Holder b Gowtham,29,29,4,0,100.00
+298,1304066,Royals Vs Super Giants,Royals,3,Sanju Samson (c)†,425943,lbw b Holder,13,12,2,0,108.33
+299,1304066,Royals Vs Super Giants,Royals,4,Rassie van der Dussen ,337790, b Gowtham,4,4,1,0,100.00
+300,1304066,Royals Vs Super Giants,Royals,5,Shimron Hetmyer ,670025,not out ,59,36,1,6,163.88
+301,1304066,Royals Vs Super Giants,Royals,6,Ravichandran Ashwin ,26421,retired out ,28,23,0,2,121.73
+302,1304066,Royals Vs Super Giants,Royals,7,Riyan Parag ,1079434,c Gowtham b Holder,8,4,0,1,200.00
+303,1304066,Royals Vs Super Giants,Royals,8,Trent Boult ,277912,not out ,2,1,0,0,200.00
+304,1304066,Royals Vs Super Giants,Super Giants,1,KL Rahul (c),422108, b Boult,0,1,0,0,0.00
+305,1304066,Royals Vs Super Giants,Super Giants,2,Quinton de Kock †,379143,c Parag b Chahal,39,32,2,1,121.87
+306,1304066,Royals Vs Super Giants,Super Giants,3,Krishnappa Gowtham ,424377,lbw b Boult,0,1,0,0,0.00
+307,1304066,Royals Vs Super Giants,Super Giants,4,Jason Holder ,391485,c Ashwin b Prasidh Krishna,8,14,2,0,57.14
+308,1304066,Royals Vs Super Giants,Super Giants,5,Deepak Hooda ,497121, b Sen,25,24,3,0,104.16
+309,1304066,Royals Vs Super Giants,Super Giants,6,Ayush Badoni ,1151270,c Parag b Chahal,5,7,0,0,71.42
+310,1304066,Royals Vs Super Giants,Super Giants,7,Krunal Pandya ,471342, b Chahal,22,15,2,0,146.66
+311,1304066,Royals Vs Super Giants,Super Giants,8,Marcus Stoinis ,325012,not out ,38,17,2,4,223.52
+312,1304066,Royals Vs Super Giants,Super Giants,9,Dushmantha Chameera ,552152,lbw b Chahal,13,7,2,0,185.71
+313,1304066,Royals Vs Super Giants,Super Giants,10,Avesh Khan ,694211,not out ,7,2,0,1,350.00
+314,1304067,Titans Vs Sunrisers,Titans,1,Matthew Wade †,230193,lbw b Umran Malik,19,19,3,0,100.00
+315,1304067,Titans Vs Sunrisers,Titans,2,Shubman Gill ,1070173,c Tripathi b Kumar,7,9,1,0,77.77
+316,1304067,Titans Vs Sunrisers,Titans,3,Sai Sudharsan ,1151288,c Williamson b Natarajan,11,9,2,0,122.22
+317,1304067,Titans Vs Sunrisers,Titans,4,Hardik Pandya (c),625371,not out ,50,42,4,1,119.04
+318,1304067,Titans Vs Sunrisers,Titans,5,David Miller ,321777,c Abhishek Sharma b Jansen,12,15,0,0,80.00
+319,1304067,Titans Vs Sunrisers,Titans,6,Abhinav Manohar ,778963,c Tripathi b Kumar,35,21,5,1,166.66
+320,1304067,Titans Vs Sunrisers,Titans,7,Rahul Tewatia ,423838,run out (†Pooran/Natarajan),6,4,1,0,150.00
+321,1304067,Titans Vs Sunrisers,Titans,8,Rashid Khan ,793463, b Natarajan,0,1,0,0,0.00
+322,1304067,Titans Vs Sunrisers,Sunrisers,1,Abhishek Sharma ,1070183,c Sai Sudharsan b Rashid Khan,42,32,6,0,131.25
+323,1304067,Titans Vs Sunrisers,Sunrisers,2,Kane Williamson (c),277906,c Tewatia b Pandya,57,46,2,4,123.91
+324,1304067,Titans Vs Sunrisers,Sunrisers,3,Rahul Tripathi ,446763,retired not out ,17,11,1,1,154.54
+325,1304067,Titans Vs Sunrisers,Sunrisers,4,Nicholas Pooran †,604302,not out ,34,18,2,2,188.88
+326,1304067,Titans Vs Sunrisers,Sunrisers,5,Aiden Markram ,600498,not out ,12,8,1,0,150.00
+327,1304068,Super Kings Vs RCB,Super Kings,1,Ruturaj Gaikwad ,1060380,lbw b Hazlewood,17,16,3,0,106.25
+328,1304068,Super Kings Vs RCB,Super Kings,2,Robin Uthappa ,35582,c Kohli b de Silva,88,50,4,9,176.00
+329,1304068,Super Kings Vs RCB,Super Kings,3,Moeen Ali ,8917,run out (Prabhudessai/†Karthik),3,8,0,0,37.50
+330,1304068,Super Kings Vs RCB,Super Kings,4,Shivam Dube ,714451,not out ,95,46,5,8,206.52
+331,1304068,Super Kings Vs RCB,Super Kings,5,Ravindra Jadeja (c),234675,c Anuj Rawat b de Silva,0,1,0,0,0.00
+332,1304068,Super Kings Vs RCB,Super Kings,6,MS Dhoni †,28081,not out ,0,0,0,0,-
+333,1304068,Super Kings Vs RCB,RCB,1,Faf du Plessis (c),44828,c Jordan b Theekshana,8,9,0,0,88.88
+334,1304068,Super Kings Vs RCB,RCB,2,Anuj Rawat ,1123073,lbw b Theekshana,12,16,1,0,75.00
+335,1304068,Super Kings Vs RCB,RCB,3,Virat Kohli ,253802,c Dube b Mukesh Choudhary,1,3,0,0,33.33
+336,1304068,Super Kings Vs RCB,RCB,4,Glenn Maxwell ,325026, b Jadeja,26,11,2,2,236.36
+337,1304068,Super Kings Vs RCB,RCB,5,Shahbaz Ahmed ,1159711, b Theekshana,41,27,4,0,151.85
+338,1304068,Super Kings Vs RCB,RCB,6,Suyash Prabhudessai ,1083851, b Theekshana,34,18,5,1,188.88
+339,1304068,Super Kings Vs RCB,RCB,7,Dinesh Karthik †,30045,c Jadeja b Bravo,34,14,2,3,242.85
+340,1304068,Super Kings Vs RCB,RCB,8,Wanindu Hasaranga de Silva ,784379,c Jordan b Jadeja,7,3,0,1,233.33
+341,1304068,Super Kings Vs RCB,RCB,9,Akash Deep ,1176959,c Rayudu b Jadeja,0,2,0,0,0.00
+342,1304068,Super Kings Vs RCB,RCB,10,Mohammed Siraj ,940973,not out ,14,11,3,0,127.27
+343,1304068,Super Kings Vs RCB,RCB,11,Josh Hazlewood ,288284,not out ,7,7,0,0,100.00
+344,1304069,Punjab Kings Vs Mumbai,Punjab Kings,1,Mayank Agarwal (c),398438,c Yadav b Ashwin,52,32,6,2,162.50
+345,1304069,Punjab Kings Vs Mumbai,Punjab Kings,2,Shikhar Dhawan ,28235,c Pollard b Basil Thampi,70,50,5,3,140.00
+346,1304069,Punjab Kings Vs Mumbai,Punjab Kings,3,Jonny Bairstow ,297433, b Unadkat,12,13,1,0,92.30
+347,1304069,Punjab Kings Vs Mumbai,Punjab Kings,4,Liam Livingstone ,403902, b Bumrah,2,3,0,0,66.66
+348,1304069,Punjab Kings Vs Mumbai,Punjab Kings,5,Jitesh Sharma †,721867,not out ,30,15,2,2,200.00
+349,1304069,Punjab Kings Vs Mumbai,Punjab Kings,6,M Shahrukh Khan ,719719, b Basil Thampi,15,6,0,2,250.00
+350,1304069,Punjab Kings Vs Mumbai,Punjab Kings,7,Odean Smith ,820691,not out ,1,1,0,0,100.00
+351,1304069,Punjab Kings Vs Mumbai,Mumbai,1,Rohit Sharma (c),34102,c Arora b Rabada,28,17,3,2,164.70
+352,1304069,Punjab Kings Vs Mumbai,Mumbai,2,Ishan Kishan †,720471,c †Sharma b Arora,3,6,0,0,50.00
+353,1304069,Punjab Kings Vs Mumbai,Mumbai,3,Dewald Brevis ,1070665,c Arshdeep Singh b Smith,49,25,4,5,196.00
+354,1304069,Punjab Kings Vs Mumbai,Mumbai,4,Tilak Varma ,1170265,run out (Agarwal/Arshdeep Singh),36,20,3,2,180.00
+355,1304069,Punjab Kings Vs Mumbai,Mumbai,5,Suryakumar Yadav ,446507,c Smith b Rabada,43,30,1,4,143.33
+356,1304069,Punjab Kings Vs Mumbai,Mumbai,6,Kieron Pollard ,230559,run out (Smith/†Sharma),10,11,1,0,90.90
+357,1304069,Punjab Kings Vs Mumbai,Mumbai,7,Jaydev Unadkat ,390484,c Agarwal b Smith,12,7,0,1,171.42
+358,1304069,Punjab Kings Vs Mumbai,Mumbai,8,Murugan Ashwin ,528067,not out ,0,2,0,0,0.00
+359,1304069,Punjab Kings Vs Mumbai,Mumbai,9,Jasprit Bumrah ,625383,c Dhawan b Smith,0,1,0,0,0.00
+360,1304069,Punjab Kings Vs Mumbai,Mumbai,10,Tymal Mills ,459257,c Agarwal b Smith,0,2,0,0,0.00
+361,1304070,Titans Vs Royals,Titans,1,Matthew Wade †,230193,run out (van der Dussen),12,6,3,0,200.00
+362,1304070,Titans Vs Royals,Titans,2,Shubman Gill ,1070173,c Hetmyer b Parag,13,14,2,0,92.85
+363,1304070,Titans Vs Royals,Titans,3,Vijay Shankar ,477021,c †Samson b Sen,2,7,0,0,28.57
+364,1304070,Titans Vs Royals,Titans,4,Hardik Pandya (c),625371,not out ,87,52,8,4,167.30
+365,1304070,Titans Vs Royals,Titans,5,Abhinav Manohar ,778963,c Ashwin b Chahal,43,28,4,2,153.57
+366,1304070,Titans Vs Royals,Titans,6,David Miller ,321777,not out ,31,14,5,1,221.42
+367,1304070,Titans Vs Royals,Royals,1,Jos Buttler ,308967, b Ferguson,54,24,8,3,225.00
+368,1304070,Titans Vs Royals,Royals,2,Devdutt Padikkal ,1119026,c Shubman Gill b Yash Dayal,0,1,0,0,0.00
+369,1304070,Titans Vs Royals,Royals,3,Ravichandran Ashwin ,26421,c Miller b Ferguson,8,8,0,1,100.00
+370,1304070,Titans Vs Royals,Royals,4,Sanju Samson (c)†,425943,run out (Pandya),11,11,0,1,100.00
+371,1304070,Titans Vs Royals,Royals,5,Rassie van der Dussen ,337790,c †Wade b Yash Dayal,6,10,0,0,60.00
+372,1304070,Titans Vs Royals,Royals,6,Shimron Hetmyer ,670025,c Tewatia b Mohammed Shami,29,17,2,1,170.58
+373,1304070,Titans Vs Royals,Royals,7,Riyan Parag ,1079434,c Shubman Gill b Ferguson,18,16,1,1,112.50
+374,1304070,Titans Vs Royals,Royals,8,James Neesham ,355269,c & b Pandya,17,15,1,0,113.33
+375,1304070,Titans Vs Royals,Royals,9,Prasidh Krishna ,917159,not out ,4,7,0,0,57.14
+376,1304070,Titans Vs Royals,Royals,10,Yuzvendra Chahal ,430246,c Shankar b Yash Dayal,5,8,0,0,62.50
+377,1304070,Titans Vs Royals,Royals,11,Kuldeep Sen ,1163695,not out ,0,3,0,0,0.00
+378,1304071,KKR Vs Sunrisers,KKR,1,Venkatesh Iyer ,851403, b Natarajan,6,13,1,0,46.15
+379,1304071,KKR Vs Sunrisers,KKR,2,Aaron Finch ,5334,c †Pooran b Jansen,7,5,0,1,140.00
+380,1304071,KKR Vs Sunrisers,KKR,3,Shreyas Iyer (c),642519, b Umran Malik,28,25,3,0,112.00
+381,1304071,KKR Vs Sunrisers,KKR,4,Sunil Narine ,230558,c Shashank Singh b Natarajan,6,2,0,1,300.00
+382,1304071,KKR Vs Sunrisers,KKR,5,Nitish Rana ,604527,c †Pooran b Natarajan,54,36,6,2,150.00
+383,1304071,KKR Vs Sunrisers,KKR,6,Sheldon Jackson †,237696,c Natarajan b Umran Malik,7,7,0,1,100.00
+384,1304071,KKR Vs Sunrisers,KKR,7,Andre Russell ,276298,not out ,49,25,4,4,196.00
+385,1304071,KKR Vs Sunrisers,KKR,8,Pat Cummins ,489889,c Jansen b Kumar,3,3,0,0,100.00
+386,1304071,KKR Vs Sunrisers,KKR,9,Aman Hakim Khan ,1254269, b Suchith,5,3,1,0,166.66
+387,1304071,KKR Vs Sunrisers,KKR,10,Umesh Yadav ,376116,not out ,1,1,0,0,100.00
+388,1304071,KKR Vs Sunrisers,Sunrisers,1,Abhishek Sharma ,1070183, b Cummins,3,10,0,0,30.00
+389,1304071,KKR Vs Sunrisers,Sunrisers,2,Kane Williamson (c),277906, b Russell,17,16,3,0,106.25
+390,1304071,KKR Vs Sunrisers,Sunrisers,3,Rahul Tripathi ,446763,c VR Iyer b Russell,71,37,4,6,191.89
+391,1304071,KKR Vs Sunrisers,Sunrisers,4,Aiden Markram ,600498,not out ,68,36,6,4,188.88
+392,1304071,KKR Vs Sunrisers,Sunrisers,5,Nicholas Pooran †,604302,not out ,5,8,0,0,62.50
+393,1304072,Super Giants Vs Mumbai,Super Giants,1,KL Rahul (c),422108,not out ,103,60,9,5,171.66
+394,1304072,Super Giants Vs Mumbai,Super Giants,2,Quinton de Kock †,379143,lbw b Allen,24,13,4,1,184.61
+395,1304072,Super Giants Vs Mumbai,Super Giants,3,Manish Pandey ,290630, b Ashwin,38,29,6,0,131.03
+396,1304072,Super Giants Vs Mumbai,Super Giants,4,Marcus Stoinis ,325012,c Sharma b Unadkat,10,9,0,1,111.11
+397,1304072,Super Giants Vs Mumbai,Super Giants,5,Deepak Hooda ,497121,c †Ishan Kishan b Unadkat,15,8,1,1,187.50
+398,1304072,Super Giants Vs Mumbai,Super Giants,6,Krunal Pandya ,471342,not out ,1,1,0,0,100.00
+399,1304072,Super Giants Vs Mumbai,Mumbai,1,Ishan Kishan †,720471, b Stoinis,13,17,2,0,76.47
+400,1304072,Super Giants Vs Mumbai,Mumbai,2,Rohit Sharma (c),34102,c †de Kock b Avesh Khan,6,7,1,0,85.71
+401,1304072,Super Giants Vs Mumbai,Mumbai,3,Dewald Brevis ,1070665,c Hooda b Avesh Khan,31,13,6,1,238.46
+402,1304072,Super Giants Vs Mumbai,Mumbai,4,Suryakumar Yadav ,446507,c sub (K Gowtham) b Ravi Bishnoi,37,27,3,0,137.03
+403,1304072,Super Giants Vs Mumbai,Mumbai,5,Tilak Varma ,1170265, b Holder,26,26,2,0,100.00
+404,1304072,Super Giants Vs Mumbai,Mumbai,6,Kieron Pollard ,230559,c Stoinis b Chameera,25,14,1,2,178.57
+405,1304072,Super Giants Vs Mumbai,Mumbai,7,Fabian Allen ,670013,c Chameera b Avesh Khan,8,7,1,0,114.28
+406,1304072,Super Giants Vs Mumbai,Mumbai,8,Jaydev Unadkat ,390484,run out (Stoinis/†de Kock),14,6,2,1,233.33
+407,1304072,Super Giants Vs Mumbai,Mumbai,9,Murugan Ashwin ,528067,run out (†de Kock/Chameera),6,2,0,1,300.00
+408,1304072,Super Giants Vs Mumbai,Mumbai,10,Jasprit Bumrah ,625383,not out ,0,0,0,0,-
+409,1304072,Super Giants Vs Mumbai,Mumbai,11,Tymal Mills ,459257,not out ,0,1,0,0,0.00
+410,1304073,RCB Vs Capitals,RCB,1,Faf du Plessis (c),44828,c Patel b Ahmed,8,11,2,0,72.72
+411,1304073,RCB Vs Capitals,RCB,2,Anuj Rawat ,1123073,lbw b Thakur,0,1,0,0,0.00
+412,1304073,RCB Vs Capitals,RCB,3,Virat Kohli ,253802,run out (Lalit Yadav),12,14,1,0,85.71
+413,1304073,RCB Vs Capitals,RCB,4,Glenn Maxwell ,325026,c Lalit Yadav b Kuldeep Yadav,55,34,7,2,161.76
+414,1304073,RCB Vs Capitals,RCB,5,Suyash Prabhudessai ,1083851,c Kuldeep Yadav b Patel,6,5,1,0,120.00
+415,1304073,RCB Vs Capitals,RCB,6,Shahbaz Ahmed ,1159711,not out ,32,21,3,1,152.38
+416,1304073,RCB Vs Capitals,RCB,7,Dinesh Karthik †,30045,not out ,66,34,5,5,194.11
+417,1304073,RCB Vs Capitals,Capitals,1,Prithvi Shaw ,1070168,c Anuj Rawat b Mohammed Siraj,16,13,1,1,123.07
+418,1304073,RCB Vs Capitals,Capitals,2,David Warner ,219889,lbw b de Silva,66,38,4,5,173.68
+419,1304073,RCB Vs Capitals,Capitals,3,Mitchell Marsh ,272450,run out (de Silva),14,24,0,0,58.33
+420,1304073,RCB Vs Capitals,Capitals,4,Rishabh Pant (c)†,931581,c Kohli b Mohammed Siraj,34,17,3,2,200.00
+421,1304073,RCB Vs Capitals,Capitals,5,Rovman Powell ,820351,c †Karthik b Hazlewood,0,1,0,0,0.00
+422,1304073,RCB Vs Capitals,Capitals,6,Lalit Yadav ,930189,c Prabhudessai b Hazlewood,1,4,0,0,25.00
+423,1304073,RCB Vs Capitals,Capitals,7,Shardul Thakur ,475281,c †Karthik b Hazlewood,17,9,0,2,188.88
+424,1304073,RCB Vs Capitals,Capitals,8,Axar Patel ,554691,not out ,10,7,1,0,142.85
+425,1304073,RCB Vs Capitals,Capitals,9,Kuldeep Yadav ,559235,not out ,10,7,2,0,142.85
+426,1304074,Punjab Kings Vs Sunrisers,Punjab Kings,1,Shikhar Dhawan (c),28235,c Jansen b Kumar,8,11,1,0,72.72
+427,1304074,Punjab Kings Vs Sunrisers,Punjab Kings,2,Prabhsimran Singh ,1161024,c †Pooran b Natarajan,14,11,2,0,127.27
+428,1304074,Punjab Kings Vs Sunrisers,Punjab Kings,3,Jonny Bairstow ,297433,lbw b Suchith,12,10,2,0,120.00
+429,1304074,Punjab Kings Vs Sunrisers,Punjab Kings,4,Liam Livingstone ,403902,c Williamson b Kumar,60,33,5,4,181.81
+430,1304074,Punjab Kings Vs Sunrisers,Punjab Kings,5,Jitesh Sharma †,721867,c & b Umran Malik,11,8,2,0,137.50
+431,1304074,Punjab Kings Vs Sunrisers,Punjab Kings,6,M Shahrukh Khan ,719719,c Williamson b Kumar,26,28,1,2,92.85
+432,1304074,Punjab Kings Vs Sunrisers,Punjab Kings,7,Odean Smith ,820691,c & b Umran Malik,13,15,0,1,86.66
+433,1304074,Punjab Kings Vs Sunrisers,Punjab Kings,8,Kagiso Rabada ,550215,not out ,0,0,0,0,-
+434,1304074,Punjab Kings Vs Sunrisers,Punjab Kings,9,Rahul Chahar ,1064812, b Umran Malik,0,2,0,0,0.00
+435,1304074,Punjab Kings Vs Sunrisers,Punjab Kings,10,Vaibhav Arora ,1209292, b Umran Malik,0,1,0,0,0.00
+436,1304074,Punjab Kings Vs Sunrisers,Punjab Kings,11,Arshdeep Singh ,1125976,run out (Suchith/†Pooran),0,1,0,0,0.00
+437,1304074,Punjab Kings Vs Sunrisers,Sunrisers,1,Abhishek Sharma ,1070183,c Shahrukh Khan b Chahar,31,25,3,1,124.00
+438,1304074,Punjab Kings Vs Sunrisers,Sunrisers,2,Kane Williamson (c),277906,c Dhawan b Rabada,3,9,0,0,33.33
+439,1304074,Punjab Kings Vs Sunrisers,Sunrisers,3,Rahul Tripathi ,446763,c Shahrukh Khan b Chahar,34,22,4,1,154.54
+440,1304074,Punjab Kings Vs Sunrisers,Sunrisers,4,Aiden Markram ,600498,not out ,41,27,4,1,151.85
+441,1304074,Punjab Kings Vs Sunrisers,Sunrisers,5,Nicholas Pooran †,604302,not out ,35,30,1,1,116.66
+442,1304075,Super Kings Vs Titans,Super Kings,1,Ruturaj Gaikwad ,1060380,c Manohar b Yash Dayal,73,48,5,5,152.08
+443,1304075,Super Kings Vs Titans,Super Kings,2,Robin Uthappa ,35582,lbw b Mohammed Shami,3,10,0,0,30.00
+444,1304075,Super Kings Vs Titans,Super Kings,3,Moeen Ali ,8917, b Joseph,1,3,0,0,33.33
+445,1304075,Super Kings Vs Titans,Super Kings,4,Ambati Rayudu ,33141,c Shankar b Joseph,46,31,4,2,148.38
+446,1304075,Super Kings Vs Titans,Super Kings,5,Shivam Dube ,714451,run out (Miller/Ferguson),19,17,2,0,111.76
+447,1304075,Super Kings Vs Titans,Super Kings,6,Ravindra Jadeja (c),234675,not out ,22,12,0,2,183.33
+448,1304075,Super Kings Vs Titans,Titans,1,Wriddhiman Saha †,279810,c Gaikwad b Jadeja,11,18,0,0,61.11
+449,1304075,Super Kings Vs Titans,Titans,2,Shubman Gill ,1070173,c Uthappa b Mukesh Choudhary,0,1,0,0,0.00
+450,1304075,Super Kings Vs Titans,Titans,3,Vijay Shankar ,477021,c †Dhoni b Theekshana,0,2,0,0,0.00
+451,1304075,Super Kings Vs Titans,Titans,4,Abhinav Manohar ,778963,c Ali b Theekshana,12,12,2,0,100.00
+452,1304075,Super Kings Vs Titans,Titans,5,David Miller ,321777,not out ,94,51,8,6,184.31
+453,1304075,Super Kings Vs Titans,Titans,6,Rahul Tewatia ,423838,c Jadeja b Bravo,6,14,0,0,42.85
+454,1304075,Super Kings Vs Titans,Titans,7,Rashid Khan (c),793463,c Ali b Bravo,40,21,2,3,190.47
+455,1304075,Super Kings Vs Titans,Titans,8,Alzarri Joseph ,670031,c Jordan b Bravo,0,1,0,0,0.00
+456,1304075,Super Kings Vs Titans,Titans,9,Lockie Ferguson ,493773,not out ,0,0,0,0,-
+457,1304076,Royals Vs KKR,Royals,1,Jos Buttler ,308967,c Varun b Cummins,103,61,9,5,168.85
+458,1304076,Royals Vs KKR,Royals,2,Devdutt Padikkal ,1119026, b Narine,24,18,3,1,133.33
+459,1304076,Royals Vs KKR,Royals,3,Sanju Samson (c)†,425943,c Shivam Mavi b Russell,38,19,3,2,200.00
+460,1304076,Royals Vs KKR,Royals,4,Shimron Hetmyer ,670025,not out ,26,13,2,2,200.00
+461,1304076,Royals Vs KKR,Royals,5,Riyan Parag ,1079434,c Shivam Mavi b Narine,5,3,1,0,166.66
+462,1304076,Royals Vs KKR,Royals,6,Karun Nair ,398439,c Cummins b Shivam Mavi,3,5,0,0,60.00
+463,1304076,Royals Vs KKR,Royals,7,Ravichandran Ashwin ,26421,not out ,2,2,0,0,100.00
+464,1304076,Royals Vs KKR,KKR,1,Aaron Finch ,5334,c Nair b Prasidh Krishna,58,28,9,2,207.14
+465,1304076,Royals Vs KKR,KKR,2,Sunil Narine ,230558,run out (Hetmyer),0,0,0,0,-
+466,1304076,Royals Vs KKR,KKR,3,Shreyas Iyer (c),642519,lbw b Chahal,85,51,7,4,166.66
+467,1304076,Royals Vs KKR,KKR,4,Nitish Rana ,604527,c Buttler b Chahal,18,11,1,1,163.63
+468,1304076,Royals Vs KKR,KKR,5,Andre Russell ,276298, b Ashwin,0,1,0,0,0.00
+469,1304076,Royals Vs KKR,KKR,6,Venkatesh Iyer ,851403,st †Samson b Chahal,6,7,0,0,85.71
+470,1304076,Royals Vs KKR,KKR,7,Sheldon Jackson †,237696,c Prasidh Krishna b McCoy,8,8,0,0,100.00
+471,1304076,Royals Vs KKR,KKR,8,Shivam Mavi ,1079848,c Parag b Chahal,0,1,0,0,0.00
+472,1304076,Royals Vs KKR,KKR,9,Pat Cummins ,489889,c †Samson b Chahal,0,1,0,0,0.00
+473,1304076,Royals Vs KKR,KKR,10,Umesh Yadav ,376116, b McCoy,21,9,1,2,233.33
+474,1304076,Royals Vs KKR,KKR,11,Varun Chakravarthy ,1108375,not out ,1,1,0,0,100.00
+475,1304077,RCB Vs Super Giants,RCB,1,Anuj Rawat ,1123073,c Rahul b Chameera,4,5,1,0,80.00
+476,1304077,RCB Vs Super Giants,RCB,2,Faf du Plessis (c),44828,c Stoinis b Holder,96,64,11,2,150.00
+477,1304077,RCB Vs Super Giants,RCB,3,Virat Kohli ,253802,c Hooda b Chameera,0,1,0,0,0.00
+478,1304077,RCB Vs Super Giants,RCB,4,Glenn Maxwell ,325026,c Holder b Pandya,23,11,3,1,209.09
+479,1304077,RCB Vs Super Giants,RCB,5,Suyash Prabhudessai ,1083851,c Pandya b Holder,10,9,0,1,111.11
+480,1304077,RCB Vs Super Giants,RCB,6,Shahbaz Ahmed ,1159711,run out (Rahul/Holder),26,22,1,0,118.18
+481,1304077,RCB Vs Super Giants,RCB,7,Dinesh Karthik †,30045,not out ,13,8,0,1,162.50
+482,1304077,RCB Vs Super Giants,RCB,8,Harshal Patel ,390481,not out ,0,1,0,0,0.00
+483,1304077,RCB Vs Super Giants,Super Giants,1,Quinton de Kock †,379143,c Maxwell b Hazlewood,3,5,0,0,60.00
+484,1304077,RCB Vs Super Giants,Super Giants,2,KL Rahul (c),422108,c †Karthik b Patel,30,24,3,1,125.00
+485,1304077,RCB Vs Super Giants,Super Giants,3,Manish Pandey ,290630,c Patel b Hazlewood,6,8,1,0,75.00
+486,1304077,RCB Vs Super Giants,Super Giants,4,Krunal Pandya ,471342,c Shahbaz Ahmed b Maxwell,42,28,5,2,150.00
+487,1304077,RCB Vs Super Giants,Super Giants,5,Deepak Hooda ,497121,c Prabhudessai b Mohammed Siraj,13,14,1,0,92.85
+488,1304077,RCB Vs Super Giants,Super Giants,6,Ayush Badoni ,1151270,c †Karthik b Hazlewood,13,13,2,0,100.00
+489,1304077,RCB Vs Super Giants,Super Giants,7,Marcus Stoinis ,325012, b Hazlewood,24,15,2,1,160.00
+490,1304077,RCB Vs Super Giants,Super Giants,8,Jason Holder ,391485,c Mohammed Siraj b Patel,16,9,0,2,177.77
+491,1304077,RCB Vs Super Giants,Super Giants,9,Dushmantha Chameera ,552152,not out ,1,3,0,0,33.33
+492,1304077,RCB Vs Super Giants,Super Giants,10,Ravi Bishnoi ,1175441,not out ,0,1,0,0,0.00
+493,1304078,Punjab Kings Vs Capitals,Punjab Kings,1,Mayank Agarwal (c),398438, b Mustafizur Rahman,24,15,4,0,160.00
+494,1304078,Punjab Kings Vs Capitals,Punjab Kings,2,Shikhar Dhawan ,28235,c †Pant b Lalit Yadav,9,10,1,0,90.00
+495,1304078,Punjab Kings Vs Capitals,Punjab Kings,3,Jonny Bairstow ,297433,c Mustafizur Rahman b Ahmed,9,8,2,0,112.50
+496,1304078,Punjab Kings Vs Capitals,Punjab Kings,4,Liam Livingstone ,403902,st †Pant b Patel,2,3,0,0,66.66
+497,1304078,Punjab Kings Vs Capitals,Punjab Kings,5,Jitesh Sharma †,721867,lbw b Patel,32,23,5,0,139.13
+498,1304078,Punjab Kings Vs Capitals,Punjab Kings,6,M Shahrukh Khan ,719719,c †Pant b Ahmed,12,20,0,0,60.00
+499,1304078,Punjab Kings Vs Capitals,Punjab Kings,7,Kagiso Rabada ,550215, b Kuldeep Yadav,2,6,0,0,33.33
+500,1304078,Punjab Kings Vs Capitals,Punjab Kings,8,Nathan Ellis ,826915, b Kuldeep Yadav,0,2,0,0,0.00
+501,1304078,Punjab Kings Vs Capitals,Punjab Kings,9,Rahul Chahar ,1064812,c Powell b Lalit Yadav,12,12,1,1,100.00
+502,1304078,Punjab Kings Vs Capitals,Punjab Kings,10,Arshdeep Singh ,1125976,run out (†Pant),9,17,2,0,52.94
+503,1304078,Punjab Kings Vs Capitals,Punjab Kings,11,Vaibhav Arora ,1209292,not out ,2,4,0,0,50.00
+504,1304078,Punjab Kings Vs Capitals,Capitals,1,Prithvi Shaw ,1070168,c Ellis b Chahar,41,20,7,1,205.00
+505,1304078,Punjab Kings Vs Capitals,Capitals,2,David Warner ,219889,not out ,60,30,10,1,200.00
+506,1304078,Punjab Kings Vs Capitals,Capitals,3,Sarfaraz Khan ,642525,not out ,12,13,1,0,92.30
+507,1304079,Mumbai Vs Super Kings,Mumbai,1,Rohit Sharma (c),34102,c Santner b Mukesh Choudhary,0,2,0,0,0.00
+508,1304079,Mumbai Vs Super Kings,Mumbai,2,Ishan Kishan †,720471, b Mukesh Choudhary,0,1,0,0,0.00
+509,1304079,Mumbai Vs Super Kings,Mumbai,3,Dewald Brevis ,1070665,c †Dhoni b Mukesh Choudhary,4,7,0,0,57.14
+510,1304079,Mumbai Vs Super Kings,Mumbai,4,Suryakumar Yadav ,446507,c Mukesh Choudhary b Santner,32,21,3,1,152.38
+511,1304079,Mumbai Vs Super Kings,Mumbai,5,Tilak Varma ,1170265,not out ,51,43,3,2,118.60
+512,1304079,Mumbai Vs Super Kings,Mumbai,6,Hrithik Shokeen ,1175423,c Uthappa b Bravo,25,25,3,0,100.00
+513,1304079,Mumbai Vs Super Kings,Mumbai,7,Kieron Pollard ,230559,c Dube b Theekshana,14,9,1,1,155.55
+514,1304079,Mumbai Vs Super Kings,Mumbai,8,Daniel Sams ,826901,lbw b Bravo,5,3,1,0,166.66
+515,1304079,Mumbai Vs Super Kings,Mumbai,9,Jaydev Unadkat ,390484,not out ,19,9,1,1,211.11
+516,1304079,Mumbai Vs Super Kings,Super Kings,1,Ruturaj Gaikwad ,1060380,c Tilak Varma b Sams,0,1,0,0,0.00
+517,1304079,Mumbai Vs Super Kings,Super Kings,2,Robin Uthappa ,35582,c Brevis b Unadkat,30,25,2,2,120.00
+518,1304079,Mumbai Vs Super Kings,Super Kings,3,Mitchell Santner ,502714,c Unadkat b Sams,11,9,2,0,122.22
+519,1304079,Mumbai Vs Super Kings,Super Kings,4,Ambati Rayudu ,33141,c Pollard b Sams,40,35,2,3,114.28
+520,1304079,Mumbai Vs Super Kings,Super Kings,5,Shivam Dube ,714451,c †Ishan Kishan b Sams,13,14,0,1,92.85
+521,1304079,Mumbai Vs Super Kings,Super Kings,6,Ravindra Jadeja (c),234675,c Tilak Varma b Meredith,3,8,0,0,37.50
+522,1304079,Mumbai Vs Super Kings,Super Kings,7,MS Dhoni †,28081,not out ,28,13,3,1,215.38
+523,1304079,Mumbai Vs Super Kings,Super Kings,8,Dwaine Pretorius ,327830,lbw b Unadkat,22,14,2,1,157.14
+524,1304079,Mumbai Vs Super Kings,Super Kings,9,Dwayne Bravo ,51439,not out ,1,1,0,0,100.00
+525,1304080,Royals Vs Capitals,Royals,1,Jos Buttler ,308967,c Warner b Mustafizur Rahman,116,65,9,9,178.46
+526,1304080,Royals Vs Capitals,Royals,2,Devdutt Padikkal ,1119026,lbw b Ahmed,54,35,7,2,154.28
+527,1304080,Royals Vs Capitals,Royals,3,Sanju Samson (c)†,425943,not out ,46,19,5,3,242.10
+528,1304080,Royals Vs Capitals,Royals,4,Shimron Hetmyer ,670025,not out ,1,1,0,0,100.00
+529,1304080,Royals Vs Capitals,Capitals,1,Prithvi Shaw ,1070168,c Boult b Ashwin,37,27,5,1,137.03
+530,1304080,Royals Vs Capitals,Capitals,2,David Warner ,219889,c †Samson b Prasidh Krishna,28,14,5,1,200.00
+531,1304080,Royals Vs Capitals,Capitals,3,Sarfaraz Khan ,642525,c Prasidh Krishna b Ashwin,1,3,0,0,33.33
+532,1304080,Royals Vs Capitals,Capitals,4,Rishabh Pant (c)†,931581,c Padikkal b Prasidh Krishna,44,24,4,2,183.33
+533,1304080,Royals Vs Capitals,Capitals,5,Lalit Yadav ,930189,c †Samson b Prasidh Krishna,37,24,3,2,154.16
+534,1304080,Royals Vs Capitals,Capitals,6,Axar Patel ,554691, b Chahal,1,4,0,0,25.00
+535,1304080,Royals Vs Capitals,Capitals,7,Shardul Thakur ,475281,run out (Parag/†Samson),10,7,0,1,142.85
+536,1304080,Royals Vs Capitals,Capitals,8,Rovman Powell ,820351,c †Samson b McCoy,36,15,0,5,240.00
+537,1304080,Royals Vs Capitals,Capitals,9,Kuldeep Yadav ,559235,not out ,0,3,0,0,0.00
+538,1304081,Titans Vs KKR,Titans,1,Wriddhiman Saha †,279810,c VR Iyer b Yadav,25,25,2,1,100.00
+539,1304081,Titans Vs KKR,Titans,2,Shubman Gill ,1070173,c †Billings b Southee,7,5,1,0,140.00
+540,1304081,Titans Vs KKR,Titans,3,Hardik Pandya (c),625371,c Singh b Southee,67,49,4,2,136.73
+541,1304081,Titans Vs KKR,Titans,4,David Miller ,321777,c Yadav b Shivam Mavi,27,20,1,2,135.00
+542,1304081,Titans Vs KKR,Titans,5,Rahul Tewatia ,423838,c Singh b Russell,17,12,2,0,141.66
+543,1304081,Titans Vs KKR,Titans,6,Rashid Khan ,793463,c Yadav b Southee,0,2,0,0,0.00
+544,1304081,Titans Vs KKR,Titans,7,Abhinav Manohar ,778963,c Singh b Russell,2,4,0,0,50.00
+545,1304081,Titans Vs KKR,Titans,8,Lockie Ferguson ,493773,c Singh b Russell,0,1,0,0,0.00
+546,1304081,Titans Vs KKR,Titans,9,Alzarri Joseph ,670031,not out ,1,1,0,0,100.00
+547,1304081,Titans Vs KKR,Titans,10,Yash Dayal ,1159720,c & b Russell,0,1,0,0,0.00
+548,1304081,Titans Vs KKR,KKR,1,Sam Billings †,297628,c †Saha b Mohammed Shami,4,4,1,0,100.00
+549,1304081,Titans Vs KKR,KKR,2,Sunil Narine ,230558,c Ferguson b Mohammed Shami,5,5,1,0,100.00
+550,1304081,Titans Vs KKR,KKR,3,Shreyas Iyer (c),642519,c †Saha b Yash Dayal,12,15,1,1,80.00
+551,1304081,Titans Vs KKR,KKR,4,Nitish Rana ,604527,c †Saha b Ferguson,2,7,0,0,28.57
+552,1304081,Titans Vs KKR,KKR,5,Rinku Singh ,723105,c †Saha b Yash Dayal,35,28,4,1,125.00
+553,1304081,Titans Vs KKR,KKR,6,Venkatesh Iyer ,851403,c Manohar b Rashid Khan,17,17,2,0,100.00
+554,1304081,Titans Vs KKR,KKR,7,Andre Russell ,276298,c Ferguson b Joseph,48,25,1,6,192.00
+555,1304081,Titans Vs KKR,KKR,8,Shivam Mavi ,1079848, b Rashid Khan,2,4,0,0,50.00
+556,1304081,Titans Vs KKR,KKR,9,Umesh Yadav ,376116,not out ,15,15,1,1,100.00
+557,1304081,Titans Vs KKR,KKR,10,Tim Southee ,232364,not out ,1,1,0,0,100.00
+558,1304082,RCB Vs Sunrisers,RCB,1,Faf du Plessis (c),44828, b Jansen,5,7,1,0,71.42
+559,1304082,RCB Vs Sunrisers,RCB,2,Anuj Rawat ,1123073,c Markram b Jansen,0,2,0,0,0.00
+560,1304082,RCB Vs Sunrisers,RCB,3,Virat Kohli ,253802,c Markram b Jansen,0,1,0,0,0.00
+561,1304082,RCB Vs Sunrisers,RCB,4,Glenn Maxwell ,325026,c Williamson b Natarajan,12,11,2,0,109.09
+562,1304082,RCB Vs Sunrisers,RCB,5,Suyash Prabhudessai ,1083851,st †Pooran b Suchith,15,20,1,0,75.00
+563,1304082,RCB Vs Sunrisers,RCB,6,Shahbaz Ahmed ,1159711,c †Pooran b Umran Malik,7,12,1,0,58.33
+564,1304082,RCB Vs Sunrisers,RCB,7,Dinesh Karthik †,30045,c †Pooran b Suchith,0,3,0,0,0.00
+565,1304082,RCB Vs Sunrisers,RCB,8,Harshal Patel ,390481, b Natarajan,4,8,0,0,50.00
+566,1304082,RCB Vs Sunrisers,RCB,9,Wanindu Hasaranga de Silva ,784379, b Natarajan,8,19,1,0,42.10
+567,1304082,RCB Vs Sunrisers,RCB,10,Josh Hazlewood ,288284,not out ,3,11,0,0,27.27
+568,1304082,RCB Vs Sunrisers,RCB,11,Mohammed Siraj ,940973,c Williamson b Kumar,2,4,0,0,50.00
+569,1304082,RCB Vs Sunrisers,Sunrisers,1,Abhishek Sharma ,1070183,c Anuj Rawat b Patel,47,28,8,1,167.85
+570,1304082,RCB Vs Sunrisers,Sunrisers,2,Kane Williamson (c),277906,not out ,16,17,2,0,94.11
+571,1304082,RCB Vs Sunrisers,Sunrisers,3,Rahul Tripathi ,446763,not out ,7,3,0,1,233.33
+572,1304083,Super Giants Vs Mumbai,Super Giants,1,Quinton de Kock †,379143,c Sharma b Bumrah,10,9,0,1,111.11
+573,1304083,Super Giants Vs Mumbai,Super Giants,2,KL Rahul (c),422108,not out ,103,62,12,4,166.12
+574,1304083,Super Giants Vs Mumbai,Super Giants,3,Manish Pandey ,290630,c Meredith b Pollard,22,22,0,1,100.00
+575,1304083,Super Giants Vs Mumbai,Super Giants,4,Marcus Stoinis ,325012,c Tilak Varma b Sams,0,3,0,0,0.00
+576,1304083,Super Giants Vs Mumbai,Super Giants,5,Krunal Pandya ,471342,c Shokeen b Pollard,1,2,0,0,50.00
+577,1304083,Super Giants Vs Mumbai,Super Giants,6,Deepak Hooda ,497121,c Brevis b Meredith,10,9,1,0,111.11
+578,1304083,Super Giants Vs Mumbai,Super Giants,7,Ayush Badoni ,1151270,c Pollard b Meredith,14,11,0,1,127.27
+579,1304083,Super Giants Vs Mumbai,Super Giants,8,Jason Holder ,391485,not out ,0,2,0,0,0.00
+580,1304083,Super Giants Vs Mumbai,Mumbai,1,Ishan Kishan †,720471,c Holder b Ravi Bishnoi,8,20,0,0,40.00
+581,1304083,Super Giants Vs Mumbai,Mumbai,2,Rohit Sharma (c),34102,c sub (K Gowtham) b Pandya,39,31,5,1,125.80
+582,1304083,Super Giants Vs Mumbai,Mumbai,3,Dewald Brevis ,1070665,c Chameera b Mohsin Khan,3,5,0,0,60.00
+583,1304083,Super Giants Vs Mumbai,Mumbai,4,Suryakumar Yadav ,446507,c Rahul b Badoni,7,7,1,0,100.00
+584,1304083,Super Giants Vs Mumbai,Mumbai,5,Tilak Varma ,1170265,c Ravi Bishnoi b Holder,38,27,2,2,140.74
+585,1304083,Super Giants Vs Mumbai,Mumbai,6,Kieron Pollard ,230559,c Hooda b Pandya,19,20,0,1,95.00
+586,1304083,Super Giants Vs Mumbai,Mumbai,7,Daniel Sams ,826901,c Ravi Bishnoi b Pandya,3,7,0,0,42.85
+587,1304083,Super Giants Vs Mumbai,Mumbai,8,Jaydev Unadkat ,390484,run out (Holder/Pandya),1,1,0,0,100.00
+588,1304083,Super Giants Vs Mumbai,Mumbai,9,Hrithik Shokeen ,1175423,not out ,0,0,0,0,-
+589,1304083,Super Giants Vs Mumbai,Mumbai,10,Jasprit Bumrah ,625383,not out ,0,2,0,0,0.00
+590,1304084,Punjab Kings Vs Super Kings,Punjab Kings,1,Mayank Agarwal (c),398438,c Dube b Theekshana,18,21,2,0,85.71
+591,1304084,Punjab Kings Vs Super Kings,Punjab Kings,2,Shikhar Dhawan ,28235,not out ,88,59,9,2,149.15
+592,1304084,Punjab Kings Vs Super Kings,Punjab Kings,3,Bhanuka Rajapaksa ,342619,c Dube b Bravo,42,32,2,2,131.25
+593,1304084,Punjab Kings Vs Super Kings,Punjab Kings,4,Liam Livingstone ,403902,c Mukesh Choudhary b Bravo,19,7,1,2,271.42
+594,1304084,Punjab Kings Vs Super Kings,Punjab Kings,5,Jonny Bairstow ,297433,run out (Santner/†Dhoni),6,3,1,0,200.00
+595,1304084,Punjab Kings Vs Super Kings,Super Kings,1,Ruturaj Gaikwad ,1060380,c Agarwal b Rabada,30,27,4,0,111.11
+596,1304084,Punjab Kings Vs Super Kings,Super Kings,2,Robin Uthappa ,35582,c R Dhawan b Sandeep Sharma,1,7,0,0,14.28
+597,1304084,Punjab Kings Vs Super Kings,Super Kings,3,Mitchell Santner ,502714, b Arshdeep Singh,9,15,1,0,60.00
+598,1304084,Punjab Kings Vs Super Kings,Super Kings,4,Shivam Dube ,714451, b R Dhawan,8,7,1,0,114.28
+599,1304084,Punjab Kings Vs Super Kings,Super Kings,5,Ambati Rayudu ,33141, b Rabada,78,39,7,6,200.00
+600,1304084,Punjab Kings Vs Super Kings,Super Kings,6,Ravindra Jadeja (c),234675,not out ,21,16,1,1,131.25
+601,1304084,Punjab Kings Vs Super Kings,Super Kings,7,MS Dhoni †,28081,c Bairstow b R Dhawan,12,8,1,1,150.00
+602,1304084,Punjab Kings Vs Super Kings,Super Kings,8,Dwaine Pretorius ,327830,not out ,1,1,0,0,100.00
+603,1304085,Royals Vs RCB,Royals,1,Jos Buttler ,308967,c Mohammed Siraj b Hazlewood,8,9,1,0,88.88
+604,1304085,Royals Vs RCB,Royals,2,Devdutt Padikkal ,1119026,lbw b Mohammed Siraj,7,7,0,1,100.00
+605,1304085,Royals Vs RCB,Royals,3,Ravichandran Ashwin ,26421,c & b Mohammed Siraj,17,9,4,0,188.88
+606,1304085,Royals Vs RCB,Royals,4,Sanju Samson (c)†,425943, b de Silva,27,21,1,3,128.57
+607,1304085,Royals Vs RCB,Royals,5,Daryl Mitchell ,381743,c Maxwell b Hazlewood,16,24,0,0,66.66
+608,1304085,Royals Vs RCB,Royals,6,Riyan Parag ,1079434,not out ,56,31,3,4,180.64
+609,1304085,Royals Vs RCB,Royals,7,Shimron Hetmyer ,670025,c Prabhudessai b de Silva,3,7,0,0,42.85
+610,1304085,Royals Vs RCB,Royals,8,Trent Boult ,277912,c Kohli b Patel,5,7,0,0,71.42
+611,1304085,Royals Vs RCB,Royals,9,Prasidh Krishna ,917159,run out (Prabhudessai),2,5,0,0,40.00
+612,1304085,Royals Vs RCB,Royals,10,Yuzvendra Chahal ,430246,not out ,0,0,0,0,-
+613,1304085,Royals Vs RCB,RCB,1,Virat Kohli ,253802,c Parag b Prasidh Krishna,9,10,2,0,90.00
+614,1304085,Royals Vs RCB,RCB,2,Faf du Plessis (c),44828,c Buttler b Sen,23,21,3,1,109.52
+615,1304085,Royals Vs RCB,RCB,3,Rajat Patidar ,823703, b Ashwin,16,16,0,1,100.00
+616,1304085,Royals Vs RCB,RCB,4,Glenn Maxwell ,325026,c Padikkal b Sen,0,1,0,0,0.00
+617,1304085,Royals Vs RCB,RCB,5,Shahbaz Ahmed ,1159711,c Parag b Ashwin,17,27,0,1,62.96
+618,1304085,Royals Vs RCB,RCB,6,Suyash Prabhudessai ,1083851,c Parag b Ashwin,2,7,0,0,28.57
+619,1304085,Royals Vs RCB,RCB,7,Dinesh Karthik †,30045,run out (Prasidh Krishna/Chahal),6,4,1,0,150.00
+620,1304085,Royals Vs RCB,RCB,8,Wanindu Hasaranga de Silva ,784379,c & b Sen,18,13,2,0,138.46
+621,1304085,Royals Vs RCB,RCB,9,Harshal Patel ,390481,c Parag b Sen,8,11,0,1,72.72
+622,1304085,Royals Vs RCB,RCB,10,Mohammed Siraj ,940973,c Sen b Prasidh Krishna,5,5,1,0,100.00
+623,1304085,Royals Vs RCB,RCB,11,Josh Hazlewood ,288284,not out ,0,2,0,0,0.00
+624,1304086,Sunrisers Vs Titans,Sunrisers,1,Abhishek Sharma ,1070183, b Joseph,65,42,6,3,154.76
+625,1304086,Sunrisers Vs Titans,Sunrisers,2,Kane Williamson (c),277906, b Mohammed Shami,5,8,1,0,62.50
+626,1304086,Sunrisers Vs Titans,Sunrisers,3,Rahul Tripathi ,446763,lbw b Mohammed Shami,16,10,2,1,160.00
+627,1304086,Sunrisers Vs Titans,Sunrisers,4,Aiden Markram ,600498,c Miller b Yash Dayal,56,40,2,3,140.00
+628,1304086,Sunrisers Vs Titans,Sunrisers,5,Nicholas Pooran †,604302,c Shubman Gill b Mohammed Shami,3,5,0,0,60.00
+629,1304086,Sunrisers Vs Titans,Sunrisers,6,Washington Sundar ,719715,run out (Joseph),3,4,0,0,75.00
+630,1304086,Sunrisers Vs Titans,Sunrisers,7,Shashank Singh ,377534,not out ,25,6,1,3,416.66
+631,1304086,Sunrisers Vs Titans,Sunrisers,8,Marco Jansen ,696401,not out ,8,5,0,1,160.00
+632,1304086,Sunrisers Vs Titans,Titans,1,Wriddhiman Saha †,279810, b Umran Malik,68,38,11,1,178.94
+633,1304086,Sunrisers Vs Titans,Titans,2,Shubman Gill ,1070173, b Umran Malik,22,24,1,1,91.66
+634,1304086,Sunrisers Vs Titans,Titans,3,Hardik Pandya (c),625371,c Jansen b Umran Malik,10,6,2,0,166.66
+635,1304086,Sunrisers Vs Titans,Titans,4,David Miller ,321777, b Umran Malik,17,19,1,0,89.47
+636,1304086,Sunrisers Vs Titans,Titans,5,Rahul Tewatia ,423838,not out ,40,21,4,2,190.47
+637,1304086,Sunrisers Vs Titans,Titans,6,Abhinav Manohar ,778963, b Umran Malik,0,1,0,0,0.00
+638,1304086,Sunrisers Vs Titans,Titans,7,Rashid Khan ,793463,not out ,31,11,0,4,281.81
+639,1304087,KKR Vs Capitals,KKR,1,Aaron Finch ,5334, b Sakariya,3,7,0,0,42.85
+640,1304087,KKR Vs Capitals,KKR,2,Venkatesh Iyer ,851403,c Sakariya b Patel,6,12,0,0,50.00
+641,1304087,KKR Vs Capitals,KKR,3,Shreyas Iyer (c),642519,c †Pant b Kuldeep Yadav,42,37,4,0,113.51
+642,1304087,KKR Vs Capitals,KKR,4,Baba Indrajith †,477069,c Powell b Kuldeep Yadav,6,8,0,0,75.00
+643,1304087,KKR Vs Capitals,KKR,5,Sunil Narine ,230558,lbw b Kuldeep Yadav,0,1,0,0,0.00
+644,1304087,KKR Vs Capitals,KKR,6,Nitish Rana ,604527,c Sakariya b Mustafizur Rahman,57,34,3,4,167.64
+645,1304087,KKR Vs Capitals,KKR,7,Andre Russell ,276298,st †Pant b Kuldeep Yadav,0,3,0,0,0.00
+646,1304087,KKR Vs Capitals,KKR,8,Rinku Singh ,723105,c Powell b Mustafizur Rahman,23,16,3,0,143.75
+647,1304087,KKR Vs Capitals,KKR,9,Umesh Yadav ,376116,not out ,0,1,0,0,0.00
+648,1304087,KKR Vs Capitals,KKR,10,Tim Southee ,232364, b Mustafizur Rahman,0,1,0,0,0.00
+649,1304087,KKR Vs Capitals,KKR,11,Harshit Rana ,1312645,not out ,0,1,0,0,0.00
+650,1304087,KKR Vs Capitals,Capitals,1,Prithvi Shaw ,1070168,c & b Yadav,0,1,0,0,0.00
+651,1304087,KKR Vs Capitals,Capitals,2,David Warner ,219889,c Narine b Yadav,42,26,8,0,161.53
+652,1304087,KKR Vs Capitals,Capitals,3,Mitchell Marsh ,272450,c VR Iyer b Harshit Rana,13,7,2,0,185.71
+653,1304087,KKR Vs Capitals,Capitals,4,Lalit Yadav ,930189,lbw b Narine,22,29,1,1,75.86
+654,1304087,KKR Vs Capitals,Capitals,5,Rishabh Pant (c)†,931581,c †Indrajith b Yadav,2,5,0,0,40.00
+655,1304087,KKR Vs Capitals,Capitals,6,Rovman Powell ,820351,not out ,33,16,1,3,206.25
+656,1304087,KKR Vs Capitals,Capitals,7,Axar Patel ,554691,run out (SS Iyer/VR Iyer),24,17,2,1,141.17
+657,1304087,KKR Vs Capitals,Capitals,8,Shardul Thakur ,475281,not out ,8,14,0,0,57.14
+658,1304088,Super Giants Vs Punjab Kings,Super Giants,1,Quinton de Kock †,379143,c †Sharma b Sandeep Sharma,46,37,4,2,124.32
+659,1304088,Super Giants Vs Punjab Kings,Super Giants,2,KL Rahul (c),422108,c †Sharma b Rabada,6,11,1,0,54.54
+660,1304088,Super Giants Vs Punjab Kings,Super Giants,3,Deepak Hooda ,497121,run out (Bairstow),34,28,1,2,121.42
+661,1304088,Super Giants Vs Punjab Kings,Super Giants,4,Krunal Pandya ,471342,c S Dhawan b Rabada,7,7,1,0,100.00
+662,1304088,Super Giants Vs Punjab Kings,Super Giants,5,Marcus Stoinis ,325012,c & b Chahar,1,4,0,0,25.00
+663,1304088,Super Giants Vs Punjab Kings,Super Giants,6,Ayush Badoni ,1151270,c Livingstone b Rabada,4,4,0,0,100.00
+664,1304088,Super Giants Vs Punjab Kings,Super Giants,7,Jason Holder ,391485,c Sandeep Sharma b Chahar,11,8,0,1,137.50
+665,1304088,Super Giants Vs Punjab Kings,Super Giants,8,Dushmantha Chameera ,552152,c Chahar b Rabada,17,10,0,2,170.00
+666,1304088,Super Giants Vs Punjab Kings,Super Giants,9,Mohsin Khan ,1132005,not out ,13,6,1,1,216.66
+667,1304088,Super Giants Vs Punjab Kings,Super Giants,10,Avesh Khan ,694211,not out ,2,5,0,0,40.00
+668,1304088,Super Giants Vs Punjab Kings,Punjab Kings,1,Mayank Agarwal (c),398438,c Rahul b Chameera,25,17,2,2,147.05
+669,1304088,Super Giants Vs Punjab Kings,Punjab Kings,2,Shikhar Dhawan ,28235, b Ravi Bishnoi,5,15,0,0,33.33
+670,1304088,Super Giants Vs Punjab Kings,Punjab Kings,3,Jonny Bairstow ,297433,c Pandya b Chameera,32,28,5,0,114.28
+671,1304088,Super Giants Vs Punjab Kings,Punjab Kings,4,Bhanuka Rajapaksa ,342619,c Rahul b Pandya,9,7,1,0,128.57
+672,1304088,Super Giants Vs Punjab Kings,Punjab Kings,5,Liam Livingstone ,403902,c †de Kock b Mohsin Khan,18,16,0,2,112.50
+673,1304088,Super Giants Vs Punjab Kings,Punjab Kings,6,Jitesh Sharma †,721867,lbw b Pandya,2,5,0,0,40.00
+674,1304088,Super Giants Vs Punjab Kings,Punjab Kings,7,Rishi Dhawan ,290727,not out ,21,22,3,1,95.45
+675,1304088,Super Giants Vs Punjab Kings,Punjab Kings,8,Kagiso Rabada ,550215,c Badoni b Mohsin Khan,2,5,0,0,40.00
+676,1304088,Super Giants Vs Punjab Kings,Punjab Kings,9,Rahul Chahar ,1064812,c Badoni b Mohsin Khan,4,4,1,0,100.00
+677,1304088,Super Giants Vs Punjab Kings,Punjab Kings,10,Arshdeep Singh ,1125976,not out ,0,2,0,0,0.00
+678,1304089,RCB Vs Titans,RCB,1,Virat Kohli ,253802, b Mohammed Shami,58,53,6,1,109.43
+679,1304089,RCB Vs Titans,RCB,2,Faf du Plessis (c),44828,c †Saha b Sangwan,0,4,0,0,0.00
+680,1304089,RCB Vs Titans,RCB,3,Rajat Patidar ,823703,c Shubman Gill b Sangwan,52,32,5,2,162.50
+681,1304089,RCB Vs Titans,RCB,4,Glenn Maxwell ,325026,c Rashid Khan b Ferguson,33,18,3,2,183.33
+682,1304089,RCB Vs Titans,RCB,5,Dinesh Karthik †,30045,c Mohammed Shami b Rashid Khan,2,3,0,0,66.66
+683,1304089,RCB Vs Titans,RCB,6,Shahbaz Ahmed ,1159711,not out ,2,2,0,0,100.00
+684,1304089,RCB Vs Titans,RCB,7,Mahipal Lomror ,853265,c Miller b Joseph,16,8,2,1,200.00
+685,1304089,RCB Vs Titans,Titans,1,Wriddhiman Saha †,279810,c Patidar b de Silva,29,22,4,0,131.81
+686,1304089,RCB Vs Titans,Titans,2,Shubman Gill ,1070173,lbw b Shahbaz Ahmed,31,28,3,1,110.71
+687,1304089,RCB Vs Titans,Titans,3,Sai Sudharsan ,1151288,c sub (†Anuj Rawat) b de Silva,20,14,2,0,142.85
+688,1304089,RCB Vs Titans,Titans,4,Hardik Pandya (c),625371,c Lomror b Shahbaz Ahmed,3,5,0,0,60.00
+689,1304089,RCB Vs Titans,Titans,5,David Miller ,321777,not out ,39,24,4,1,162.50
+690,1304089,RCB Vs Titans,Titans,6,Rahul Tewatia ,423838,not out ,43,25,5,2,172.00
+691,1304090,Royals Vs Mumbai,Royals,1,Jos Buttler ,308967,c Yadav b Shokeen,67,52,5,4,128.84
+692,1304090,Royals Vs Mumbai,Royals,2,Devdutt Padikkal ,1119026,c Pollard b Shokeen,15,15,3,0,100.00
+693,1304090,Royals Vs Mumbai,Royals,3,Sanju Samson (c)†,425943,c David b Kartikeya,16,7,0,2,228.57
+694,1304090,Royals Vs Mumbai,Royals,4,Daryl Mitchell ,381743,c Sharma b Sams,17,20,1,0,85.00
+695,1304090,Royals Vs Mumbai,Royals,5,Shimron Hetmyer ,670025,not out ,6,14,0,0,42.85
+696,1304090,Royals Vs Mumbai,Royals,6,Riyan Parag ,1079434,c Sams b Meredith,3,3,0,0,100.00
+697,1304090,Royals Vs Mumbai,Royals,7,Ravichandran Ashwin ,26421,c †Ishan Kishan b Meredith,21,9,3,1,233.33
+698,1304090,Royals Vs Mumbai,Royals,8,Trent Boult ,277912,not out ,1,1,0,0,100.00
+699,1304090,Royals Vs Mumbai,Mumbai,1,Rohit Sharma (c),34102,c Mitchell b Ashwin,2,5,0,0,40.00
+700,1304090,Royals Vs Mumbai,Mumbai,2,Ishan Kishan †,720471,c †Samson b Boult,26,18,4,1,144.44
+701,1304090,Royals Vs Mumbai,Mumbai,3,Suryakumar Yadav ,446507,c Parag b Chahal,51,39,5,2,130.76
+702,1304090,Royals Vs Mumbai,Mumbai,4,Tilak Varma ,1170265,c Parag b Prasidh Krishna,35,30,1,2,116.66
+703,1304090,Royals Vs Mumbai,Mumbai,5,Kieron Pollard ,230559,c Mitchell b Sen,10,14,0,0,71.42
+704,1304090,Royals Vs Mumbai,Mumbai,6,Tim David ,892749,not out ,20,9,2,1,222.22
+705,1304090,Royals Vs Mumbai,Mumbai,7,Daniel Sams ,826901,not out ,6,1,0,1,600.00
+706,1304091,Super Giants Vs Capitals,Super Giants,1,Quinton de Kock †,379143,c Lalit Yadav b Thakur,23,13,3,1,176.92
+707,1304091,Super Giants Vs Capitals,Super Giants,2,KL Rahul (c),422108,c Lalit Yadav b Thakur,77,51,4,5,150.98
+708,1304091,Super Giants Vs Capitals,Super Giants,3,Deepak Hooda ,497121,c & b Thakur,52,34,6,1,152.94
+709,1304091,Super Giants Vs Capitals,Super Giants,4,Marcus Stoinis ,325012,not out ,17,16,1,1,106.25
+710,1304091,Super Giants Vs Capitals,Super Giants,5,Krunal Pandya ,471342,not out ,9,6,0,0,150.00
+711,1304091,Super Giants Vs Capitals,Capitals,1,Prithvi Shaw ,1070168,c Gowtham b Chameera,5,7,1,0,71.42
+712,1304091,Super Giants Vs Capitals,Capitals,2,David Warner ,219889,c Badoni b Mohsin Khan,3,4,0,0,75.00
+713,1304091,Super Giants Vs Capitals,Capitals,3,Mitchell Marsh ,272450,c †de Kock b Gowtham,37,20,3,3,185.00
+714,1304091,Super Giants Vs Capitals,Capitals,4,Rishabh Pant (c)†,931581, b Mohsin Khan,44,30,7,1,146.66
+715,1304091,Super Giants Vs Capitals,Capitals,5,Lalit Yadav ,930189, b Ravi Bishnoi,3,4,0,0,75.00
+716,1304091,Super Giants Vs Capitals,Capitals,6,Rovman Powell ,820351,c Pandya b Mohsin Khan,35,21,3,2,166.66
+717,1304091,Super Giants Vs Capitals,Capitals,7,Axar Patel ,554691,not out ,42,24,1,3,175.00
+718,1304091,Super Giants Vs Capitals,Capitals,8,Shardul Thakur ,475281,c Pandya b Mohsin Khan,1,2,0,0,50.00
+719,1304091,Super Giants Vs Capitals,Capitals,9,Kuldeep Yadav ,559235,not out ,16,8,1,1,200.00
+720,1304092,Super Kings Vs Sunrisers,Super Kings,1,Ruturaj Gaikwad ,1060380,c Kumar b Natarajan,99,57,6,6,173.68
+721,1304092,Super Kings Vs Sunrisers,Super Kings,2,Devon Conway ,379140,not out ,85,55,8,4,154.54
+722,1304092,Super Kings Vs Sunrisers,Super Kings,3,MS Dhoni (c)†,28081,c Umran Malik b Natarajan,8,7,1,0,114.28
+723,1304092,Super Kings Vs Sunrisers,Super Kings,4,Ravindra Jadeja ,234675,not out ,1,1,0,0,100.00
+724,1304092,Super Kings Vs Sunrisers,Sunrisers,1,Abhishek Sharma ,1070183,c Pretorius b Mukesh Choudhary,39,24,5,1,162.50
+725,1304092,Super Kings Vs Sunrisers,Sunrisers,2,Kane Williamson (c),277906,lbw b Pretorius,47,37,2,2,127.02
+726,1304092,Super Kings Vs Sunrisers,Sunrisers,3,Rahul Tripathi ,446763,c Simarjeet Singh b Mukesh Choudhary,0,1,0,0,0.00
+727,1304092,Super Kings Vs Sunrisers,Sunrisers,4,Aiden Markram ,600498,c Jadeja b Santner,17,10,0,2,170.00
+728,1304092,Super Kings Vs Sunrisers,Sunrisers,5,Nicholas Pooran †,604302,not out ,64,33,3,6,193.93
+729,1304092,Super Kings Vs Sunrisers,Sunrisers,6,Shashank Singh ,377534,c †Dhoni b Mukesh Choudhary,15,14,1,0,107.14
+730,1304092,Super Kings Vs Sunrisers,Sunrisers,7,Washington Sundar ,719715, b Mukesh Choudhary,2,2,0,0,100.00
+731,1304092,Super Kings Vs Sunrisers,Sunrisers,8,Marco Jansen ,696401,not out ,0,0,0,0,-
+732,1304093,Royals Vs KKR,Royals,1,Jos Buttler ,308967,c Shivam Mavi b Southee,22,25,3,0,88.00
+733,1304093,Royals Vs KKR,Royals,2,Devdutt Padikkal ,1119026,c & b Yadav,2,5,0,0,40.00
+734,1304093,Royals Vs KKR,Royals,3,Sanju Samson (c)†,425943,c Singh b Shivam Mavi,54,49,7,1,110.20
+735,1304093,Royals Vs KKR,Royals,4,Karun Nair ,398439,c Singh b Roy,13,13,1,0,100.00
+736,1304093,Royals Vs KKR,Royals,5,Riyan Parag ,1079434,c Roy b Southee,19,12,1,2,158.33
+737,1304093,Royals Vs KKR,Royals,6,Shimron Hetmyer ,670025,not out ,27,13,1,2,207.69
+738,1304093,Royals Vs KKR,Royals,7,Ravichandran Ashwin ,26421,not out ,6,5,0,0,120.00
+739,1304093,Royals Vs KKR,KKR,1,Baba Indrajith †,477069,c Ashwin b Prasidh Krishna,15,16,2,0,93.75
+740,1304093,Royals Vs KKR,KKR,2,Aaron Finch ,5334, b Sen,4,7,0,0,57.14
+741,1304093,Royals Vs KKR,KKR,3,Shreyas Iyer (c),642519,c †Samson b Boult,34,32,3,1,106.25
+742,1304093,Royals Vs KKR,KKR,4,Nitish Rana ,604527,not out ,48,37,3,2,129.72
+743,1304093,Royals Vs KKR,KKR,5,Rinku Singh ,723105,not out ,42,23,6,1,182.60
+744,1304094,Titans Vs Punjab Kings,Titans,1,Wriddhiman Saha †,279810,c Agarwal b Rabada,21,17,3,1,123.52
+745,1304094,Titans Vs Punjab Kings,Titans,2,Shubman Gill ,1070173,run out (R Dhawan),9,6,2,0,150.00
+746,1304094,Titans Vs Punjab Kings,Titans,3,Sai Sudharsan ,1151288,not out ,65,50,5,1,130.00
+747,1304094,Titans Vs Punjab Kings,Titans,4,Hardik Pandya (c),625371,c †Sharma b R Dhawan,1,7,0,0,14.28
+748,1304094,Titans Vs Punjab Kings,Titans,5,David Miller ,321777,c Rabada b Livingstone,11,14,0,0,78.57
+749,1304094,Titans Vs Punjab Kings,Titans,6,Rahul Tewatia ,423838,c Sandeep Sharma b Rabada,11,13,0,0,84.61
+750,1304094,Titans Vs Punjab Kings,Titans,7,Rashid Khan ,793463,c †Sharma b Rabada,0,1,0,0,0.00
+751,1304094,Titans Vs Punjab Kings,Titans,8,Pradeep Sangwan ,279545, b Arshdeep Singh,2,5,0,0,40.00
+752,1304094,Titans Vs Punjab Kings,Titans,9,Lockie Ferguson ,493773,c Livingstone b Rabada,5,3,1,0,166.66
+753,1304094,Titans Vs Punjab Kings,Titans,10,Alzarri Joseph ,670031,not out ,4,5,0,0,80.00
+754,1304094,Titans Vs Punjab Kings,Punjab Kings,1,Jonny Bairstow ,297433,c Sangwan b Mohammed Shami,1,6,0,0,16.66
+755,1304094,Titans Vs Punjab Kings,Punjab Kings,2,Shikhar Dhawan ,28235,not out ,62,53,8,1,116.98
+756,1304094,Titans Vs Punjab Kings,Punjab Kings,3,Bhanuka Rajapaksa ,342619,lbw b Ferguson,40,28,5,1,142.85
+757,1304094,Titans Vs Punjab Kings,Punjab Kings,4,Liam Livingstone ,403902,not out ,30,10,2,3,300.00
+758,1304095,RCB Vs Super Kings,RCB,1,Virat Kohli ,253802, b Ali,30,33,3,1,90.90
+759,1304095,RCB Vs Super Kings,RCB,2,Faf du Plessis (c),44828,c Jadeja b Ali,38,22,4,1,172.72
+760,1304095,RCB Vs Super Kings,RCB,3,Glenn Maxwell ,325026,run out (Uthappa/†Dhoni),3,3,0,0,100.00
+761,1304095,RCB Vs Super Kings,RCB,4,Mahipal Lomror ,853265,c Gaikwad b Theekshana,42,27,3,2,155.55
+762,1304095,RCB Vs Super Kings,RCB,5,Rajat Patidar ,823703,c Mukesh Choudhary b Pretorius,21,15,1,1,140.00
+763,1304095,RCB Vs Super Kings,RCB,6,Dinesh Karthik †,30045,not out ,26,17,1,2,152.94
+764,1304095,RCB Vs Super Kings,RCB,7,Wanindu Hasaranga de Silva ,784379,c Gaikwad b Theekshana,0,1,0,0,0.00
+765,1304095,RCB Vs Super Kings,RCB,8,Shahbaz Ahmed ,1159711, b Theekshana,1,2,0,0,50.00
+766,1304095,RCB Vs Super Kings,RCB,9,Harshal Patel ,390481,run out (Conway/Pretorius),0,0,0,0,-
+767,1304095,RCB Vs Super Kings,RCB,10,Mohammed Siraj ,940973,not out ,0,0,0,0,-
+768,1304095,RCB Vs Super Kings,Super Kings,1,Ruturaj Gaikwad ,1060380,c sub (SS Prabhudessai) b Shahbaz Ahmed,28,23,3,1,121.73
+769,1304095,RCB Vs Super Kings,Super Kings,2,Devon Conway ,379140,c Shahbaz Ahmed b de Silva,56,37,6,2,151.35
+770,1304095,RCB Vs Super Kings,Super Kings,3,Robin Uthappa ,35582,c sub (SS Prabhudessai) b Maxwell,1,3,0,0,33.33
+771,1304095,RCB Vs Super Kings,Super Kings,4,Ambati Rayudu ,33141, b Maxwell,10,8,0,1,125.00
+772,1304095,RCB Vs Super Kings,Super Kings,5,Moeen Ali ,8917,c Mohammed Siraj b Patel,34,27,2,2,125.92
+773,1304095,RCB Vs Super Kings,Super Kings,6,Ravindra Jadeja ,234675,c Kohli b Patel,3,5,0,0,60.00
+774,1304095,RCB Vs Super Kings,Super Kings,7,MS Dhoni (c)†,28081,c Patidar b Hazlewood,2,3,0,0,66.66
+775,1304095,RCB Vs Super Kings,Super Kings,8,Dwaine Pretorius ,327830,c Kohli b Patel,13,8,1,1,162.50
+776,1304095,RCB Vs Super Kings,Super Kings,9,Simarjeet Singh ,1159722,not out ,2,2,0,0,100.00
+777,1304095,RCB Vs Super Kings,Super Kings,10,Maheesh Theekshana ,1138316,not out ,7,4,0,1,175.00
+778,1304096,Capitals Vs Sunrisers,Capitals,1,Mandeep Singh ,398506,c †Pooran b Kumar,0,5,0,0,0.00
+779,1304096,Capitals Vs Sunrisers,Capitals,2,David Warner ,219889,not out ,92,58,12,3,158.62
+780,1304096,Capitals Vs Sunrisers,Capitals,3,Mitchell Marsh ,272450,c & b Abbott,10,7,2,0,142.85
+781,1304096,Capitals Vs Sunrisers,Capitals,4,Rishabh Pant (c)†,931581, b Gopal,26,16,1,3,162.50
+782,1304096,Capitals Vs Sunrisers,Capitals,5,Rovman Powell ,820351,not out ,67,35,3,6,191.42
+783,1304096,Capitals Vs Sunrisers,Sunrisers,1,Abhishek Sharma ,1070183,c Kuldeep Yadav b Ahmed,7,6,1,0,116.66
+784,1304096,Capitals Vs Sunrisers,Sunrisers,2,Kane Williamson (c),277906,c †Pant b Nortje,4,11,1,0,36.36
+785,1304096,Capitals Vs Sunrisers,Sunrisers,3,Rahul Tripathi ,446763,c Thakur b Marsh,22,18,2,1,122.22
+786,1304096,Capitals Vs Sunrisers,Sunrisers,4,Aiden Markram ,600498,c Kuldeep Yadav b Ahmed,42,25,4,3,168.00
+787,1304096,Capitals Vs Sunrisers,Sunrisers,5,Nicholas Pooran †,604302,c Powell b Thakur,62,34,2,6,182.35
+788,1304096,Capitals Vs Sunrisers,Sunrisers,6,Shashank Singh ,377534,c Nortje b Thakur,10,6,2,0,166.66
+789,1304096,Capitals Vs Sunrisers,Sunrisers,7,Sean Abbott ,398666,c Patel b Ahmed,7,5,0,1,140.00
+790,1304096,Capitals Vs Sunrisers,Sunrisers,8,Shreyas Gopal ,344580,not out ,9,7,2,0,128.57
+791,1304096,Capitals Vs Sunrisers,Sunrisers,9,Kartik Tyagi ,1122918, b Kuldeep Yadav,7,5,1,0,140.00
+792,1304096,Capitals Vs Sunrisers,Sunrisers,10,Bhuvneshwar Kumar ,326016,not out ,5,3,1,0,166.66
+793,1304097,Mumbai Vs Titans,Mumbai,1,Ishan Kishan †,720471,c Rashid Khan b Joseph,45,29,5,1,155.17
+794,1304097,Mumbai Vs Titans,Mumbai,2,Rohit Sharma (c),34102,lbw b Rashid Khan,43,28,5,2,153.57
+795,1304097,Mumbai Vs Titans,Mumbai,3,Suryakumar Yadav ,446507,c Rashid Khan b Sangwan,13,11,0,1,118.18
+796,1304097,Mumbai Vs Titans,Mumbai,4,Tilak Varma ,1170265,run out (Pandya),21,16,2,0,131.25
+797,1304097,Mumbai Vs Titans,Mumbai,5,Kieron Pollard ,230559, b Rashid Khan,4,14,0,0,28.57
+798,1304097,Mumbai Vs Titans,Mumbai,6,Tim David ,892749,not out ,44,21,2,4,209.52
+799,1304097,Mumbai Vs Titans,Mumbai,7,Daniel Sams ,826901,c Rashid Khan b Ferguson,0,2,0,0,0.00
+800,1304097,Mumbai Vs Titans,Mumbai,8,Murugan Ashwin ,528067,not out ,0,0,0,0,-
+801,1304097,Mumbai Vs Titans,Titans,1,Wriddhiman Saha †,279810,c Sams b Ashwin,55,40,6,2,137.50
+802,1304097,Mumbai Vs Titans,Titans,2,Shubman Gill ,1070173,c Pollard b Ashwin,52,36,6,2,144.44
+803,1304097,Mumbai Vs Titans,Titans,3,Hardik Pandya (c),625371,run out (†Ishan Kishan),24,14,4,0,171.42
+804,1304097,Mumbai Vs Titans,Titans,4,Sai Sudharsan ,1151288,hit wicket b Pollard,14,11,1,1,127.27
+805,1304097,Mumbai Vs Titans,Titans,5,David Miller ,321777,not out ,19,14,1,1,135.71
+806,1304097,Mumbai Vs Titans,Titans,6,Rahul Tewatia ,423838,run out (Tilak Varma/†Ishan Kishan),3,4,0,0,75.00
+807,1304097,Mumbai Vs Titans,Titans,7,Rashid Khan ,793463,not out ,1,1,0,0,100.00
+808,1304098,Punjab Kings Vs Royals,Punjab Kings,1,Jonny Bairstow ,297433,lbw b Chahal,56,40,8,1,140.00
+809,1304098,Punjab Kings Vs Royals,Punjab Kings,2,Shikhar Dhawan ,28235,c Buttler b Ashwin,12,16,2,0,75.00
+810,1304098,Punjab Kings Vs Royals,Punjab Kings,3,Bhanuka Rajapaksa ,342619, b Chahal,27,18,2,2,150.00
+811,1304098,Punjab Kings Vs Royals,Punjab Kings,4,Mayank Agarwal (c),398438,c Buttler b Chahal,15,13,2,0,115.38
+812,1304098,Punjab Kings Vs Royals,Punjab Kings,5,Jitesh Sharma †,721867,not out ,38,18,4,2,211.11
+813,1304098,Punjab Kings Vs Royals,Punjab Kings,6,Liam Livingstone ,403902, b Prasidh Krishna,22,14,1,2,157.14
+814,1304098,Punjab Kings Vs Royals,Punjab Kings,7,Rishi Dhawan ,290727,not out ,5,2,1,0,250.00
+815,1304098,Punjab Kings Vs Royals,Royals,1,Yashasvi Jaiswal ,1151278,c Livingstone b Arshdeep Singh,68,41,9,2,165.85
+816,1304098,Punjab Kings Vs Royals,Royals,2,Jos Buttler ,308967,c Rajapaksa b Rabada,30,16,5,1,187.50
+817,1304098,Punjab Kings Vs Royals,Royals,3,Sanju Samson (c)†,425943,c S Dhawan b R Dhawan,23,12,4,0,191.66
+818,1304098,Punjab Kings Vs Royals,Royals,4,Devdutt Padikkal ,1119026,c Agarwal b Arshdeep Singh,31,32,3,0,96.87
+819,1304098,Punjab Kings Vs Royals,Royals,5,Shimron Hetmyer ,670025,not out ,31,16,3,2,193.75
+820,1304098,Punjab Kings Vs Royals,Royals,6,Riyan Parag ,1079434,not out ,0,1,0,0,0.00
+821,1304099,Super Giants Vs KKR,Super Giants,1,Quinton de Kock †,379143,c Shivam Mavi b Narine,50,29,4,3,172.41
+822,1304099,Super Giants Vs KKR,Super Giants,2,KL Rahul (c),422108,run out (Iyer),0,0,0,0,-
+823,1304099,Super Giants Vs KKR,Super Giants,3,Deepak Hooda ,497121,c Iyer b Russell,41,27,4,2,151.85
+824,1304099,Super Giants Vs KKR,Super Giants,4,Krunal Pandya ,471342,c Finch b Russell,25,27,2,0,92.59
+825,1304099,Super Giants Vs KKR,Super Giants,5,Ayush Badoni ,1151270,not out ,15,18,0,0,83.33
+826,1304099,Super Giants Vs KKR,Super Giants,6,Marcus Stoinis ,325012,c Iyer b Shivam Mavi,28,14,1,3,200.00
+827,1304099,Super Giants Vs KKR,Super Giants,7,Jason Holder ,391485,c Singh b Southee,13,4,0,2,325.00
+828,1304099,Super Giants Vs KKR,Super Giants,8,Dushmantha Chameera ,552152,run out (†Indrajith),0,1,0,0,0.00
+829,1304099,Super Giants Vs KKR,KKR,1,Baba Indrajith †,477069,c Badoni b Mohsin Khan,0,6,0,0,0.00
+830,1304099,Super Giants Vs KKR,KKR,2,Aaron Finch ,5334,c †de Kock b Holder,14,14,1,0,100.00
+831,1304099,Super Giants Vs KKR,KKR,3,Shreyas Iyer (c),642519,c Badoni b Chameera,6,9,1,0,66.66
+832,1304099,Super Giants Vs KKR,KKR,4,Nitish Rana ,604527, b Avesh Khan,2,11,0,0,18.18
+833,1304099,Super Giants Vs KKR,KKR,5,Rinku Singh ,723105,c Pandya b Ravi Bishnoi,6,10,0,0,60.00
+834,1304099,Super Giants Vs KKR,KKR,6,Andre Russell ,276298,c Holder b Avesh Khan,45,19,3,5,236.84
+835,1304099,Super Giants Vs KKR,KKR,7,Sunil Narine ,230558,c Pandya b Holder,22,12,3,1,183.33
+836,1304099,Super Giants Vs KKR,KKR,8,Anukul Roy ,1079839,c †de Kock b Avesh Khan,0,2,0,0,0.00
+837,1304099,Super Giants Vs KKR,KKR,9,Shivam Mavi ,1079848,not out ,1,2,0,0,50.00
+838,1304099,Super Giants Vs KKR,KKR,10,Tim Southee ,232364,c Avesh Khan b Holder,0,1,0,0,0.00
+839,1304099,Super Giants Vs KKR,KKR,11,Harshit Rana ,1312645,run out (Badoni/Holder),2,1,0,0,200.00
+840,1304100,RCB Vs Sunrisers,RCB,1,Virat Kohli ,253802,c Williamson b Suchith,0,1,0,0,0.00
+841,1304100,RCB Vs Sunrisers,RCB,2,Faf du Plessis (c),44828,not out ,73,50,8,2,146.00
+842,1304100,RCB Vs Sunrisers,RCB,3,Rajat Patidar ,823703,c Tripathi b Suchith,48,38,4,2,126.31
+843,1304100,RCB Vs Sunrisers,RCB,4,Glenn Maxwell ,325026,c Markram b Kartik Tyagi,33,24,3,2,137.50
+844,1304100,RCB Vs Sunrisers,RCB,5,Dinesh Karthik †,30045,not out ,30,8,1,4,375.00
+845,1304100,RCB Vs Sunrisers,Sunrisers,1,Abhishek Sharma ,1070183, b Maxwell,0,3,0,0,0.00
+846,1304100,RCB Vs Sunrisers,Sunrisers,2,Kane Williamson (c),277906,run out (Shahbaz Ahmed),0,0,0,0,-
+847,1304100,RCB Vs Sunrisers,Sunrisers,3,Rahul Tripathi ,446763,c Lomror b Hazlewood,58,37,6,2,156.75
+848,1304100,RCB Vs Sunrisers,Sunrisers,4,Aiden Markram ,600498,c Kohli b de Silva,21,27,1,1,77.77
+849,1304100,RCB Vs Sunrisers,Sunrisers,5,Nicholas Pooran †,604302,c Shahbaz Ahmed b de Silva,19,14,2,1,135.71
+850,1304100,RCB Vs Sunrisers,Sunrisers,6,Jagadeesha Suchith ,527663,st †Karthik b de Silva,2,7,0,0,28.57
+851,1304100,RCB Vs Sunrisers,Sunrisers,7,Shashank Singh ,377534,c Maxwell b de Silva,8,9,0,1,88.88
+852,1304100,RCB Vs Sunrisers,Sunrisers,8,Kartik Tyagi ,1122918,c Patidar b Hazlewood,0,1,0,0,0.00
+853,1304100,RCB Vs Sunrisers,Sunrisers,9,Bhuvneshwar Kumar ,326016,c du Plessis b Patel,8,9,1,0,88.88
+854,1304100,RCB Vs Sunrisers,Sunrisers,10,Umran Malik ,1246528,lbw b de Silva,0,1,0,0,0.00
+855,1304100,RCB Vs Sunrisers,Sunrisers,11,Fazalhaq Farooqi ,974175,not out ,2,8,0,0,25.00
+856,1304101,Super Kings Vs Capitals,Super Kings,1,Ruturaj Gaikwad ,1060380,c AR Patel b Nortje,41,33,4,1,124.24
+857,1304101,Super Kings Vs Capitals,Super Kings,2,Devon Conway ,379140,c †Pant b Ahmed,87,49,7,5,177.55
+858,1304101,Super Kings Vs Capitals,Super Kings,3,Shivam Dube ,714451,c Warner b Marsh,32,19,2,2,168.42
+859,1304101,Super Kings Vs Capitals,Super Kings,4,Ambati Rayudu ,33141,c AR Patel b Ahmed,5,6,1,0,83.33
+860,1304101,Super Kings Vs Capitals,Super Kings,5,MS Dhoni (c)†,28081,not out ,21,8,1,2,262.50
+861,1304101,Super Kings Vs Capitals,Super Kings,6,Moeen Ali ,8917,c Warner b Nortje,9,4,2,0,225.00
+862,1304101,Super Kings Vs Capitals,Super Kings,7,Robin Uthappa ,35582,c sub (KL Nagarkoti) b Nortje,0,1,0,0,0.00
+863,1304101,Super Kings Vs Capitals,Super Kings,8,Dwayne Bravo ,51439,not out ,1,1,0,0,100.00
+864,1304101,Super Kings Vs Capitals,Capitals,1,David Warner ,219889,lbw b Theekshana,19,12,1,2,158.33
+865,1304101,Super Kings Vs Capitals,Capitals,2,Srikar Bharat ,529436,c Ali b Simarjeet Singh,8,5,2,0,160.00
+866,1304101,Super Kings Vs Capitals,Capitals,3,Mitchell Marsh ,272450,c Gaikwad b Ali,25,20,3,1,125.00
+867,1304101,Super Kings Vs Capitals,Capitals,4,Rishabh Pant (c)†,931581, b Ali,21,11,4,0,190.90
+868,1304101,Super Kings Vs Capitals,Capitals,5,Rovman Powell ,820351,c †Dhoni b Mukesh Choudhary,3,9,0,0,33.33
+869,1304101,Super Kings Vs Capitals,Capitals,6,Ripal Patel ,1201520,c Conway b Ali,6,3,0,1,200.00
+870,1304101,Super Kings Vs Capitals,Capitals,7,Axar Patel ,554691, b Mukesh Choudhary,1,3,0,0,33.33
+871,1304101,Super Kings Vs Capitals,Capitals,8,Shardul Thakur ,475281,c †Dhoni b Bravo,24,19,2,1,126.31
+872,1304101,Super Kings Vs Capitals,Capitals,9,Kuldeep Yadav ,559235,c Uthappa b Simarjeet Singh,5,17,0,0,29.41
+873,1304101,Super Kings Vs Capitals,Capitals,10,Anrich Nortje ,481979,not out ,1,6,0,0,16.66
+874,1304101,Super Kings Vs Capitals,Capitals,11,Khaleel Ahmed ,942645, b Bravo,0,1,0,0,0.00
+875,1304102,KKR Vs Mumbai,KKR,1,Venkatesh Iyer ,851403,c Sams b Kartikeya,43,24,3,4,179.16
+876,1304102,KKR Vs Mumbai,KKR,2,Ajinkya Rahane ,277916, b Kartikeya,25,24,3,0,104.16
+877,1304102,KKR Vs Mumbai,KKR,3,Nitish Rana ,604527,c †Ishan Kishan b Bumrah,43,26,3,4,165.38
+878,1304102,KKR Vs Mumbai,KKR,4,Shreyas Iyer (c),642519,c †Ishan Kishan b Ashwin,6,8,1,0,75.00
+879,1304102,KKR Vs Mumbai,KKR,5,Andre Russell ,276298,c Pollard b Bumrah,9,5,0,1,180.00
+880,1304102,KKR Vs Mumbai,KKR,6,Rinku Singh ,723105,not out ,23,19,2,1,121.05
+881,1304102,KKR Vs Mumbai,KKR,7,Sheldon Jackson †,237696,c Sams b Bumrah,5,7,0,0,71.42
+882,1304102,KKR Vs Mumbai,KKR,8,Pat Cummins ,489889,c Tilak Varma b Bumrah,0,2,0,0,0.00
+883,1304102,KKR Vs Mumbai,KKR,9,Sunil Narine ,230558,c & b Bumrah,0,1,0,0,0.00
+884,1304102,KKR Vs Mumbai,KKR,10,Tim Southee ,232364,c Pollard b Sams,0,4,0,0,0.00
+885,1304102,KKR Vs Mumbai,KKR,11,Varun Chakravarthy ,1108375,not out ,0,0,0,0,-
+886,1304102,KKR Vs Mumbai,Mumbai,1,Rohit Sharma (c),34102,c †Jackson b Southee,2,6,0,0,33.33
+887,1304102,KKR Vs Mumbai,Mumbai,2,Ishan Kishan †,720471,c Singh b Cummins,51,43,5,1,118.60
+888,1304102,KKR Vs Mumbai,Mumbai,3,Tilak Varma ,1170265,c Rana b Russell,6,5,1,0,120.00
+889,1304102,KKR Vs Mumbai,Mumbai,4,Ramandeep Singh ,1079470,c Rana b Russell,12,16,0,0,75.00
+890,1304102,KKR Vs Mumbai,Mumbai,5,Tim David ,892749,c Rahane b Varun,13,9,3,0,144.44
+891,1304102,KKR Vs Mumbai,Mumbai,6,Kieron Pollard ,230559,run out (Varun/SS Iyer),15,16,0,1,93.75
+892,1304102,KKR Vs Mumbai,Mumbai,7,Daniel Sams ,826901,c †Jackson b Cummins,1,2,0,0,50.00
+893,1304102,KKR Vs Mumbai,Mumbai,8,Murugan Ashwin ,528067,c Varun b Cummins,0,2,0,0,0.00
+894,1304102,KKR Vs Mumbai,Mumbai,9,Kumar Kartikeya ,1159843,run out (Rahane/†Jackson),3,5,0,0,60.00
+895,1304102,KKR Vs Mumbai,Mumbai,10,Jasprit Bumrah ,625383,run out (Singh),0,0,0,0,-
+896,1304102,KKR Vs Mumbai,Mumbai,11,Riley Meredith ,961713,not out ,0,1,0,0,0.00
+897,1304103,Titans Vs Super Giants,Titans,1,Wriddhiman Saha †,279810,c Avesh Khan b Mohsin Khan,5,11,1,0,45.45
+898,1304103,Titans Vs Super Giants,Titans,2,Shubman Gill ,1070173,not out ,63,49,7,0,128.57
+899,1304103,Titans Vs Super Giants,Titans,3,Matthew Wade ,230193,c †de Kock b Avesh Khan,10,7,2,0,142.85
+900,1304103,Titans Vs Super Giants,Titans,4,Hardik Pandya (c),625371,c †de Kock b Avesh Khan,11,13,0,0,84.61
+901,1304103,Titans Vs Super Giants,Titans,5,David Miller ,321777,c Badoni b Holder,26,24,1,1,108.33
+902,1304103,Titans Vs Super Giants,Titans,6,Rahul Tewatia ,423838,not out ,22,16,4,0,137.50
+903,1304103,Titans Vs Super Giants,Super Giants,1,Quinton de Kock †,379143,c Sai Kishore b Yash Dayal,11,10,0,1,110.00
+904,1304103,Titans Vs Super Giants,Super Giants,2,KL Rahul (c),422108,c †Saha b Mohammed Shami,8,16,1,0,50.00
+905,1304103,Titans Vs Super Giants,Super Giants,3,Deepak Hooda ,497121,c Mohammed Shami b Rashid Khan,27,26,3,0,103.84
+906,1304103,Titans Vs Super Giants,Super Giants,4,Karan Sharma ,1246518,c Miller b Yash Dayal,4,4,1,0,100.00
+907,1304103,Titans Vs Super Giants,Super Giants,5,Krunal Pandya ,471342,st †Saha b Rashid Khan,5,5,1,0,100.00
+908,1304103,Titans Vs Super Giants,Super Giants,6,Ayush Badoni ,1151270,st †Saha b Sai Kishore,8,11,1,0,72.72
+909,1304103,Titans Vs Super Giants,Super Giants,7,Marcus Stoinis ,325012,run out (Miller/†Saha),2,2,0,0,100.00
+910,1304103,Titans Vs Super Giants,Super Giants,8,Jason Holder ,391485,lbw b Rashid Khan,1,2,0,0,50.00
+911,1304103,Titans Vs Super Giants,Super Giants,9,Mohsin Khan ,1132005,c Rashid Khan b Sai Kishore,1,3,0,0,33.33
+912,1304103,Titans Vs Super Giants,Super Giants,10,Dushmantha Chameera ,552152,not out ,0,0,0,0,-
+913,1304103,Titans Vs Super Giants,Super Giants,11,Avesh Khan ,694211,c †Saha b Rashid Khan,12,4,0,2,300.00
+914,1304104,Royals Vs Capitals,Royals,1,Yashasvi Jaiswal ,1151278,c Lalit Yadav b Marsh,19,19,1,1,100.00
+915,1304104,Royals Vs Capitals,Royals,2,Jos Buttler ,308967,c Thakur b Sakariya,7,11,1,0,63.63
+916,1304104,Royals Vs Capitals,Royals,3,Ravichandran Ashwin ,26421,c Warner b Marsh,50,38,4,2,131.57
+917,1304104,Royals Vs Capitals,Royals,4,Devdutt Padikkal ,1119026,c sub (KL Nagarkoti) b Nortje,48,30,6,2,160.00
+918,1304104,Royals Vs Capitals,Royals,5,Sanju Samson (c)†,425943,c Thakur b Nortje,6,4,1,0,150.00
+919,1304104,Royals Vs Capitals,Royals,6,Riyan Parag ,1079434,c Powell b Sakariya,9,5,0,1,180.00
+920,1304104,Royals Vs Capitals,Royals,7,Rassie van der Dussen ,337790,not out ,12,10,1,0,120.00
+921,1304104,Royals Vs Capitals,Royals,8,Trent Boult ,277912,not out ,3,3,0,0,100.00
+922,1304104,Royals Vs Capitals,Capitals,1,Srikar Bharat ,529436,c †Samson b Boult,0,2,0,0,0.00
+923,1304104,Royals Vs Capitals,Capitals,2,David Warner ,219889,not out ,52,41,5,1,126.82
+924,1304104,Royals Vs Capitals,Capitals,3,Mitchell Marsh ,272450,c Sen b Chahal,89,62,5,7,143.54
+925,1304104,Royals Vs Capitals,Capitals,4,Rishabh Pant (c)†,931581,not out ,13,4,0,2,325.00
+926,1304105,Super Kings Vs Mumbai,Super Kings,1,Ruturaj Gaikwad ,1060380,c †Ishan Kishan b Sams,7,6,1,0,116.66
+927,1304105,Super Kings Vs Mumbai,Super Kings,2,Devon Conway ,379140,lbw b Sams,0,1,0,0,0.00
+928,1304105,Super Kings Vs Mumbai,Super Kings,3,Moeen Ali ,8917,c Shokeen b Sams,0,2,0,0,0.00
+929,1304105,Super Kings Vs Mumbai,Super Kings,4,Robin Uthappa ,35582,lbw b Bumrah,1,6,0,0,16.66
+930,1304105,Super Kings Vs Mumbai,Super Kings,5,Ambati Rayudu ,33141,c †Ishan Kishan b Meredith,10,14,2,0,71.42
+931,1304105,Super Kings Vs Mumbai,Super Kings,6,MS Dhoni (c)†,28081,not out ,36,33,4,2,109.09
+932,1304105,Super Kings Vs Mumbai,Super Kings,7,Shivam Dube ,714451,c †Ishan Kishan b Meredith,10,9,1,0,111.11
+933,1304105,Super Kings Vs Mumbai,Super Kings,8,Dwayne Bravo ,51439,c Tilak Varma b Kartikeya,12,15,0,1,80.00
+934,1304105,Super Kings Vs Mumbai,Super Kings,9,Simarjeet Singh ,1159722,lbw b Kartikeya,2,3,0,0,66.66
+935,1304105,Super Kings Vs Mumbai,Super Kings,10,Maheesh Theekshana ,1138316,c Sharma b Ramandeep Singh,0,3,0,0,0.00
+936,1304105,Super Kings Vs Mumbai,Super Kings,11,Mukesh Choudhary ,1125688,run out (†Ishan Kishan),4,4,1,0,100.00
+937,1304105,Super Kings Vs Mumbai,Mumbai,1,Ishan Kishan †,720471,c †Dhoni b Mukesh Choudhary,6,5,1,0,120.00
+938,1304105,Super Kings Vs Mumbai,Mumbai,2,Rohit Sharma (c),34102,c †Dhoni b Simarjeet Singh,18,14,4,0,128.57
+939,1304105,Super Kings Vs Mumbai,Mumbai,3,Daniel Sams ,826901,lbw b Mukesh Choudhary,1,6,0,0,16.66
+940,1304105,Super Kings Vs Mumbai,Mumbai,4,Tilak Varma ,1170265,not out ,34,32,4,0,106.25
+941,1304105,Super Kings Vs Mumbai,Mumbai,5,Tristan Stubbs ,595978,lbw b Mukesh Choudhary,0,2,0,0,0.00
+942,1304105,Super Kings Vs Mumbai,Mumbai,6,Hrithik Shokeen ,1175423, b Ali,18,23,2,0,78.26
+943,1304105,Super Kings Vs Mumbai,Mumbai,7,Tim David ,892749,not out ,16,7,0,2,228.57
+944,1304106,Punjab Kings Vs RCB,Punjab Kings,1,Jonny Bairstow ,297433,c Mohammed Siraj b Shahbaz Ahmed,66,29,4,7,227.58
+945,1304106,Punjab Kings Vs RCB,Punjab Kings,2,Shikhar Dhawan ,28235, b Maxwell,21,15,2,1,140.00
+946,1304106,Punjab Kings Vs RCB,Punjab Kings,3,Bhanuka Rajapaksa ,342619,c Patel b de Silva,1,3,0,0,33.33
+947,1304106,Punjab Kings Vs RCB,Punjab Kings,4,Liam Livingstone ,403902,c †Karthik b Patel,70,42,5,4,166.66
+948,1304106,Punjab Kings Vs RCB,Punjab Kings,5,Mayank Agarwal (c),398438,c de Silva b Patel,19,16,3,0,118.75
+949,1304106,Punjab Kings Vs RCB,Punjab Kings,6,Jitesh Sharma †,721867, b de Silva,9,5,2,0,180.00
+950,1304106,Punjab Kings Vs RCB,Punjab Kings,7,Harpreet Brar ,1168641,c †Karthik b Patel,7,5,0,1,140.00
+951,1304106,Punjab Kings Vs RCB,Punjab Kings,8,Rishi Dhawan ,290727,c Maxwell b Patel,7,3,0,1,233.33
+952,1304106,Punjab Kings Vs RCB,Punjab Kings,9,Rahul Chahar ,1064812,run out (Maxwell/†Karthik),2,2,0,0,100.00
+953,1304106,Punjab Kings Vs RCB,Punjab Kings,10,Kagiso Rabada ,550215,not out ,0,1,0,0,0.00
+954,1304106,Punjab Kings Vs RCB,RCB,1,Virat Kohli ,253802,c Chahar b Rabada,20,14,2,1,142.85
+955,1304106,Punjab Kings Vs RCB,RCB,2,Faf du Plessis (c),44828,c †Sharma b R Dhawan,10,8,2,0,125.00
+956,1304106,Punjab Kings Vs RCB,RCB,3,Rajat Patidar ,823703,c S Dhawan b Chahar,26,21,1,2,123.80
+957,1304106,Punjab Kings Vs RCB,RCB,4,Mahipal Lomror ,853265,c S Dhawan b R Dhawan,6,3,0,1,200.00
+958,1304106,Punjab Kings Vs RCB,RCB,5,Glenn Maxwell ,325026,c Arshdeep Singh b Harpreet Brar,35,22,3,1,159.09
+959,1304106,Punjab Kings Vs RCB,RCB,6,Dinesh Karthik †,30045,c Rajapaksa b Arshdeep Singh,11,11,1,0,100.00
+960,1304106,Punjab Kings Vs RCB,RCB,7,Shahbaz Ahmed ,1159711,c Rajapaksa b Rabada,9,14,0,0,64.28
+961,1304106,Punjab Kings Vs RCB,RCB,8,Harshal Patel ,390481,c Agarwal b Rabada,11,7,2,0,157.14
+962,1304106,Punjab Kings Vs RCB,RCB,9,Wanindu Hasaranga de Silva ,784379,c Harpreet Brar b Chahar,1,3,0,0,33.33
+963,1304106,Punjab Kings Vs RCB,RCB,10,Mohammed Siraj ,940973,not out ,9,13,1,0,69.23
+964,1304106,Punjab Kings Vs RCB,RCB,11,Josh Hazlewood ,288284,not out ,7,4,1,0,175.00
+965,1304107,KKR Vs Sunrisers,KKR,1,Venkatesh Iyer ,851403, b Jansen,7,6,1,0,116.66
+966,1304107,KKR Vs Sunrisers,KKR,2,Ajinkya Rahane ,277916,c Shashank Singh b Umran Malik,28,24,0,3,116.66
+967,1304107,KKR Vs Sunrisers,KKR,3,Nitish Rana ,604527,c Shashank Singh b Umran Malik,26,16,1,3,162.50
+968,1304107,KKR Vs Sunrisers,KKR,4,Shreyas Iyer (c),642519,c Tripathi b Umran Malik,15,9,2,0,166.66
+969,1304107,KKR Vs Sunrisers,KKR,5,Sam Billings †,297628,c Williamson b Kumar,34,29,3,1,117.24
+970,1304107,KKR Vs Sunrisers,KKR,6,Rinku Singh ,723105,lbw b Natarajan,5,6,0,0,83.33
+971,1304107,KKR Vs Sunrisers,KKR,7,Andre Russell ,276298,not out ,49,28,3,4,175.00
+972,1304107,KKR Vs Sunrisers,KKR,8,Sunil Narine ,230558,not out ,1,2,0,0,50.00
+973,1304107,KKR Vs Sunrisers,Sunrisers,1,Abhishek Sharma ,1070183,c †Billings b Varun,43,28,4,2,153.57
+974,1304107,KKR Vs Sunrisers,Sunrisers,2,Kane Williamson (c),277906, b Russell,9,17,1,0,52.94
+975,1304107,KKR Vs Sunrisers,Sunrisers,3,Rahul Tripathi ,446763,c & b Southee,9,12,1,0,75.00
+976,1304107,KKR Vs Sunrisers,Sunrisers,4,Aiden Markram ,600498, b Yadav,32,25,0,3,128.00
+977,1304107,KKR Vs Sunrisers,Sunrisers,5,Nicholas Pooran †,604302,c & b Narine,2,3,0,0,66.66
+978,1304107,KKR Vs Sunrisers,Sunrisers,6,Washington Sundar ,719715,c VR Iyer b Russell,4,9,0,0,44.44
+979,1304107,KKR Vs Sunrisers,Sunrisers,7,Shashank Singh ,377534,c SS Iyer b Southee,11,12,1,0,91.66
+980,1304107,KKR Vs Sunrisers,Sunrisers,8,Marco Jansen ,696401,c †Billings b Russell,1,2,0,0,50.00
+981,1304107,KKR Vs Sunrisers,Sunrisers,9,Bhuvneshwar Kumar ,326016,not out ,6,7,1,0,85.71
+982,1304107,KKR Vs Sunrisers,Sunrisers,10,Umran Malik ,1246528,not out ,3,5,0,0,60.00
+983,1304108,Super Kings Vs Titans,Super Kings,1,Ruturaj Gaikwad ,1060380,c Wade b Rashid Khan,53,49,4,1,108.16
+984,1304108,Super Kings Vs Titans,Super Kings,2,Devon Conway ,379140,c †Saha b Mohammed Shami,5,9,0,0,55.55
+985,1304108,Super Kings Vs Titans,Super Kings,3,Moeen Ali ,8917,c Rashid Khan b Sai Kishore,21,17,0,2,123.52
+986,1304108,Super Kings Vs Titans,Super Kings,4,Narayan Jagadeesan ,1048813,not out ,39,33,3,1,118.18
+987,1304108,Super Kings Vs Titans,Super Kings,5,Shivam Dube ,714451,c †Saha b Joseph,0,2,0,0,0.00
+988,1304108,Super Kings Vs Titans,Super Kings,6,MS Dhoni (c)†,28081,c Yash Dayal b Mohammed Shami,7,10,0,0,70.00
+989,1304108,Super Kings Vs Titans,Super Kings,7,Mitchell Santner ,502714,not out ,1,1,0,0,100.00
+990,1304108,Super Kings Vs Titans,Titans,1,Wriddhiman Saha †,279810,not out ,67,57,8,1,117.54
+991,1304108,Super Kings Vs Titans,Titans,2,Shubman Gill ,1070173,lbw b Pathirana,18,17,3,0,105.88
+992,1304108,Super Kings Vs Titans,Titans,3,Matthew Wade ,230193,c Dube b Ali,20,15,2,0,133.33
+993,1304108,Super Kings Vs Titans,Titans,4,Hardik Pandya (c),625371,c Dube b Pathirana,7,6,1,0,116.66
+994,1304108,Super Kings Vs Titans,Titans,5,David Miller ,321777,not out ,15,20,1,0,75.00
+995,1304109,Royals Vs Super Giants,Royals,1,Yashasvi Jaiswal ,1151278,c & b Badoni,41,29,6,1,141.37
+996,1304109,Royals Vs Super Giants,Royals,2,Jos Buttler ,308967, b Avesh Khan,2,6,0,0,33.33
+997,1304109,Royals Vs Super Giants,Royals,3,Sanju Samson (c)†,425943,c Hooda b Holder,32,24,6,0,133.33
+998,1304109,Royals Vs Super Giants,Royals,4,Devdutt Padikkal ,1119026,c Pandya b Ravi Bishnoi,39,18,5,2,216.66
+999,1304109,Royals Vs Super Giants,Royals,5,Riyan Parag ,1079434,c Stoinis b Ravi Bishnoi,19,16,0,1,118.75
+1000,1304109,Royals Vs Super Giants,Royals,6,James Neesham ,355269,run out (Rahul/Ravi Bishnoi),14,12,2,0,116.66
+1001,1304109,Royals Vs Super Giants,Royals,7,Ravichandran Ashwin ,26421,not out ,10,7,1,0,142.85
+1002,1304109,Royals Vs Super Giants,Royals,8,Trent Boult ,277912,not out ,17,9,2,0,188.88
+1003,1304109,Royals Vs Super Giants,Super Giants,1,Quinton de Kock †,379143,c Neesham b Boult,7,8,1,0,87.50
+1004,1304109,Royals Vs Super Giants,Super Giants,2,KL Rahul (c),422108,c Jaiswal b Prasidh Krishna,10,19,0,1,52.63
+1005,1304109,Royals Vs Super Giants,Super Giants,3,Ayush Badoni ,1151270,lbw b Boult,0,1,0,0,0.00
+1006,1304109,Royals Vs Super Giants,Super Giants,4,Deepak Hooda ,497121,st †Samson b Chahal,59,39,5,2,151.28
+1007,1304109,Royals Vs Super Giants,Super Giants,5,Krunal Pandya ,471342,c Parag b Ashwin,25,23,1,1,108.69
+1008,1304109,Royals Vs Super Giants,Super Giants,6,Marcus Stoinis ,325012,c Parag b Prasidh Krishna,27,17,1,2,158.82
+1009,1304109,Royals Vs Super Giants,Super Giants,7,Jason Holder ,391485,c †Samson b McCoy,1,2,0,0,50.00
+1010,1304109,Royals Vs Super Giants,Super Giants,8,Dushmantha Chameera ,552152, b McCoy,0,2,0,0,0.00
+1011,1304109,Royals Vs Super Giants,Super Giants,9,Mohsin Khan ,1132005,not out ,9,7,1,0,128.57
+1012,1304109,Royals Vs Super Giants,Super Giants,10,Avesh Khan ,694211,not out ,1,2,0,0,50.00
+1013,1304110,Capitals Vs Punjab Kings,Capitals,1,David Warner ,219889,c Chahar b Livingstone,0,1,0,0,0.00
+1014,1304110,Capitals Vs Punjab Kings,Capitals,2,Sarfaraz Khan ,642525,c Chahar b Arshdeep Singh,32,16,5,1,200.00
+1015,1304110,Capitals Vs Punjab Kings,Capitals,3,Mitchell Marsh ,272450,c R Dhawan b Rabada,63,48,4,3,131.25
+1016,1304110,Capitals Vs Punjab Kings,Capitals,4,Lalit Yadav ,930189,c Rajapaksa b Arshdeep Singh,24,21,1,1,114.28
+1017,1304110,Capitals Vs Punjab Kings,Capitals,5,Rishabh Pant (c)†,931581,st †Sharma b Livingstone,7,3,0,1,233.33
+1018,1304110,Capitals Vs Punjab Kings,Capitals,6,Rovman Powell ,820351,c S Dhawan b Livingstone,2,6,0,0,33.33
+1019,1304110,Capitals Vs Punjab Kings,Capitals,7,Axar Patel ,554691,not out ,17,20,2,0,85.00
+1020,1304110,Capitals Vs Punjab Kings,Capitals,8,Shardul Thakur ,475281,c Harpreet Brar b Arshdeep Singh,3,4,0,0,75.00
+1021,1304110,Capitals Vs Punjab Kings,Capitals,9,Kuldeep Yadav ,559235,not out ,2,2,0,0,100.00
+1022,1304110,Capitals Vs Punjab Kings,Punjab Kings,1,Jonny Bairstow ,297433,c Patel b Nortje,28,15,4,1,186.66
+1023,1304110,Capitals Vs Punjab Kings,Punjab Kings,2,Shikhar Dhawan ,28235,c †Pant b Thakur,19,16,3,0,118.75
+1024,1304110,Capitals Vs Punjab Kings,Punjab Kings,3,Bhanuka Rajapaksa ,342619,c Nortje b Thakur,4,5,1,0,80.00
+1025,1304110,Capitals Vs Punjab Kings,Punjab Kings,4,Liam Livingstone ,403902,st †Pant b Kuldeep Yadav,3,5,0,0,60.00
+1026,1304110,Capitals Vs Punjab Kings,Punjab Kings,5,Mayank Agarwal (c),398438, b Patel,0,2,0,0,0.00
+1027,1304110,Capitals Vs Punjab Kings,Punjab Kings,6,Jitesh Sharma †,721867,c Warner b Thakur,44,34,3,2,129.41
+1028,1304110,Capitals Vs Punjab Kings,Punjab Kings,7,Harpreet Brar ,1168641, b Kuldeep Yadav,1,2,0,0,50.00
+1029,1304110,Capitals Vs Punjab Kings,Punjab Kings,8,Rishi Dhawan ,290727, b Patel,4,13,0,0,30.76
+1030,1304110,Capitals Vs Punjab Kings,Punjab Kings,9,Rahul Chahar ,1064812,not out ,25,24,2,1,104.16
+1031,1304110,Capitals Vs Punjab Kings,Punjab Kings,10,Kagiso Rabada ,550215,c Powell b Thakur,6,2,0,1,300.00
+1032,1304110,Capitals Vs Punjab Kings,Punjab Kings,11,Arshdeep Singh ,1125976,not out ,2,3,0,0,66.66
+1033,1304111,Sunrisers Vs Mumbai,Sunrisers,1,Abhishek Sharma ,1070183,c Markande b Sams,9,10,1,0,90.00
+1034,1304111,Sunrisers Vs Mumbai,Sunrisers,2,Priyam Garg ,1070180,c & b Ramandeep Singh,42,26,4,2,161.53
+1035,1304111,Sunrisers Vs Mumbai,Sunrisers,3,Rahul Tripathi ,446763,c Tilak Varma b Ramandeep Singh,76,44,9,3,172.72
+1036,1304111,Sunrisers Vs Mumbai,Sunrisers,4,Nicholas Pooran †,604302,c Markande b Meredith,38,22,2,3,172.72
+1037,1304111,Sunrisers Vs Mumbai,Sunrisers,5,Aiden Markram ,600498,c David b Ramandeep Singh,2,4,0,0,50.00
+1038,1304111,Sunrisers Vs Mumbai,Sunrisers,6,Kane Williamson (c),277906,not out ,8,7,1,0,114.28
+1039,1304111,Sunrisers Vs Mumbai,Sunrisers,7,Washington Sundar ,719715, b Bumrah,9,7,0,0,128.57
+1040,1304111,Sunrisers Vs Mumbai,Mumbai,1,Rohit Sharma (c),34102,c sub (J Suchith) b Washington Sundar,48,36,2,4,133.33
+1041,1304111,Sunrisers Vs Mumbai,Mumbai,2,Ishan Kishan †,720471,c Garg b Umran Malik,43,34,5,1,126.47
+1042,1304111,Sunrisers Vs Mumbai,Mumbai,3,Daniel Sams ,826901,c Garg b Umran Malik,15,11,0,1,136.36
+1043,1304111,Sunrisers Vs Mumbai,Mumbai,4,Tilak Varma ,1170265,c Williamson b Umran Malik,8,9,1,0,88.88
+1044,1304111,Sunrisers Vs Mumbai,Mumbai,5,Tim David ,892749,run out (Natarajan),46,18,3,4,255.55
+1045,1304111,Sunrisers Vs Mumbai,Mumbai,6,Tristan Stubbs ,595978,run out (Kumar),2,2,0,0,100.00
+1046,1304111,Sunrisers Vs Mumbai,Mumbai,7,Ramandeep Singh ,1079470,not out ,14,6,1,1,233.33
+1047,1304111,Sunrisers Vs Mumbai,Mumbai,8,Sanjay Yadav ,1048841,c sub (J Suchith) b Kumar,0,2,0,0,0.00
+1048,1304111,Sunrisers Vs Mumbai,Mumbai,9,Jasprit Bumrah ,625383,not out ,0,4,0,0,0.00
+1049,1304112,Super Giants Vs KKR,Super Giants,1,Quinton de Kock †,379143,not out ,140,70,10,10,200.00
+1050,1304112,Super Giants Vs KKR,Super Giants,2,KL Rahul (c),422108,not out ,68,51,3,4,133.33
+1051,1304112,Super Giants Vs KKR,KKR,1,Venkatesh Iyer ,851403,c †de Kock b Mohsin Khan,0,4,0,0,0.00
+1052,1304112,Super Giants Vs KKR,KKR,2,Abhijeet Tomar ,1081183,c Rahul b Mohsin Khan,4,8,1,0,50.00
+1053,1304112,Super Giants Vs KKR,KKR,3,Nitish Rana ,604527,c Stoinis b Gowtham,42,22,9,0,190.90
+1054,1304112,Super Giants Vs KKR,KKR,4,Shreyas Iyer (c),642519,c Hooda b Stoinis,50,29,4,3,172.41
+1055,1304112,Super Giants Vs KKR,KKR,5,Sam Billings †,297628,st †de Kock b Ravi Bishnoi,36,24,2,3,150.00
+1056,1304112,Super Giants Vs KKR,KKR,6,Andre Russell ,276298,c Hooda b Mohsin Khan,5,11,0,0,45.45
+1057,1304112,Super Giants Vs KKR,KKR,7,Rinku Singh ,723105,c Lewis b Stoinis,40,15,2,4,266.66
+1058,1304112,Super Giants Vs KKR,KKR,8,Sunil Narine ,230558,not out ,21,7,0,3,300.00
+1059,1304112,Super Giants Vs KKR,KKR,9,Umesh Yadav ,376116, b Stoinis,0,1,0,0,0.00
+1060,1304113,Titans Vs RCB,Titans,1,Wriddhiman Saha †,279810,run out (du Plessis),31,22,4,1,140.90
+1061,1304113,Titans Vs RCB,Titans,2,Shubman Gill ,1070173,c Maxwell b Hazlewood,1,4,0,0,25.00
+1062,1304113,Titans Vs RCB,Titans,3,Matthew Wade ,230193,lbw b Maxwell,16,13,2,1,123.07
+1063,1304113,Titans Vs RCB,Titans,4,Hardik Pandya (c),625371,not out ,62,47,4,3,131.91
+1064,1304113,Titans Vs RCB,Titans,5,David Miller ,321777,c & b de Silva,34,25,0,3,136.00
+1065,1304113,Titans Vs RCB,Titans,6,Rahul Tewatia ,423838,c †Karthik b Hazlewood,2,3,0,0,66.66
+1066,1304113,Titans Vs RCB,Titans,7,Rashid Khan ,793463,not out ,19,6,1,2,316.66
+1067,1304113,Titans Vs RCB,RCB,1,Virat Kohli ,253802,st †Wade b Rashid Khan,73,54,8,2,135.18
+1068,1304113,Titans Vs RCB,RCB,2,Faf du Plessis (c),44828,c Pandya b Rashid Khan,44,38,5,0,115.78
+1069,1304113,Titans Vs RCB,RCB,3,Glenn Maxwell ,325026,not out ,40,18,5,2,222.22
+1070,1304113,Titans Vs RCB,RCB,4,Dinesh Karthik †,30045,not out ,2,2,0,0,100.00
+1071,1304114,Super Kings Vs Royals,Super Kings,1,Ruturaj Gaikwad ,1060380,c †Samson b Boult,2,6,0,0,33.33
+1072,1304114,Super Kings Vs Royals,Super Kings,2,Devon Conway ,379140,lbw b Ashwin,16,14,1,1,114.28
+1073,1304114,Super Kings Vs Royals,Super Kings,3,Moeen Ali ,8917,c Parag b McCoy,93,57,13,3,163.15
+1074,1304114,Super Kings Vs Royals,Super Kings,4,Narayan Jagadeesan ,1048813,c Parag b McCoy,1,4,0,0,25.00
+1075,1304114,Super Kings Vs Royals,Super Kings,5,Ambati Rayudu ,33141,c Padikkal b Chahal,3,6,0,0,50.00
+1076,1304114,Super Kings Vs Royals,Super Kings,6,MS Dhoni (c)†,28081,c Buttler b Chahal,26,28,1,1,92.85
+1077,1304114,Super Kings Vs Royals,Super Kings,7,Mitchell Santner ,502714,not out ,1,2,0,0,50.00
+1078,1304114,Super Kings Vs Royals,Super Kings,8,Simarjeet Singh ,1159722,not out ,3,3,0,0,100.00
+1079,1304114,Super Kings Vs Royals,Royals,1,Yashasvi Jaiswal ,1151278,c Pathirana b Solanki,59,44,8,1,134.09
+1080,1304114,Super Kings Vs Royals,Royals,2,Jos Buttler ,308967,c Ali b Simarjeet Singh,2,5,0,0,40.00
+1081,1304114,Super Kings Vs Royals,Royals,3,Sanju Samson (c)†,425943,c & b Santner,15,20,2,0,75.00
+1082,1304114,Super Kings Vs Royals,Royals,4,Devdutt Padikkal ,1119026, b Ali,3,9,0,0,33.33
+1083,1304114,Super Kings Vs Royals,Royals,5,Ravichandran Ashwin ,26421,not out ,40,23,2,3,173.91
+1084,1304114,Super Kings Vs Royals,Royals,6,Shimron Hetmyer ,670025,c Conway b Solanki,6,7,1,0,85.71
+1085,1304114,Super Kings Vs Royals,Royals,7,Riyan Parag ,1079434,not out ,10,10,1,0,100.00
+1086,1304115,Capitals Vs Mumbai,Capitals,1,Prithvi Shaw ,1070168,c †Ishan Kishan b Bumrah,24,23,2,1,104.34
+1087,1304115,Capitals Vs Mumbai,Capitals,2,David Warner ,219889,c Bumrah b Sams,5,6,1,0,83.33
+1088,1304115,Capitals Vs Mumbai,Capitals,3,Mitchell Marsh ,272450,c Sharma b Bumrah,0,1,0,0,0.00
+1089,1304115,Capitals Vs Mumbai,Capitals,4,Rishabh Pant (c)†,931581,c †Ishan Kishan b Ramandeep Singh,39,33,4,1,118.18
+1090,1304115,Capitals Vs Mumbai,Capitals,5,Sarfaraz Khan ,642525,c †Ishan Kishan b Markande,10,7,0,1,142.85
+1091,1304115,Capitals Vs Mumbai,Capitals,6,Rovman Powell ,820351, b Bumrah,43,34,1,4,126.47
+1092,1304115,Capitals Vs Mumbai,Capitals,7,Axar Patel ,554691,not out ,19,10,0,2,190.00
+1093,1304115,Capitals Vs Mumbai,Capitals,8,Shardul Thakur ,475281,c David b Ramandeep Singh,4,5,0,0,80.00
+1094,1304115,Capitals Vs Mumbai,Capitals,9,Kuldeep Yadav ,559235,not out ,1,1,0,0,100.00
+1095,1304115,Capitals Vs Mumbai,Mumbai,1,Ishan Kishan †,720471,c Warner b Kuldeep Yadav,48,35,3,4,137.14
+1096,1304115,Capitals Vs Mumbai,Mumbai,2,Rohit Sharma (c),34102,c Thakur b Nortje,2,13,0,0,15.38
+1097,1304115,Capitals Vs Mumbai,Mumbai,3,Dewald Brevis ,1070665, b Thakur,37,33,1,3,112.12
+1098,1304115,Capitals Vs Mumbai,Mumbai,4,Tilak Varma ,1170265,c †Pant b Nortje,21,17,1,1,123.52
+1099,1304115,Capitals Vs Mumbai,Mumbai,5,Tim David ,892749,c Shaw b Thakur,34,11,2,4,309.09
+1100,1304115,Capitals Vs Mumbai,Mumbai,6,Ramandeep Singh ,1079470,not out ,13,6,2,0,216.66
+1101,1304115,Capitals Vs Mumbai,Mumbai,7,Daniel Sams ,826901,not out ,0,1,0,0,0.00
+1102,1304116,Sunrisers Vs Punjab Kings,Sunrisers,1,Priyam Garg ,1070180,c Agarwal b Rabada,4,7,0,0,57.14
+1103,1304116,Sunrisers Vs Punjab Kings,Sunrisers,2,Abhishek Sharma ,1070183,c Livingstone b Harpreet Brar,43,32,5,2,134.37
+1104,1304116,Sunrisers Vs Punjab Kings,Sunrisers,3,Rahul Tripathi ,446763,c Dhawan b Harpreet Brar,20,18,1,1,111.11
+1105,1304116,Sunrisers Vs Punjab Kings,Sunrisers,4,Aiden Markram ,600498,st †Sharma b Harpreet Brar,21,17,2,0,123.52
+1106,1304116,Sunrisers Vs Punjab Kings,Sunrisers,5,Nicholas Pooran †,604302,c †Sharma b Ellis,5,10,0,0,50.00
+1107,1304116,Sunrisers Vs Punjab Kings,Sunrisers,6,Washington Sundar ,719715,c Dhawan b Ellis,25,19,3,1,131.57
+1108,1304116,Sunrisers Vs Punjab Kings,Sunrisers,7,Romario Shepherd ,677077,not out ,26,15,2,2,173.33
+1109,1304116,Sunrisers Vs Punjab Kings,Sunrisers,8,Jagadeesha Suchith ,527663,c Mankad b Ellis,0,1,0,0,0.00
+1110,1304116,Sunrisers Vs Punjab Kings,Sunrisers,9,Bhuvneshwar Kumar (c),326016,run out (†Sharma),1,1,0,0,100.00
+1111,1304116,Sunrisers Vs Punjab Kings,Sunrisers,10,Umran Malik ,1246528,not out ,0,1,0,0,0.00
+1112,1304116,Sunrisers Vs Punjab Kings,Punjab Kings,1,Jonny Bairstow ,297433, b Fazalhaq Farooqi,23,15,5,0,153.33
+1113,1304116,Sunrisers Vs Punjab Kings,Punjab Kings,2,Shikhar Dhawan ,28235, b Fazalhaq Farooqi,39,32,2,2,121.87
+1114,1304116,Sunrisers Vs Punjab Kings,Punjab Kings,3,M Shahrukh Khan ,719719,c Washington Sundar b Umran Malik,19,10,2,1,190.00
+1115,1304116,Sunrisers Vs Punjab Kings,Punjab Kings,4,Mayank Agarwal (c),398438,c Suchith b Washington Sundar,1,4,0,0,25.00
+1116,1304116,Sunrisers Vs Punjab Kings,Punjab Kings,5,Liam Livingstone ,403902,not out ,49,22,2,5,222.72
+1117,1304116,Sunrisers Vs Punjab Kings,Punjab Kings,6,Jitesh Sharma †,721867,c Garg b Suchith,19,7,3,1,271.42
+1118,1304116,Sunrisers Vs Punjab Kings,Punjab Kings,7,Prerak Mankad ,956871,not out ,4,1,1,0,400.00
+1119,1312197,Royals Vs Titans,Royals,1,Yashasvi Jaiswal ,1151278,c †Saha b Yash Dayal,3,8,0,0,37.50
+1120,1312197,Royals Vs Titans,Royals,2,Jos Buttler ,308967,run out (Joseph/†Saha),89,56,12,2,158.92
+1121,1312197,Royals Vs Titans,Royals,3,Sanju Samson (c)†,425943,c Joseph b Sai Kishore,47,26,5,3,180.76
+1122,1312197,Royals Vs Titans,Royals,4,Devdutt Padikkal ,1119026, b Pandya,28,20,2,2,140.00
+1123,1312197,Royals Vs Titans,Royals,5,Shimron Hetmyer ,670025,c Tewatia b Mohammed Shami,4,7,0,0,57.14
+1124,1312197,Royals Vs Titans,Royals,6,Riyan Parag ,1079434,run out (†Saha/Yash Dayal),4,3,0,0,133.33
+1125,1312197,Royals Vs Titans,Royals,7,Ravichandran Ashwin ,26421,not out ,2,1,0,0,200.00
+1126,1312197,Royals Vs Titans,Royals,8,Trent Boult ,277912,not out ,0,0,0,0,-
+1127,1312197,Royals Vs Titans,Titans,1,Wriddhiman Saha †,279810,c †Samson b Boult,0,2,0,0,0.00
+1128,1312197,Royals Vs Titans,Titans,2,Shubman Gill ,1070173,run out (Padikkal/Hetmyer),35,21,5,1,166.66
+1129,1312197,Royals Vs Titans,Titans,3,Matthew Wade ,230193,c Buttler b McCoy,35,30,6,0,116.66
+1130,1312197,Royals Vs Titans,Titans,4,Hardik Pandya (c),625371,not out ,40,27,5,0,148.14
+1131,1312197,Royals Vs Titans,Titans,5,David Miller ,321777,not out ,68,38,3,5,178.94
+1132,1312198,RCB Vs Super Giants,RCB,1,Virat Kohli ,253802,c Mohsin Khan b Avesh Khan,25,24,2,0,104.16
+1133,1312198,RCB Vs Super Giants,RCB,2,Faf du Plessis (c),44828,c †de Kock b Mohsin Khan,0,1,0,0,0.00
+1134,1312198,RCB Vs Super Giants,RCB,3,Rajat Patidar ,823703,not out ,112,54,12,7,207.40
+1135,1312198,RCB Vs Super Giants,RCB,4,Glenn Maxwell ,325026,c Lewis b Pandya,9,10,0,1,90.00
+1136,1312198,RCB Vs Super Giants,RCB,5,Mahipal Lomror ,853265,c Rahul b Ravi Bishnoi,14,9,2,0,155.55
+1137,1312198,RCB Vs Super Giants,RCB,6,Dinesh Karthik †,30045,not out ,37,23,5,1,160.86
+1138,1312198,RCB Vs Super Giants,Super Giants,1,Quinton de Kock †,379143,c du Plessis b Mohammed Siraj,6,5,0,1,120.00
+1139,1312198,RCB Vs Super Giants,Super Giants,2,KL Rahul (c),422108,c Shahbaz Ahmed b Hazlewood,79,58,3,5,136.20
+1140,1312198,RCB Vs Super Giants,Super Giants,3,Manan Vohra ,532856,c Shahbaz Ahmed b Hazlewood,19,11,1,2,172.72
+1141,1312198,RCB Vs Super Giants,Super Giants,4,Deepak Hooda ,497121, b de Silva,45,26,1,4,173.07
+1142,1312198,RCB Vs Super Giants,Super Giants,5,Marcus Stoinis ,325012,c Patidar b Patel,9,9,0,1,100.00
+1143,1312198,RCB Vs Super Giants,Super Giants,6,Evin Lewis ,431901,not out ,2,6,0,0,33.33
+1144,1312198,RCB Vs Super Giants,Super Giants,7,Krunal Pandya ,471342,c & b Hazlewood,0,1,0,0,0.00
+1145,1312198,RCB Vs Super Giants,Super Giants,8,Dushmantha Chameera ,552152,not out ,11,4,1,1,275.00
+1146,1312199,RCB Vs Royals,RCB,1,Virat Kohli ,253802,c †Samson b Prasidh Krishna,7,8,0,1,87.50
+1147,1312199,RCB Vs Royals,RCB,2,Faf du Plessis (c),44828,c Ashwin b McCoy,25,27,3,0,92.59
+1148,1312199,RCB Vs Royals,RCB,3,Rajat Patidar ,823703,c Buttler b Ashwin,58,42,4,3,138.09
+1149,1312199,RCB Vs Royals,RCB,4,Glenn Maxwell ,325026,c McCoy b Boult,24,13,1,2,184.61
+1150,1312199,RCB Vs Royals,RCB,5,Mahipal Lomror ,853265,c Ashwin b McCoy,8,10,0,0,80.00
+1151,1312199,RCB Vs Royals,RCB,6,Dinesh Karthik †,30045,c Parag b Prasidh Krishna,6,7,0,0,85.71
+1152,1312199,RCB Vs Royals,RCB,7,Shahbaz Ahmed ,1159711,not out ,12,8,1,1,150.00
+1153,1312199,RCB Vs Royals,RCB,8,Wanindu Hasaranga de Silva ,784379, b Prasidh Krishna,0,1,0,0,0.00
+1154,1312199,RCB Vs Royals,RCB,9,Harshal Patel ,390481, b McCoy,1,2,0,0,50.00
+1155,1312199,RCB Vs Royals,RCB,10,Josh Hazlewood ,288284,not out ,1,2,0,0,50.00
+1156,1312199,RCB Vs Royals,Royals,1,Yashasvi Jaiswal ,1151278,c Kohli b Hazlewood,21,13,1,2,161.53
+1157,1312199,RCB Vs Royals,Royals,2,Jos Buttler ,308967,not out ,106,60,10,6,176.66
+1158,1312199,RCB Vs Royals,Royals,3,Sanju Samson (c)†,425943,st †Karthik b de Silva,23,21,1,2,109.52
+1159,1312199,RCB Vs Royals,Royals,4,Devdutt Padikkal ,1119026,c †Karthik b Hazlewood,9,12,0,0,75.00
+1160,1312199,RCB Vs Royals,Royals,5,Shimron Hetmyer ,670025,not out ,2,3,0,0,66.66
+1161,1312200,Royals Vs Titans,Royals,1,Yashasvi Jaiswal ,1151278,c Sai Kishore b Yash Dayal,22,16,1,2,137.50
+1162,1312200,Royals Vs Titans,Royals,2,Jos Buttler ,308967,c †Saha b Pandya,39,35,5,0,111.42
+1163,1312200,Royals Vs Titans,Royals,3,Sanju Samson (c)†,425943,c Sai Kishore b Pandya,14,11,2,0,127.27
+1164,1312200,Royals Vs Titans,Royals,4,Devdutt Padikkal ,1119026,c Mohammed Shami b Rashid Khan,2,10,0,0,20.00
+1165,1312200,Royals Vs Titans,Royals,5,Shimron Hetmyer ,670025,c & b Pandya,11,12,2,0,91.66
+1166,1312200,Royals Vs Titans,Royals,6,Ravichandran Ashwin ,26421,c Miller b Sai Kishore,6,9,0,0,66.66
+1167,1312200,Royals Vs Titans,Royals,7,Riyan Parag ,1079434, b Mohammed Shami,15,15,1,0,100.00
+1168,1312200,Royals Vs Titans,Royals,8,Trent Boult ,277912,c Tewatia b Sai Kishore,11,7,0,1,157.14
+1169,1312200,Royals Vs Titans,Royals,9,Obed McCoy ,906783,run out (Tewatia/Mohammed Shami),8,5,0,1,160.00
+1170,1312200,Royals Vs Titans,Royals,10,Prasidh Krishna ,917159,not out ,0,0,0,0,-
+1171,1312200,Royals Vs Titans,Titans,1,Wriddhiman Saha †,279810, b Prasidh Krishna,5,7,1,0,71.42
+1172,1312200,Royals Vs Titans,Titans,2,Shubman Gill ,1070173,not out ,45,43,3,1,104.65
+1173,1312200,Royals Vs Titans,Titans,3,Matthew Wade ,230193,c Parag b Boult,8,10,0,1,80.00
+1174,1312200,Royals Vs Titans,Titans,4,Hardik Pandya (c),625371,c Jaiswal b Chahal,34,30,3,1,113.33
+1175,1312200,Royals Vs Titans,Titans,5,David Miller ,321777,not out ,32,19,3,1,168.42
